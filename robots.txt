@@ -1,1 +1,1 @@
-Sitemap: /sitemap.xml
+Sitemap: https://padel-up.github.io/sitemap.xml
