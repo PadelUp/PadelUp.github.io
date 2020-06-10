@@ -1,14 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>https://padel-up.github.io/2018/11/13/racchetta-da-padel/</loc>
-<lastmod>2018-11-13T13:01:35+01:00</lastmod>
+<loc>https://padel-up.github.io/2020/06/09/racchetta-da-padel/</loc>
+<lastmod>2020-06-09T22:01:35+02:00</lastmod>
 </url>
 <url>
 <loc>https://padel-up.github.io/about/</loc>
 </url>
 <url>
 <loc>https://padel-up.github.io/</loc>
+</url>
+<url>
+<loc>https://padel-up.github.io/staff/</loc>
 </url>
 <url>
 <loc>https://padel-up.github.io/styleguide/</loc>
