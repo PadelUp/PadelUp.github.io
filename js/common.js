@@ -138,7 +138,7 @@ $(document).ready(function() {
   var accessToken = $('#instafeed').attr('data-accessToken');
   var instagramFeed = new Instafeed({
     get: 'user',
-    limit: 6,
+    limit: 9,
     resolution: 'standard_resolution',
     userId: userId,
     accessToken: accessToken,
