@@ -6,4 +6,3 @@ gem "jekyll-tagging"
 gem "jekyll-sitemap"
 gem "jekyll-browsersync", group: [:jekyll_plugins]
 gem "jekyll-seo-tag"
-gem 'jekyll-favicon', '~> 0.2.8', group: :jekyll_plugins
