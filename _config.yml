@@ -128,11 +128,6 @@ tag_page_dir:         tag
 tag_page_layout:      tag_page
 tag_permalink_style:  pretty
 
-# Favicon
-favicon:
-  source: images/logo/padelup.png
-  path: /images/favicon
-
 sass:
   sass_dir: _sass
   style: compressed
@@ -141,8 +136,6 @@ exclude:
   - .gitignore
   - .vscode
   - _pages/styleguide.md
-  - backup-site.command
-  - build-n-push-site.command
   - develop-site.command
 
 # Prevent files in _site from being deleted
