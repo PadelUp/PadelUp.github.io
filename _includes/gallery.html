@@ -1,0 +1,9 @@
+<div class="gallery-box">
+    <div class="gallery">
+        {% for image in site.gallery.images %}
+        <a href="https://www.instagram.com/padelup.it/" class="instagram-link">
+            <img src="{{site.baseurl}}{{image.url}}" alt="{{image.alt}}">
+        </a>
+        {% endfor %}
+    </div>
+</div>

@@ -1,0 +1,149 @@
+#-------------------------------
+# General Site Settings
+title: Padel Up
+logo: /images/logo/padelup.svg
+description: "Contenuti originali per un Padel di livello superiore. Recensioni, Guide, News e Approfondimenti"
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://www.padelup.it" # the base hostname & protocol for your site, e.g. http://example.com
+lang: it-IT
+
+#-------------------------------
+# SEO
+tagline: Il padel a tutto un altro livello. Recensioni, guide, news e approfondimenti sul mondo del paddle.
+
+social:
+  name: Padel Up
+  links:
+    - https://www.facebook.com/padelup.it
+    - https://www.instagram.com/padelup.it
+    - https://www.youtube.com/channel/UC7to2FLfn-TwnFcdZKUSG2A
+    - https://vm.tiktok.com/JeBEsdU/
+    - https://github.com/PadelUp
+
+author:
+  name: Padel Up
+  bio: >
+      Il padel a tutto un altro livello. Recensioni, guide, news e approfondimenti sul mondo del paddle.
+  image: /images/logo/padelup.svg
+  avatar: /images/logo/padelup.png
+
+webmaster_verifications:
+  bing: 7131F6AE898240743F6FDAE51E777C41
+  yandex: 445efe4600d6bcab
+  # alexa: 
+  # baidu: 
+
+#-------------------------------
+# Footer section
+contact:
+  - {icon: "ion-logo-instagram", link: "https://instagram.com/padelup.it"}
+  - {icon: "ion-logo-facebook", link: "https://www.facebook.com/padelup.it"}
+  - {icon: "ion-logo-youtube", link: "https://www.youtube.com/channel/UC7to2FLfn-TwnFcdZKUSG2A"}
+  - {icon: "ion-ios-musical-note", link: "https://vm.tiktok.com/JeBEsdU/"}
+
+
+#-------------------------------
+# Comment Section (Disqus)
+disqus-identifier: #mr.C. add your shortname for Disqus Comment. For example mr-brown
+
+
+#-------------------------------
+# Instagram Feed
+instafeed: false
+userID: 37269725689
+accessToken: "IGQVJWQldhZAWZA4cXNsbnpvNHZAfbVF1eXM2SHRRS0N2VkZAzNEtNTlhwY01na3lUXzYyeFo2VmJDeDU0WFNaZAUZAMR0tfQnBwN2l1MGNFX3h6bG9SdHRUTTZAjNE9MeEZAoQmlZAcmZAsWDBB"
+
+#-------------------------------
+# Gallery section (Footer)
+gallery:
+  name: Instagram
+  images:
+    - alt: 'Padel Up'
+      url: '/images/gallery/01.jpg'
+    - alt: 'Padel Up'
+      url: '/images/gallery/02.jpg'
+    - alt: 'Padel Up'
+      url: '/images/gallery/03.jpg'
+    - alt: 'Padel Up'
+      url: '/images/gallery/04.jpg'
+    - alt: 'Padel Up'
+      url: '/images/gallery/05.jpg'
+    - alt: 'Padel Up'
+      url: '/images/gallery/06.jpg'
+    - alt: 'Padel Up'
+      url: '/images/gallery/07.jpg'
+    - alt: 'Padel Up'
+      url: '/images/gallery/08.jpg'
+    - alt: 'Padel Up'
+      url: '/images/gallery/09.jpg'
+
+#-------------------------------
+# Google Analytics
+google-analytics: "UA-163557003-4"
+
+#-------------------------------
+# Newsletter
+mailchimp: false
+mailchimp-identifier: 
+
+#-------------------------------
+# Contact form
+formcarry: true
+formcarry-identifier: https://formcarry.com/s/Izvl0LCnVC0m
+
+#-------------------------------
+# Build settings
+markdown: kramdown
+permalink: pretty
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll/tagging
+  - jekyll-seo-tag
+
+collections:
+  authors:
+    output: false
+
+paginate: 7
+paginate_path: "/page/:num"
+
+# Pages Path
+defaults:
+  - scope:
+      path: '_pages'
+    values:
+      permalink: /:basename:output_ext
+  # seo image fallback
+  - scope:
+      path: ""
+    values:
+      image: /images/seo.jpg
+
+include:
+  - _pages
+
+# Tags
+tag_page_dir:         tag
+tag_page_layout:      tag_page
+tag_permalink_style:  pretty
+
+# Favicon
+favicon:
+  source: images/logo/padelup.png
+  path: /images/favicon
+
+sass:
+  sass_dir: _sass
+  style: compressed
+
+exclude:
+  - .gitignore
+  - .vscode
+  - _pages/styleguide.md
+  - backup-site.command
+  - build-n-push-site.command
+  - develop-site.command
+
+# Prevent files in _site from being deleted
+keep_files: ['CNAME', '.git', '.gitignore']

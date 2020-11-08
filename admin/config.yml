@@ -4,7 +4,7 @@ backend:
   branch: master
   site_domain: affectionate-euclid-874296.netlify.app
 
-media_folder: "assets/uploads"
+media_folder: "images/posts"
 
 collections:
   - name: "blog" # Used in routes, e.g., /admin/collections/blog
@@ -13,11 +13,11 @@ collections:
     create: true # Allow users to create new documents in this collection
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
     fields: # The fields for each document, usually in front matter
+      - {label: "Layout", name: "layout", widget: "hidden", default: "post"}
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Description", name: "description", widget: "string"}
       - {label: "Publish Date", name: "date", widget: "datetime"}
-      - {label: "Image", name: "image", widget: "string"}
+      - {label: "Featured Image", name: "image", widget: "image"}
       - {label: "Tags", name: "tags", widget: "list"}
       - {label: "Author", name: "author", widget: "string"}
-      - {label: "Assets", name: "assets", widget: "string"}
       - {label: "Body", name: "body", widget: "markdown"}

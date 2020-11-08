@@ -1,0 +1,29 @@
+{% assign author = site.authors | where: "name", page.author | first %}
+{% if author %}
+<div class="post-author">
+    {% if author.avatar %}
+    <a href="{{site.baseurl}}/staff" class="post-author__image" style="background-image: url({{ author.avatar }})" aria-label="{{ author.display_name }}"></a>
+    {% else %}
+    <a href="{{site.baseurl}}/staff" class="post-author__image" style="background-image: url(/images/user.jpg)" aria-label="{{author.display_name }}"></a>
+    {% endif %}
+
+    <div class="post-author__info">
+        <a class="post-author__name" href="{{site.baseurl}}/staff">{{ author.display_name }}  </a>
+        <small>- {{ author.position }}</small>
+        <p class="post-author__bio">{{ author.bio }}</p>
+        <div class="post-author__meta">
+            
+            <div class="contact_author">
+            <ul class="contact__list list-reset">
+            {% for social in author.social %}
+            <li class="contact__item">
+            <a class="contact__link" href="{{ social.link }}"><i class="ion ion-logo-{{ social.name }}"></i></a>
+            </li>
+            {% endfor %}
+            </ul>
+            </div>
+            
+        </div>
+    </div>
+</div>
+{% endif %}

@@ -1,0 +1,19 @@
+{% if site.formcarry == true %}
+<form id="form" class="newsletter-form validate" action="{{ site.formcarry-identifier }}" method="POST" accept-charset="UTF-8">
+    <div class="newsletter-group">
+        <div class="newsletter-group-top">
+            <input class="newsletter-email required email" type="text" name="first-name" id="form-first-name" placeholder="Nome" required>
+        </div>
+        <div class="newsletter-group-top">
+            <input class="newsletter-email required email" type="text" name="last-name" id="form-last-name" placeholder="Cognome" required>
+        </div>
+        <div class="newsletter-group-top">
+            <input class="newsletter-email required email" type="email" name="email" id="form-email" placeholder="E-Mail" required>
+        </div>
+        <div class="newsletter-group-top">
+            <textarea class="newsletter-email required email" name="message" id="form-message" placeholder="Messaggio" rows="3"></textarea>
+        </div>
+        <button class="newsletter-button" id="membedded-subscribe" type="submit" name="submit" value="Send">Invia</button>
+    </div>
+</form>
+{% endif %}

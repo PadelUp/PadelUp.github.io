@@ -1,0 +1,53 @@
+<!-- begin footer-widgets -->
+<section class="footer-widgets">
+  <div class="container">
+    <div class="row">
+      <div class="col col-12 col-d-10 push-d-1 col-m-12 push-m-0">
+        <div class="widgets-box">
+          <div class="row">
+            {% include recent-posts.html %}
+            <div class="col col-4 col-d-12 col-m-12">
+              <div class="widget widget-instagram">
+                <div class="widget__head">
+                  <h4 class="widget__title">Instagram</h4>
+                </div>
+                {% include gallery.html %}
+              </div>
+            </div>
+            
+            {% include mailchimp.html %}
+            <div class="col col-4 col-d-12 col-m-12">
+              <div class="widget widget-newsletter">
+                  <div class="widget__head">
+                      <h4 class="widget__title">Contattaci</h4>
+                  </div>
+                  {% include formcarry.html %}
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+<!-- end footer-widgets -->
+
+<!-- begin footer -->
+<footer class="footer">
+  <div class="container">
+    <div class="row">
+      <div class="col col-12 col-d-10 push-d-1 col-m-12 push-m-0">
+        <div class="footer__inner">
+          <div class="share-title">
+            Ci trovi anche su:
+          </div>
+          {% include contact-link.html %}
+          <div class="copyright">
+            {{site.time | date: '%Y'}} &copy; <a href="/"><strong>{{site.title}}</strong></a>. Developed & Designed by <a href="https://frescodesignworks.github.io"><strong>Fresco Design Works</strong></a>.
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</footer>
+<!-- end footer -->

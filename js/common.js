@@ -8,6 +8,7 @@ $(document).ready(function() {
     searchCloseIcon = $(".search__close"),
     searchBox = $(".search"),
     headerOverlay = $(".header__overlay"),
+    searchInput = $(".search__text"),
     html = $("html");
 
 
@@ -51,6 +52,9 @@ $(document).ready(function() {
     searchBox.addClass("is-visible");
     headerOverlay.addClass("is-visible");
     html.addClass("hide-scroll");
+    setTimeout(function () {
+      searchInput.focus();
+    }, 100);
   }
 
   function searchClose() {
@@ -129,26 +133,6 @@ $(document).ready(function() {
   ======================= */
   $(".page img, .post img").attr("data-action", "zoom");
   $(".page a img, .post a img").removeAttr("data-action", "zoom");
-
-
-  /* =======================
-  // Instagram Feed
-  ======================= */
-  // var userId = $('#instafeed').attr('data-userId');
-  // var accessToken = $('#instafeed').attr('data-accessToken');
-  // var instagramFeed = new Instafeed({
-  //   get: 'user',
-  //   limit: 9,
-  //   resolution: 'standard_resolution',
-  //   userId: userId,
-  //   accessToken: accessToken,
-  //   template:
-  //     '<li class="instagram-item"><a href="{{link}}" class="instagram-link" aria-label="{{caption}}" target="_blank"><img src="{{image}}" alt="{{caption}}"></a></li>'
-  // });
-
-  // if ($('#instafeed').length) {
-  //   instagramFeed.run();
-  // }
 
 
   /* =======================
