@@ -2,17 +2,16 @@
 {% if author %}
 <div class="post-author">
     {% if author.avatar %}
-    <a href="{{site.baseurl}}/staff" class="post-author__image" style="background-image: url({{ author.avatar }})" aria-label="{{ author.display_name }}"></a>
+    <a class="post-author__image" style="background-image: url({{ author.avatar }})" aria-label="{{ author.display_name }}"></a>
     {% else %}
-    <a href="{{site.baseurl}}/staff" class="post-author__image" style="background-image: url(/images/user.jpg)" aria-label="{{author.display_name }}"></a>
+    <a class="post-author__image" style="background-image: url(/images/staff/user.jpg)" aria-label="{{author.display_name }}"></a>
     {% endif %}
 
     <div class="post-author__info">
-        <a class="post-author__name" href="{{site.baseurl}}/staff">{{ author.display_name }}  </a>
+        <a class="post-author__name">{{ author.display_name }}  </a>
         <small>- {{ author.position }}</small>
         <p class="post-author__bio">{{ author.bio }}</p>
         <div class="post-author__meta">
-            
             <div class="contact_author">
             <ul class="contact__list list-reset">
             {% for social in author.social %}
@@ -22,7 +21,6 @@
             {% endfor %}
             </ul>
             </div>
-            
         </div>
     </div>
 </div>
