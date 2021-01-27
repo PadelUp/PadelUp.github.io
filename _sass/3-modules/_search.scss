@@ -6,7 +6,7 @@
   bottom: 0;
   width: 500px;
   z-index: 100;
-  background-color: #fff;
+  background-color: $light;
   transition: all 0.5s cubic-bezier(0.7, 0.4, 0, 1);
   &.is-visible {
     right: 0;
@@ -52,7 +52,7 @@
     font-weight: 600;
     line-height: 1;
     border: 0;
-    border-bottom: 1px solid $gray;
+    border-bottom: 1px solid $light-gray;
     color: $dark;
     &::-webkit-input-placeholder {
       font-weight: 600;
@@ -86,7 +86,7 @@
     margin-bottom: 15px;
     display: list-item;
     list-style-type: circle;
-    border-bottom: 1px solid $gray;
+    border-bottom: 1px solid $light-gray;
   }
 
   
@@ -106,7 +106,7 @@
     font-weight: 600;
     letter-spacing: -0.5px;
     text-transform: uppercase;
-    color: #b7b9c2;
+    color: $dark-gray;
   }
 
   .no-results {

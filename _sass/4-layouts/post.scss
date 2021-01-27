@@ -4,7 +4,7 @@
   padding: 50px 50px 0 50px;
   margin-top: -70px;
   border-radius: 5px;
-  background-color: #fff;
+  background-color: $light;
   animation: animateElement cubic-bezier(.300,.450,.450,.950) .75s;
   animation-duration: 0.75s;
   animation-iteration-count: 1;
@@ -62,7 +62,7 @@
   font-size: 0.75rem;
   text-transform: uppercase;
   letter-spacing: -0.2px;
-  color: #b7b9c2;
+  color: $dark-gray;
 }
 
 .post-tags .post-tags__tag {
@@ -83,7 +83,7 @@
       width: 3px;
       margin: 0 .5rem 0 .5rem;
       border-radius: 50%;
-      background-color: #b7b9c2;
+      background-color: $dark-gray;
     }
   }
 }
@@ -134,7 +134,7 @@
       display: block;
       width: calc(100% - 145px);
       height: 1px;
-      background: $gray;
+      background: $light-gray;
     }
     .share__item {
       display: inline-block;
@@ -167,7 +167,7 @@
   display: flex;
   padding: 50px 0;
   // margin-bottom: 60px;
-  // border-bottom: 1px solid $gray;
+  // border-bottom: 1px solid $light-gray;
 
   .post-author__image {
     position: relative;
@@ -180,7 +180,7 @@
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
-    background-color: $blue-gray;
+    background-color: $dark-gray;
     &:hover {
       &::after {
         opacity: 1;
@@ -225,7 +225,7 @@
     margin-right: 10px;
     font-size: 0.75rem;
     line-height: 1;
-    color: $blue-gray;
+    color: $dark-gray;
     &:hover {
       color: $brand-color;
     }
@@ -270,7 +270,7 @@
   border-radius: 15px;
   border: none;
   outline: none;
-  color: #fff;
+  color: $light;
   background-color: $brand-color;
   transition: all .2s ease-in-out;
   cursor: pointer;
