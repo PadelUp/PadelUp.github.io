@@ -40,7 +40,7 @@
     position: absolute;
     right: 0;
     top: 3px;
-    font-size: 25px;
+    font-size: 1.5rem;
     cursor: pointer;
   }
 
@@ -48,25 +48,25 @@
     width: 100%;
     height: auto;
     padding: 0 20px 15px 0;
-    font-size: 27px;
-    font-weight: 700;
+    font-size: 1.75rem;
+    font-weight: 600;
     line-height: 1;
     border: 0;
     border-bottom: 1px solid $gray;
     color: $dark;
     &::-webkit-input-placeholder {
-      font-weight: 700;
+      font-weight: 600;
       color: $dark;
     }
     &::placeholder {
-      font-weight: 700;
+      font-weight: 600;
       color: $dark;
     }
     &::-ms-clear {
       display: none;
     }
     @media only screen and (max-width: $mobile) {
-      font-size: 30px;
+      font-size: 1.875rem;
     }
   }
 }
@@ -75,7 +75,7 @@
   height: 55vh;
   padding: 0 0 25px 10px;
   list-style: decimal;
-  font-weight: 700;
+  font-weight: 600;
   color: $dark;
   overflow: auto;
   white-space: normal;
@@ -92,18 +92,18 @@
   
   .search-results__link {
     display: block;
-    font-size: 16px;
-    line-height: 24px;
-    font-weight: 700;
+    font-size: 1rem;
+    line-height: 1.5rem;
+    font-weight: 600;
     &:hover {
       color: $brand-color;
     }
   }
 
   .search-results-date {
-    font-size: 12px;
+    font-size: 0.75rem;
     line-height: 1;
-    font-weight: 700;
+    font-weight: 600;
     letter-spacing: -0.5px;
     text-transform: uppercase;
     color: #b7b9c2;
@@ -113,7 +113,7 @@
     margin-left: -10px;
     list-style: none;
     h3 {
-      font-size: 18px;
+      font-size: 1.125rem;
     }
   }
 }

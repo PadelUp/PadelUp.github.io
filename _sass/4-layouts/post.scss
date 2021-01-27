@@ -59,7 +59,7 @@
 
 .post-tags .post-tags__tag,
 .post-date { 
-  font-size: 12px;
+  font-size: 0.75rem;
   text-transform: uppercase;
   letter-spacing: -0.2px;
   color: #b7b9c2;
@@ -97,13 +97,13 @@
 }
 
 .post-title {
-  font-size: 37px;
-  line-height: 57px;
+  font-size: 2.25rem;
+  line-height: 3.5rem;
   margin-bottom: 20px;
   text-align: center;
   @media only screen and (max-width: $tablet) {
-    font-size: 26px;
-    line-height: 36px;
+    font-size: 1.625rem;
+    line-height: 2.25rem;
     margin-bottom: 20px;
   }
 }
@@ -113,8 +113,8 @@
   display: flex;
   align-items: center;
   .share__title {
-    font-size: 12px;
-    font-weight: 700;
+    font-size: 0.75rem;
+    font-weight: 600;
     line-height: initial;
     text-transform: uppercase;
     letter-spacing: 1.3px;
@@ -144,7 +144,7 @@
 
     .share__link {
       display: inline-block;
-      font-size: 17px;
+      font-size: 1rem;
       transition: all .2s;
       &.share__facebook {
         color: #3b5998;
@@ -206,14 +206,14 @@
   .post-author__name {
     display: inline-block;
     margin-bottom: 10px;
-    font-size: 18px;
-    line-height: 18px;
-    font-weight: 700;
+    font-size: 1.125rem;
+    line-height: 1.125rem;
+    font-weight: 600;
   }
 
   .post-author__bio {
-    font-size: 16px;
-    line-height: 24px;
+    font-size: 1rem;
+    line-height: 1.25rem;
     margin-bottom: 10px;
   }
 
@@ -223,7 +223,7 @@
 
   .post-author__link {
     margin-right: 10px;
-    font-size: 12px;
+    font-size: 0.75rem;
     line-height: 1;
     color: $blue-gray;
     &:hover {
@@ -262,9 +262,9 @@
   display: inline-block;
   min-width: 155px;
   padding: 15px 30px;
-  font-size: 12px;
-  line-height: 22px;
-  font-weight: 700;
+  font-size: 0.75rem;
+  line-height: 1.375rem;
+  font-weight: 600;
   text-transform: uppercase;
   letter-spacing: 1.3px;
   border-radius: 15px;

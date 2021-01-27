@@ -34,9 +34,9 @@
   position: relative;
   padding: 15px 0;
   margin-bottom: 30px;
-  font-size: 14px;
+  font-size: 0.875rem;
   text-align: center;
-  letter-spacing: 1.3px;
+  // letter-spacing: 1.3px;
   text-transform: uppercase;
   background-color: $gray;
 }
@@ -116,14 +116,14 @@
 
 .recent-posts__title {
   margin-bottom: 0;
-  font-size: 16px;
-  line-height: 24px;
+  font-size: 1rem;
+  line-height: 1.5rem;
 }
 
 .recent-posts__date {
   margin-bottom: 5px;
-  font-size: 12px;
-  line-height: 16px;
+  font-size: 0.75rem;
+  line-height: 1rem;
   letter-spacing: -0.2px;
   text-transform: uppercase;
   color: #b7b9c2;
