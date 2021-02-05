@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Mission
+title: mission
 permalink: /mission/
 image: /images/mission/about.jpg
 ---

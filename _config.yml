@@ -94,6 +94,18 @@ plugins:
 collections:
   authors:
     output: false
+  racchette:
+    output: true
+    permalink: /wiki/racchette/:title/
+  brands:
+    output: true
+    permalink: /wiki/racchette/:title/
+  sections:
+    output: true
+    permalink: /wiki/:title/
+  vips:
+    output: true
+    permalink: /wiki/vips/:categories/:title/
 
 paginate: 7
 paginate_path: "/page/:num"
@@ -101,9 +113,24 @@ paginate_path: "/page/:num"
 # Pages Path
 defaults:
   - scope:
+      path: ""
+      type: "racchette"
+    values:
+      layout: "racchetta"
+  - scope:
+      path: ""
+      type: "brands"
+    values:
+      layout: "grid-racchette"
+  - scope:
+      path: ""
+      type: "sections"
+    values:
+      layout: "grid"
+  - scope:
       path: '_pages'
     values:
-      permalink: /:basename:output_ext
+      layout: "page"
   # seo image fallback
   - scope:
       path: ""
@@ -122,6 +149,3 @@ exclude:
   - .vscode
   - _pages/styleguide.md
   - develop-site.command
-
-# Prevent files in _site from being deleted
-keep_files: ['CNAME', '.git', '.gitignore']

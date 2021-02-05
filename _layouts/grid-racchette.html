@@ -1,0 +1,10 @@
+---
+layout: grid
+---
+
+{% assign racchette = site.racchette | sort: 'index' | reverse %}
+{% for racchetta in racchette %}
+  {% if racchetta.brand == page.title %}
+    {% include racchette.html %}
+  {% endif %}
+{% endfor %}

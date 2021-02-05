@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Staff
+title: staff
 permalink: /staff/
 image: /images/staff/staff.jpg
 ---

@@ -1,0 +1,138 @@
+---
+layout: default
+---
+
+
+{% assign  racchette_brand = site.racchette | sort: "index" | reversed | where:"brand", page.brand %}
+  
+{% for racchetta in racchette_brand %}
+{% if racchetta.title == page.title %}
+
+    {% unless forloop.first %}
+        {% assign prevurl = prev.url %}
+
+        {% assign prevtitle = prev.title %}
+    {% endunless %}
+
+    {% unless forloop.last %}
+        {% assign next = racchette_brand[forloop.index] %}
+        {% assign nexturl = next.url %}
+        {% assign nexttitle = next.title %}
+    {% endunless %}
+
+{% endif %}
+
+{% assign prev = racchetta %}
+{% endfor %}
+
+
+{% if page.image %}
+<div class="container">
+  <div class="row">
+    <div class="col col-12 col-d-10 push-d-1 col-m-12 push-m-0">
+      {% if page.parent %}
+      <div class="article__btn">
+        <a href="{{ page.parent | prepend: site.baseurl }}" class="read-more"><i class="ion ion-ios-arrow-back"></i> Indietro</a>
+      </div>  
+      {% endif %}
+      <div class="post-head">
+        <div class="post-info">
+        </div>
+        <h1 class="post-title">{{ page.title | escape }}</h1>
+      </div>
+      <div class="image-box">
+        <img class="post-image racchette" src="{{site.baseurl}}{{ page.image_dir }}{{ page.image }}" alt="{{page.title}}">
+      </div>
+    </div>
+  </div>
+</div>
+{% endif %}
+
+<div class="container">
+  <div class="row">
+    <div class="col col-8 push-2 col-d-10 col-m-12 push-d-1 push-m-0">
+ 
+      <!-- begin post -->
+      <article class="post giu">
+
+        <div class="post__content">
+          <!-- <img src="{{site.baseurl}}{{ page.image_dir }}{{ page.image }}" alt=""> -->
+          <h2>Descrizione</h2>
+
+          {{ content }}
+
+          <h2>Caratteristiche</h2>
+          
+          {% if page.year %}
+          <li>
+            Anno: {{ page.year | capitalize }}
+          </li>
+          {% endif %}
+
+          {% if page.price %}
+          <li>
+            Prezzo: {{ page.price | capitalize }}€
+          </li>
+          {% endif %}
+
+          {% if page.forma %}
+          <li>
+            Forma: {{ page.forma | capitalize }}
+          </li>
+          {% endif %}
+
+          {% if page.bilanciamento %}
+          <li>
+            Bilanciamento: {{ page.bilanciamento | capitalize }}
+          </li>
+          {% endif %}
+
+          {% if page.peso %}
+          <li>
+            Peso: {{ page.peso | capitalize }}gr
+          </li>
+          {% endif %}
+
+          {% if page.livello %}
+          <li>
+            Livello di gioco consigliato: {{ page.livello | capitalize }}
+          </li>
+          {% endif %}
+
+          {% if page.materiale %}
+          <li>
+            Materiale: {{ page.materiale | capitalize }}
+          </li>
+          {% endif %}
+
+          {% if page.gomma %}
+          <li>
+            Gomma: {{ page.gomma | capitalize }}
+          </li>
+          {% endif %}
+
+          {% if page.superficie %}
+          <li>
+            Superficie del piatto: {{ page.superficie | capitalize }}
+          </li>
+          {% endif %}
+
+          <br>
+          {% if prevurl or nexturl %}
+          <div class="article__btn">
+              {% if prevurl %}<a href="{{prevurl}}" class="read-more" style="float: left;"><i class="ion ion-ios-arrow-back"></i> precedente</a>{% endif %}                    
+              {% if nexturl %}<a href="{{nexturl}}" class="read-more" style="float: right;">successiva <i class="ion ion-ios-arrow-forward"></i></a>{% endif %}
+          </div>
+          {% endif %}
+          <br>
+        </div>
+
+        {% if site.disqus-identifier %} {% include disqus-comments.html %} {% endif %}
+
+      </article>
+      <!-- end post -->
+      
+    </div>
+
+  </div>
+</div>
