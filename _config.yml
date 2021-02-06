@@ -148,4 +148,3 @@ exclude:
   - .gitignore
   - .vscode
   - _pages/styleguide.md
-  - develop-site.command
