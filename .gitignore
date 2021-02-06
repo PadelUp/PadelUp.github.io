@@ -1,6 +1,4 @@
 .DS_Store
 .vscode
 .jekyll-cache
-*.csv
-*.py
 _site
