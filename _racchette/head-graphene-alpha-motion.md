@@ -1,14 +1,14 @@
 ---
-id: head-graphene-apha-motion
+id: head-graphene-alpha-motion
 parent: /wiki/racchette/head/
-permalink: /wiki/racchette/head/graphene-apha-motion/
+permalink: /wiki/racchette/head/graphene-alpha-motion/
 image_dir: /images/wiki/racchette/
-image: head-graphene-apha-motion.jpg
-title: Head Graphene Apha Motion
+image: head-graphene-alpha-motion.jpg
+title: Head Graphene Alpha Motion
 brand: Head
-model: Graphene Apha Motion
+model: Graphene Alpha Motion
 marca: head
-modello: graphene apha motion
+modello: graphene alpha motion
 anno: '2021'
 prezzo: '240'
 forma: diamante
