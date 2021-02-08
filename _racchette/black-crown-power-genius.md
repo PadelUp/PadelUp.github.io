@@ -5,7 +5,7 @@ permalink: /wiki/racchette/black-crown/power-genius/
 image_dir: /images/wiki/racchette/
 image: black-crown-power-genius.jpg
 title: Black Crown Power Genius
-brand: Black Crown
+brand: black-crown
 model: Power Genius
 marca: black crown
 modello: power genius
@@ -19,5 +19,5 @@ materiale: carbonio 12k
 gomma: EVA black
 superficie: ruvida
 index: ''
-content: ''
 ---
+modello per giocatori di spinta, offre la massima potenza del colpo grazie al carbonio 12k e una gomma Black EVA. Questo modello ha una forma a goccia e una superficie ruvida.

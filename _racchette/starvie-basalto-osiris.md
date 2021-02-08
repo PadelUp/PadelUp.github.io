@@ -5,7 +5,7 @@ permalink: /wiki/racchette/starvie/basalto-osiris/
 image_dir: /images/wiki/racchette/
 image: starvie-basalto-osiris.jpg
 title: Starvie Basalto Osiris
-brand: Starvie
+brand: starvie
 model: Basalto Osiris
 marca: starvie
 modello: basalto osiris
@@ -19,5 +19,5 @@ materiale: carbonio
 gomma: EVA soft
 superficie: ruvida
 index: ''
-content: ''
 ---
+altra pala che incorpora le migliori tecnologie del brand spagnolo, ha una forma a lacrima e un piatto ruvido per imprimere potenza e rotazioni al colpo. La gomma interna EVA Soft riduce le vibrazioni e ammortizza il colpo.

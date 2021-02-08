@@ -5,7 +5,7 @@ permalink: /wiki/racchette/vibor-a/yarara-edition/
 image_dir: /images/wiki/racchette/
 image: vibor-a-yarara-edition.jpg
 title: Vibor-A Yarara Edition
-brand: Vibor-A
+brand: vibor-a
 model: Yarara Edition
 marca: vibor-a
 modello: yarara edition
@@ -19,5 +19,5 @@ materiale: carbonio+
 gomma: EVA black soft
 superficie: ruvida
 index: ''
-content: ''
 ---
+racchetta ideale per il controllo e per giocatori difensivi che non vogliono rinunciare alla spinta che contraddistingue questa marca. Ha una superficie ruvida ed una tecnologia di Liquid Technology in grado di adattarsi al giocatore.

@@ -6,4 +6,5 @@ image_dir: /images/wiki/brands/
 image: dropshot.jpg
 title: Dropshot
 brand: dropshot
+marca: dropshot
 ---

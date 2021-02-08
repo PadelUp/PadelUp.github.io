@@ -5,19 +5,19 @@ permalink: /wiki/racchette/bullpadel/flow-light/
 image_dir: /images/wiki/racchette/
 image: bullpadel-flow-light.jpg
 title: Bullpadel Flow Light
-brand: Bullpadel
+brand: bullpadel
 model: Flow Light
 marca: bullpadel
 modello: flow light
 anno: '2021'
-prezzo: ''
+prezzo: '140'
 forma: goccia
 bilanciamento: medio
-peso: ''
+peso: 360-370
 livello: intermedio
 materiale: carbonio
 gomma: EVA soft
 superficie: liscia
 index: ''
-content: ''
 ---
+racchetta dal peso decisamente inferiore dello stesso modello utilizzato dalla giocatrice professionista Alejandra Salazar, pensata per giocatori e giocatrici di livello amatoriale/intermedio.

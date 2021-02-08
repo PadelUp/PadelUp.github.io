@@ -5,19 +5,19 @@ permalink: /wiki/racchette/babolat/air-veron-2021/
 image_dir: /images/wiki/racchette/
 image: babolat-air-veron-2021.jpg
 title: Babolat Air Veron 2021
-brand: Babolat
+brand: babolat
 model: Air Veron 2021
 marca: babolat
 modello: air veron 2021
 anno: '2021'
 prezzo: '220'
-forma: ''
+forma: diamante
 bilanciamento: ''
-peso: ''
-livello: ''
-materiale: ''
-gomma: ''
-superficie: ''
+peso: 345-360
+livello: avanzato/intermedio
+materiale: carbonio
+gomma: multi eva
+superficie: liscia
 index: ''
-content: ''
 ---
+altro modello top di gamma, indirizzato alla potenza del colpo, ideale per giocatori di livello avanzato che cercano anche il controllo del colpo oltre alla pure potenza; questo grazie al nucleo in gomma EVA e al bilanciamento centrale.

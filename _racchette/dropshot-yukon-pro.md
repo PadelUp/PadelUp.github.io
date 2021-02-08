@@ -5,15 +5,15 @@ permalink: /wiki/racchette/dropshot/yukon-pro/
 image_dir: /images/wiki/racchette/
 image: dropshot-yukon-pro.jpg
 title: Dropshot Yukon Pro
-brand: Dropshot
+brand: dropshot
 model: Yukon Pro
 marca: dropshot
 modello: yukon pro
 anno: '2021'
 prezzo: '230'
 forma: goccia
-bilanciamento: ''
-peso: ''
+bilanciamento: medio
+peso: 360-380
 livello: esperto
 materiale: carbonio 24k
 gomma: EVA soft

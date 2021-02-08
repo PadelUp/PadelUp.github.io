@@ -5,15 +5,15 @@ permalink: /wiki/racchette/dropshot/explorer-pro-3.0/
 image_dir: /images/wiki/racchette/
 image: dropshot-explorer-pro-3.0.jpg
 title: Dropshot Explorer Pro 3.0
-brand: Dropshot
+brand: dropshot
 model: Explorer Pro 3.0
 marca: dropshot
 modello: explorer pro 3.0
 anno: '2021'
 prezzo: '210'
 forma: rotonda
-bilanciamento: ''
-peso: ''
+bilanciamento: medio
+peso: 360-380
 livello: intermedio
 materiale: carbonio 12k
 gomma: EVA tech e soft

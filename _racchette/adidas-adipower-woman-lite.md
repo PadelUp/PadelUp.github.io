@@ -5,7 +5,7 @@ permalink: /wiki/racchette/adidas/adipower-woman-lite/
 image_dir: /images/wiki/racchette/
 image: adidas-adipower-woman-lite.jpg
 title: Adidas Adipower Woman Lite
-brand: Adidas
+brand: adidas
 model: Adipower Woman Lite
 marca: adidas
 modello: adipower woman lite

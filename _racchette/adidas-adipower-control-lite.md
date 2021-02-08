@@ -5,7 +5,7 @@ permalink: /wiki/racchette/adidas/adipower-control-lite/
 image_dir: /images/wiki/racchette/
 image: adidas-adipower-control-lite.jpg
 title: Adidas Adipower Control Lite
-brand: Adidas
+brand: adidas
 model: Adipower Control Lite
 marca: adidas
 modello: adipower control lite

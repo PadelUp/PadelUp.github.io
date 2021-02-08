@@ -5,7 +5,7 @@ permalink: /wiki/racchette/black-crown/piton-9.0-soft/
 image_dir: /images/wiki/racchette/
 image: black-crown-piton-9.0-soft.jpg
 title: Black Crown Piton 9.0 Soft
-brand: Black Crown
+brand: black-crown
 model: Piton 9.0 Soft
 marca: black crown
 modello: piton 9.0 soft

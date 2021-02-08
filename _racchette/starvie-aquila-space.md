@@ -5,7 +5,7 @@ permalink: /wiki/racchette/starvie/aquila-space/
 image_dir: /images/wiki/racchette/
 image: starvie-aquila-space.jpg
 title: Starvie Aquila Space
-brand: Starvie
+brand: starvie
 model: Aquila Space
 marca: starvie
 modello: aquila space
@@ -19,5 +19,5 @@ materiale: carbonio
 gomma: EVA soft
 superficie: ruvida
 index: ''
-content: ''
 ---
+modello uguale all’omonimo Pro con la differenza di essere più morbida grazie all’utilizzo di una gomma EVA Soft.

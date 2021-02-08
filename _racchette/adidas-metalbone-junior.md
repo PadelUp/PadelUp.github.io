@@ -5,7 +5,7 @@ permalink: /wiki/racchette/adidas/metalbone-junior/
 image_dir: /images/wiki/racchette/
 image: adidas-metalbone-junior.jpg
 title: Adidas Metalbone Junior
-brand: Adidas
+brand: adidas
 model: Metalbone Junior
 marca: adidas
 modello: metalbone junior
@@ -13,7 +13,7 @@ anno: '2021'
 prezzo: '100'
 forma: diamante
 bilanciamento: medio
-peso: ''
+peso: 330-345
 livello: junior
 materiale: fibra di vetro
 gomma: EVA soft performance

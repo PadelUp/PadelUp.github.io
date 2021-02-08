@@ -5,7 +5,7 @@ permalink: /wiki/racchette/adidas/rx20-light/
 image_dir: /images/wiki/racchette/
 image: adidas-rx20-light.jpg
 title: Adidas Rx20 Light
-brand: Adidas
+brand: adidas
 model: Rx20 Light
 marca: adidas
 modello: rx20 light

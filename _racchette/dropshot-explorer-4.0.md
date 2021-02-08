@@ -5,7 +5,7 @@ permalink: /wiki/racchette/dropshot/explorer-4.0/
 image_dir: /images/wiki/racchette/
 image: dropshot-explorer-4.0.jpg
 title: Dropshot Explorer 4.0
-brand: Dropshot
+brand: dropshot
 model: Explorer 4.0
 marca: dropshot
 modello: explorer 4.0
@@ -13,7 +13,7 @@ anno: '2021'
 prezzo: '170'
 forma: goccia
 bilanciamento: ''
-peso: ''
+peso: 360-370
 livello: intermedio
 materiale: carbonio 3k
 gomma: EVA pro

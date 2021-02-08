@@ -5,7 +5,7 @@ permalink: /wiki/racchette/adidas/match-3.0-light/
 image_dir: /images/wiki/racchette/
 image: adidas-match-3.0-light.jpg
 title: Adidas Match 3.0 Light
-brand: Adidas
+brand: adidas
 model: Match 3.0 Light
 marca: adidas
 modello: match 3.0 light

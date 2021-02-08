@@ -5,7 +5,7 @@ permalink: /wiki/racchette/babolat/counter-viper-2021/
 image_dir: /images/wiki/racchette/
 image: babolat-counter-viper-2021.jpg
 title: Babolat Counter Viper 2021
-brand: Babolat
+brand: babolat
 model: Counter Viper 2021
 marca: babolat
 modello: counter viper 2021

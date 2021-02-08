@@ -5,7 +5,7 @@ permalink: /wiki/racchette/starvie/metheora/
 image_dir: /images/wiki/racchette/
 image: starvie-metheora.jpg
 title: Starvie Metheora
-brand: Starvie
+brand: starvie
 model: Metheora
 marca: starvie
 modello: metheora
@@ -19,5 +19,5 @@ materiale: carbonio
 gomma: EVA soft
 superficie: ruvida
 index: ''
-content: ''
 ---
+racchetta ufficiale del giocatore World Padel Tour Mati Diaz, la pala più famosa del brand, ha un formato tondo e un punto di impatto ottimale ampio. Ideale per giocatori di controllo ma che grazie al suo bilanciamento alto consente una buona spinta della palla. Ideale per giocatori di livello avanzato.

@@ -5,7 +5,7 @@ permalink: /wiki/racchette/starvie/dronos-galaxy/
 image_dir: /images/wiki/racchette/
 image: starvie-dronos-galaxy.jpg
 title: Starvie Dronos Galaxy
-brand: Starvie
+brand: starvie
 model: Dronos Galaxy
 marca: starvie
 modello: dronos galaxy
@@ -19,5 +19,5 @@ materiale: carbonio
 gomma: EVA soft densa
 superficie: ruvida
 index: ''
-content: ''
 ---
+racchetta ideata per cercare un bilanciamento ottimale tra potenza e controllo, rendendo le due fasi di gioco confortevoli. Incorpora la tecnologia Star Balance in mezzo alla racchetta oltre alla tecnologia Aluminium Core System.

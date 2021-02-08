@@ -6,5 +6,7 @@ permalink: /wiki/
 ---
 
 {% for section in site.sections %}
-  {% include section.html %}
+  {% unless section.exclude %}
+  {% include sections.html %}
+  {% endunless %}
 {% endfor %}

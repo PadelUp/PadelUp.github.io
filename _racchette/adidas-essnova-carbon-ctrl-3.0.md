@@ -5,7 +5,7 @@ permalink: /wiki/racchette/adidas/essnova-carbon-ctrl-3.0/
 image_dir: /images/wiki/racchette/
 image: adidas-essnova-carbon-ctrl-3.0.jpg
 title: Adidas Essnova Carbon Ctrl 3.0
-brand: Adidas
+brand: adidas
 model: Essnova Carbon Ctrl 3.0
 marca: adidas
 modello: essnova carbon ctrl 3.0

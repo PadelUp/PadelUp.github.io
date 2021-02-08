@@ -5,7 +5,7 @@ permalink: /wiki/racchette/dropshot/cristal-2.0/
 image_dir: /images/wiki/racchette/
 image: dropshot-cristal-2.0.jpg
 title: Dropshot Cristal 2.0
-brand: Dropshot
+brand: dropshot
 model: Cristal 2.0
 marca: dropshot
 modello: cristal 2.0
@@ -13,7 +13,7 @@ anno: '2021'
 prezzo: '170'
 forma: goccia
 bilanciamento: ''
-peso: ''
+peso: 340-375
 livello: intermedio
 materiale: carbonio 3k
 gomma: EVA soft

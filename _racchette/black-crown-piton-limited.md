@@ -5,7 +5,7 @@ permalink: /wiki/racchette/black-crown/piton-limited/
 image_dir: /images/wiki/racchette/
 image: black-crown-piton-limited.jpg
 title: Black Crown Piton Limited
-brand: Black Crown
+brand: black-crown
 model: Piton Limited
 marca: black crown
 modello: piton limited
@@ -19,5 +19,5 @@ materiale: carbonio 3k
 gomma: EVA white
 superficie: ruvida
 index: ''
-content: ''
 ---
+edizione limitata del modello più famoso del brand, la Piton torna con un look total Black misto a a un Whittier-gold. Costruzione in carbonio 3k e gomma EVA White, consente un elevato controllo grazie anche alla sua forma rotonda.

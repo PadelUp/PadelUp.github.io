@@ -1,0 +1,23 @@
+---
+id: nox-x-one-c.6-casual-series
+parent: /wiki/racchette/nox/
+permalink: /wiki/racchette/nox/x-one-c.6-casual-series/
+image_dir: /images/wiki/racchette/
+image: nox-x-one-c.6-casual-series.jpg
+title: Nox X-One C.6 Casual Series
+brand: nox
+model: X-One C.6 Casual Series
+marca: Nox
+modello: 'x-one c.6 casual series '
+anno: '2021'
+prezzo: '68'
+forma: rotonda
+bilanciamento: medio
+peso: 360-375
+livello: principiante/intermedio
+materiale: fibra di vetro
+gomma: HR3
+superficie: liscia
+index: ''
+---
+racchetta per giocatori principianti ha una forma tonda e un punto ottimale d’impatto ampio, fibra di vetro e gomma HR3 con una superficie liscia.

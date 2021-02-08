@@ -5,7 +5,7 @@ permalink: /wiki/racchette/starvie/triton/
 image_dir: /images/wiki/racchette/
 image: starvie-triton.jpg
 title: Starvie Triton
-brand: Starvie
+brand: starvie
 model: Triton
 marca: starvie
 modello: triton
@@ -19,5 +19,5 @@ materiale: carbonio
 gomma: EVA soft
 superficie: ruvida
 index: ''
-content: ''
 ---
+modello identico al Triton Pro con la differenza dell’utilizzo di una gomma EVA Soft per un maggior controllo della palla.

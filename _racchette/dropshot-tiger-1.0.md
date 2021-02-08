@@ -5,7 +5,7 @@ permalink: /wiki/racchette/dropshot/tiger-1.0/
 image_dir: /images/wiki/racchette/
 image: dropshot-tiger-1.0.jpg
 title: Dropshot Tiger 1.0
-brand: Dropshot
+brand: dropshot
 model: Tiger 1.0
 marca: dropshot
 modello: tiger 1.0
@@ -13,7 +13,7 @@ anno: '2021'
 prezzo: '55'
 forma: rotonda
 bilanciamento: ''
-peso: ''
+peso: 330-345
 livello: baby
 materiale: fibra di vetro
 gomma: full EVA

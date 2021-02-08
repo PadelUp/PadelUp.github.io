@@ -5,15 +5,15 @@ permalink: /wiki/racchette/dropshot/x-celerator/
 image_dir: /images/wiki/racchette/
 image: dropshot-x-celerator.jpg
 title: Dropshot X-Celerator
-brand: Dropshot
+brand: dropshot
 model: X-Celerator
 marca: dropshot
 modello: x-celerator
 anno: '2021'
 prezzo: '240'
 forma: goccia
-bilanciamento: ''
-peso: ''
+bilanciamento: medio
+peso: 360-380
 livello: esperto
 materiale: carbonio 24k
 gomma: EVA tech

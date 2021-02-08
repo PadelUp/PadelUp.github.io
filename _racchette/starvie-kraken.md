@@ -5,7 +5,7 @@ permalink: /wiki/racchette/starvie/kraken/
 image_dir: /images/wiki/racchette/
 image: starvie-kraken.jpg
 title: Starvie Kraken
-brand: Starvie
+brand: starvie
 model: Kraken
 marca: starvie
 modello: kraken
@@ -19,5 +19,5 @@ materiale: carbonio
 gomma: EVA soft
 superficie: liscia
 index: ''
-content: ''
 ---
+modello uguale all’omonimo Pro con la differenza di essere più morbida grazie all’utilizzo di una gomma EVA Soft

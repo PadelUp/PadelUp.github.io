@@ -5,19 +5,19 @@ permalink: /wiki/racchette/bullpadel/k3/
 image_dir: /images/wiki/racchette/
 image: bullpadel-k3.jpg
 title: Bullpadel K3
-brand: Bullpadel
+brand: bullpadel
 model: K3
 marca: bullpadel
 modello: k3
 anno: '2021'
-prezzo: ''
+prezzo: '160'
 forma: rotonda
 bilanciamento: medio
-peso: ''
+peso: 365-380
 livello: intermedio
 materiale: carbonio
 gomma: EVA
 superficie: liscia
 index: ''
-content: ''
 ---
+modello progettato per il controllo, infatti la sua forma è rotonda e un bilanciamento in basso per favorire il controllo della palla, con la peculiarità di un piatto ruvido e la tecnologia Double Brige inserita nel cuore per un maggior controllo.

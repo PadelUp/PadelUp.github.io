@@ -5,7 +5,7 @@ permalink: /wiki/racchette/babolat/air-viper-2021/
 image_dir: /images/wiki/racchette/
 image: babolat-air-viper-2021.jpg
 title: Babolat Air Viper 2021
-brand: Babolat
+brand: babolat
 model: Air Viper 2021
 marca: babolat
 modello: air viper 2021

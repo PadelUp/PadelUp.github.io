@@ -5,7 +5,7 @@ permalink: /wiki/racchette/adidas/metalbone-ctrl/
 image_dir: /images/wiki/racchette/
 image: adidas-metalbone-ctrl.jpg
 title: Adidas Metalbone Ctrl
-brand: Adidas
+brand: adidas
 model: Metalbone Ctrl
 marca: adidas
 modello: 'metalbone ctrl  '

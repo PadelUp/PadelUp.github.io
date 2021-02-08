@@ -5,7 +5,7 @@ permalink: /wiki/racchette/dropshot/allegra/
 image_dir: /images/wiki/racchette/
 image: dropshot-allegra.jpg
 title: Dropshot Allegra
-brand: Dropshot
+brand: dropshot
 model: Allegra
 marca: dropshot
 modello: allegra
@@ -13,7 +13,7 @@ anno: '2021'
 prezzo: '170'
 forma: goccia
 bilanciamento: ''
-peso: ''
+peso: 360-380
 livello: intermedio post-infortunio
 materiale: carbonio 3k
 gomma: EVA pro

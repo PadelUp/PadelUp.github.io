@@ -5,19 +5,19 @@ permalink: /wiki/racchette/nox/ml10-shotgun-luxury-series/
 image_dir: /images/wiki/racchette/
 image: nox-ml10-shotgun-luxury-series.jpg
 title: Nox Ml10 Shotgun Luxury Series
-brand: Nox
+brand: nox
 model: Ml10 Shotgun Luxury Series
 marca: nox
 modello: ML10 shotgun luxury series
 anno: '2021'
 prezzo: '288'
 forma: goccia
-bilanciamento: ''
+bilanciamento: medio
 peso: 360-375
 livello: avanzato
 materiale: carbonio 12k
 gomma: HR3
 superficie: ruvida
 index: ''
-content: ''
 ---
+racchetta ideata per un controllo ottimale e un’elevata potenza, questo grazie ad una forma ibrida e un piatto ruvido, carbonio 12k e gomma HR3. Al suo interno sono presenti le tecnologie innovative Nox come il sistema antivibrazioni AVS e un manico più lungo per una migliore impugnatura.

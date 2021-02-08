@@ -6,4 +6,5 @@ image_dir: /images/wiki/brands/
 image: babolat.jpg
 title: Babolat
 brand: babolat
+marca: babolat
 ---

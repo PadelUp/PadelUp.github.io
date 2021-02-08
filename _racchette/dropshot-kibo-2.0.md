@@ -5,7 +5,7 @@ permalink: /wiki/racchette/dropshot/kibo-2.0/
 image_dir: /images/wiki/racchette/
 image: dropshot-kibo-2.0.jpg
 title: Dropshot Kibo 2.0
-brand: Dropshot
+brand: dropshot
 model: Kibo 2.0
 marca: dropshot
 modello: kibo 2.0
@@ -13,7 +13,7 @@ anno: '2021'
 prezzo: '70'
 forma: rotonda
 bilanciamento: ''
-peso: ''
+peso: 360-380
 livello: principiante
 materiale: fibra di vetro
 gomma: EVA

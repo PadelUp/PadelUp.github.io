@@ -5,7 +5,7 @@ permalink: /wiki/racchette/bullpadel/hack-ctr-21/
 image_dir: /images/wiki/racchette/
 image: bullpadel-hack-ctr-21.jpg
 title: Bullpadel Hack Ctr 21
-brand: Bullpadel
+brand: bullpadel
 model: Hack Ctr 21
 marca: bullpadel
 modello: hack ctr 21
@@ -19,5 +19,5 @@ materiale: carbonio 18k
 gomma: EVA soft
 superficie: liscia
 index: ''
-content: ''
 ---
+rispetto all’omonimo modello questa racchetta ha un bilanciamento basso che aiuta a ricercare un maggior controllo, costruita con gli stessi materiali e caratteristiche del modello precedente.

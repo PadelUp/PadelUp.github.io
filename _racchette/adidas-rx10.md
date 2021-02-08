@@ -5,7 +5,7 @@ permalink: /wiki/racchette/adidas/rx10/
 image_dir: /images/wiki/racchette/
 image: adidas-rx10.jpg
 title: Adidas Rx10
-brand: Adidas
+brand: adidas
 model: Rx10
 marca: adidas
 modello: rx10

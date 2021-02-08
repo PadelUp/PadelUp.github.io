@@ -5,19 +5,19 @@ permalink: /wiki/racchette/nox/titanium-carbon-3k/
 image_dir: /images/wiki/racchette/
 image: nox-titanium-carbon-3k.jpg
 title: Nox Titanium Carbon 3K
-brand: Nox
+brand: nox
 model: Titanium Carbon 3K
 marca: nox
 modello: titanium carbon 3k
 anno: '2021'
 prezzo: '288'
 forma: diamante
-bilanciamento: ''
+bilanciamento: medio
 peso: 360-375
 livello: avanzato
 materiale: carbonio 3k
 gomma: HR3
 superficie: ruvida
 index: ''
-content: ''
 ---
+prende il nome dalla sua composizione in carbonio 3k su una forma a diamante, questo combinato alla gomma HR3 conferisce un elevato grado di potenza ai colpi in uscita. Al suo interno sono presenti le tecnologie innovative Nox come il sistema antivibrazioni AVS e un manico più lungo per una migliore impugnatura.

@@ -5,7 +5,7 @@ permalink: /wiki/racchette/vibor-a/yarara-edition-black-series-1k/
 image_dir: /images/wiki/racchette/
 image: vibor-a-yarara-edition-black-series-1k.jpg
 title: Vibor-A Yarara Edition Black Series 1K
-brand: Vibor-A
+brand: vibor-a
 model: Yarara Edition Black Series 1K
 marca: vibor-a
 modello: yarara edition black series 1k
@@ -19,5 +19,5 @@ materiale: carbonio 6k
 gomma: EVA black soft
 superficie: ruvida
 index: ''
-content: ''
 ---
+racchetta dal design unico, costruita interamente in carbonio 6k, al suo interno troviamo una gomma EVA Soft che garantisce un ottimo controllo di palla, combina le colorazioni di nero, rosso e oro.

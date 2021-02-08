@@ -96,16 +96,14 @@ collections:
     output: false
   racchette:
     output: true
-    permalink: /wiki/racchette/:title/
   brands:
     output: true
-    permalink: /wiki/racchette/:title/
-  sections:
-    output: true
-    permalink: /wiki/:title/
   vips:
     output: true
-    permalink: /wiki/vips/:categories/:title/
+  jobs:
+    output: true
+  sections:
+    output: true
 
 paginate: 7
 paginate_path: "/page/:num"
@@ -119,9 +117,19 @@ defaults:
       layout: "racchetta"
   - scope:
       path: ""
+      type: "vips"
+    values:
+      layout: "vip"
+  - scope:
+      path: ""
       type: "brands"
     values:
       layout: "grid-racchette"
+  - scope:
+      path: ""
+      type: "jobs"
+    values:
+      layout: "grid-vips"
   - scope:
       path: ""
       type: "sections"

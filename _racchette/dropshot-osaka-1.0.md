@@ -5,15 +5,15 @@ permalink: /wiki/racchette/dropshot/osaka-1.0/
 image_dir: /images/wiki/racchette/
 image: dropshot-osaka-1.0.jpg
 title: Dropshot Osaka 1.0
-brand: Dropshot
+brand: dropshot
 model: Osaka 1.0
 marca: dropshot
 modello: osaka 1.0
 anno: '2021'
 prezzo: '230'
 forma: rotoda
-bilanciamento: ''
-peso: ''
+bilanciamento: medio
+peso: 360-380
 livello: esperto
 materiale: carbonio 24k
 gomma: EVA pro

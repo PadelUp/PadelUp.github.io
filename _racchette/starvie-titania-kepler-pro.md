@@ -5,7 +5,7 @@ permalink: /wiki/racchette/starvie/titania-kepler-pro/
 image_dir: /images/wiki/racchette/
 image: starvie-titania-kepler-pro.jpg
 title: Starvie Titania Kepler Pro
-brand: Starvie
+brand: starvie
 model: Titania Kepler Pro
 marca: starvie
 modello: titania kepler pro
@@ -19,5 +19,5 @@ materiale: carbonio
 gomma: EVA
 superficie: liscia
 index: ''
-content: ''
 ---
+racchetta di alta gamma ideale per giocatori di livello intermedio/avanzato. Costruita in fibra di vetro e carbonio offre un giusto bilanciamento tra potenza e controllo, rispetto al modello normale ha una gomma di densità medio/alta.

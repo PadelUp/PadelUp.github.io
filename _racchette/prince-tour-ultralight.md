@@ -5,7 +5,7 @@ permalink: /wiki/racchette/prince/tour-ultralight/
 image_dir: /images/wiki/racchette/
 image: prince-tour-ultralight.jpg
 title: Prince Tour Ultralight
-brand: Prince
+brand: prince
 model: Tour Ultralight
 marca: prince
 modello: tour ultralight
@@ -15,9 +15,9 @@ forma: rotonda
 bilanciamento: ''
 peso: 300-330
 livello: junior
-materiale: ''
+materiale: 'fibra di vetro '
 gomma: ''
 superficie: liscia
 index: ''
-content: ''
 ---
+racchetta per giocatori di livello principiante intermedio con una forma rotonda e un punto di impatto ottimale molto ampio.

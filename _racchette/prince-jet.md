@@ -5,7 +5,7 @@ permalink: /wiki/racchette/prince/jet/
 image_dir: /images/wiki/racchette/
 image: prince-jet.jpg
 title: Prince Jet
-brand: Prince
+brand: prince
 model: Jet
 marca: prince
 modello: jet
@@ -19,5 +19,5 @@ materiale: 'carbonio '
 gomma: black EVA
 superficie: ruvida
 index: ''
-content: ''
 ---
+racchetta di controllo ideale per giocatori difensivi di livello elevato, inoltre grazie alla sua forma a diamante consente una buona velocità di palla. Incorpora la tecnologia Triple Threat per la stabilizzazione delle vibrazioni.

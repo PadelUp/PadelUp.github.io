@@ -5,7 +5,7 @@ permalink: /wiki/racchette/adidas/rx30/
 image_dir: /images/wiki/racchette/
 image: adidas-rx30.jpg
 title: Adidas Rx30
-brand: Adidas
+brand: adidas
 model: Rx30
 marca: adidas
 modello: rx30

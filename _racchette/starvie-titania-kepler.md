@@ -5,7 +5,7 @@ permalink: /wiki/racchette/starvie/titania-kepler/
 image_dir: /images/wiki/racchette/
 image: starvie-titania-kepler.jpg
 title: Starvie Titania Kepler
-brand: Starvie
+brand: starvie
 model: Titania Kepler
 marca: starvie
 modello: titania kepler
@@ -19,5 +19,5 @@ materiale: carbonio
 gomma: EVA soft
 superficie: liscia
 index: ''
-content: ''
 ---
+modello uguale all’omonimo Pro con la differenza di essere più morbida grazie all’utilizzo di una gomma EVA Soft.

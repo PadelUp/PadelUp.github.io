@@ -1,0 +1,75 @@
+---
+layout: default
+---
+
+{% assign  vips_job = site.vips | sort: "index" | reversed | where:"job", page.job %}
+  
+{% for vip in vips_job %}
+{% if vip.title == page.title %}
+
+    {% unless forloop.first %}
+        {% assign prevurl = prev.url %}
+
+        {% assign prevtitle = prev.title %}
+    {% endunless %}
+
+    {% unless forloop.last %}
+        {% assign next = vips_job[forloop.index] %}
+        {% assign nexturl = next.url %}
+        {% assign nexttitle = next.title %}
+    {% endunless %}
+
+{% endif %}
+
+{% assign prev = vip %}
+{% endfor %}
+
+{% if page.image %}
+<div class="container">
+  <div class="row">
+    <div class="col col-12 col-d-10 push-d-1 col-m-12 push-m-0">
+      {% if page.parent %}
+      <div class="article__btn">
+        <a href="{{ page.parent | prepend: site.baseurl }}" class="read-more"><i class="ion ion-ios-arrow-back"></i> Indietro</a>
+      </div>  
+      {% endif %}
+      <div class="post-head">
+        <div class="post-info">
+        </div>
+        <h1 class="post-title">{{ page.title | escape }}</h1>
+      </div>
+      <div class="image-box">
+        <img class="post-image racchette" src="{{site.baseurl}}{{ page.image_dir }}{{ page.image }}" alt="{{page.title}} padel">
+      </div>
+    </div>
+  </div>
+</div>
+{% endif %}
+
+<div class="container">
+  <div class="row">
+    <div class="col col-8 push-2 col-d-10 col-m-12 push-d-1 push-m-0">
+      <!-- begin post -->
+      <article class="post giu">
+
+        <div class="post__content">
+          {{ content | capitalize}}
+          <br>
+          {% if prevurl or nexturl %}
+          <div class="article__btn">
+              {% if prevurl %}<a href="{{prevurl}}" class="read-more" style="float: left;"><i class="ion ion-ios-arrow-back"></i> precedente</a>{% endif %}                    
+              {% if nexturl %}<a href="{{nexturl}}" class="read-more" style="float: right;">successiva <i class="ion ion-ios-arrow-forward"></i></a>{% endif %}
+          </div>
+          {% endif %}
+          <br>
+        </div>
+
+        {% if site.disqus-identifier %} {% include disqus-comments.html %} {% endif %}
+
+      </article>
+      <!-- end post -->
+      
+    </div>
+
+  </div>
+</div>

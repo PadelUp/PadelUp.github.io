@@ -5,7 +5,7 @@ permalink: /wiki/racchette/adidas/adipower-junior/
 image_dir: /images/wiki/racchette/
 image: adidas-adipower-junior.jpg
 title: Adidas Adipower Junior
-brand: Adidas
+brand: adidas
 model: Adipower Junior
 marca: adidas
 modello: adipower junior
@@ -13,7 +13,7 @@ anno: '2021'
 prezzo: '65'
 forma: rotonda
 bilanciamento: medio
-peso: ''
+peso: 330-345
 livello: junior
 materiale: fibra di vetro
 gomma: EVA soft performance

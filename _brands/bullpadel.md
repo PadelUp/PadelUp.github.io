@@ -6,4 +6,5 @@ image_dir: /images/wiki/brands/
 image: bullpadel.jpg
 title: Bullpadel
 brand: bullpadel
+marca: bullpadel
 ---

@@ -5,19 +5,19 @@ permalink: /wiki/racchette/head/graphene-zephyr-pro/
 image_dir: /images/wiki/racchette/
 image: head-graphene-zephyr-pro.jpg
 title: Head Graphene Zephyr Pro
-brand: Head
+brand: head
 model: Graphene Zephyr Pro
 marca: head
 modello: graphene zephyr pro
 anno: '2021'
 prezzo: '190'
 forma: goccia
-bilanciamento: ''
-peso: ''
+bilanciamento: medio
+peso: '375'
 livello: avanzato
 materiale: grafene
 gomma: comfort foam
 superficie: liscia
 index: ''
-content: ''
 ---
+racchetta per giocatori di livello intermedio avanzato, ha una forma rotonda e una gomma confort che conferisce maneggevolezza alla racchetta.

@@ -5,15 +5,15 @@ permalink: /wiki/racchette/dropshot/power-1.0/
 image_dir: /images/wiki/racchette/
 image: dropshot-power-1.0.jpg
 title: Dropshot Power 1.0
-brand: Dropshot
+brand: dropshot
 model: Power 1.0
 marca: dropshot
 modello: power 1.0
 anno: '2021'
 prezzo: '230'
 forma: ibrida
-bilanciamento: ''
-peso: ''
+bilanciamento: medio
+peso: 360-380
 livello: avanzato
 materiale: carbonio 24k
 gomma: EVA soft

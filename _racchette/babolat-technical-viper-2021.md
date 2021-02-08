@@ -5,7 +5,7 @@ permalink: /wiki/racchette/babolat/technical-viper-2021/
 image_dir: /images/wiki/racchette/
 image: babolat-technical-viper-2021.jpg
 title: Babolat Technical Viper 2021
-brand: Babolat
+brand: babolat
 model: Technical Viper 2021
 marca: babolat
 modello: technical viper 2021

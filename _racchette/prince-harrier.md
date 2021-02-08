@@ -5,7 +5,7 @@ permalink: /wiki/racchette/prince/harrier/
 image_dir: /images/wiki/racchette/
 image: prince-harrier.jpg
 title: Prince Harrier
-brand: Prince
+brand: prince
 model: Harrier
 marca: prince
 modello: harrier
@@ -19,5 +19,5 @@ materiale: carbonio
 gomma: ''
 superficie: liscia
 index: ''
-content: ''
 ---
+racchetta dalla forma ibrida con una superficie liscia, costruita in carbonio e fibra di vetro. Ideale per giocatori di livello principiante/intermedio.

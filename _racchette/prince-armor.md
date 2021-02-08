@@ -5,7 +5,7 @@ permalink: /wiki/racchette/prince/armor/
 image_dir: /images/wiki/racchette/
 image: prince-armor.jpg
 title: Prince Armor
-brand: Prince
+brand: prince
 model: Armor
 marca: prince
 modello: armor
@@ -19,5 +19,5 @@ materiale: carbonio
 gomma: EVA super soft
 superficie: ruvida
 index: ''
-content: ''
 ---
+racchetta dalla forma diamante con le facce ruvide per imprimere rotazioni alla palla. Incorpora nell’impugnatura la tecnologia P-Wristband.

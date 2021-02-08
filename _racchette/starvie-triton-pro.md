@@ -5,7 +5,7 @@ permalink: /wiki/racchette/starvie/triton-pro/
 image_dir: /images/wiki/racchette/
 image: starvie-triton-pro.jpg
 title: Starvie Triton Pro
-brand: Starvie
+brand: starvie
 model: Triton Pro
 marca: starvie
 modello: triton pro
@@ -19,5 +19,5 @@ materiale: carbonio
 gomma: EVA soft pro
 superficie: ruvida
 index: ''
-content: ''
 ---
+racchetta per giocatori di livello avanzato, consente una buona spinta grazie alla sua forma a goccia e il piatto ruvido, ed una gomma di densità media, unica differenza con il modello Triton

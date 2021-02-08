@@ -5,7 +5,7 @@ permalink: /wiki/racchette/bullpadel/flow/
 image_dir: /images/wiki/racchette/
 image: bullpadel-flow.jpg
 title: Bullpadel Flow
-brand: Bullpadel
+brand: bullpadel
 model: Flow
 marca: bullpadel
 modello: flow
@@ -13,11 +13,11 @@ anno: '2021'
 prezzo: '235'
 forma: lacrima
 bilanciamento: medio
-peso: ''
+peso: 350-365
 livello: avanzato donna
 materiale: carbonio
 gomma: EVA soft
 superficie: liscia
 index: ''
-content: ''
 ---
+racchetta ufficiale della giocatorice World Padel Tour Alejandra Salazar. Fabbricazione in carbonio e fibra di vetro questa pala ha una forma ibrida ed è ideale per entrambe le fase di gioco. Racchetta per giocatrici femminili incorpora le tecnologie di VibraDrive e, rispetto agli altri modelli, monta un manico normale.

@@ -5,7 +5,7 @@ permalink: /wiki/racchette/head/graphene-alpha-elite/
 image_dir: /images/wiki/racchette/
 image: head-graphene-alpha-elite.jpg
 title: Head Graphene Alpha Elite
-brand: Head
+brand: head
 model: Graphene Alpha Elite
 marca: head
 modello: graphene alpha elite
@@ -13,11 +13,11 @@ anno: '2021'
 prezzo: '200'
 forma: diamante
 bilanciamento: medio
-peso: ''
+peso: 360-380
 livello: intermedio/avanzato
 materiale: grafene
 gomma: Power Foam
 superficie: liscia
 index: ''
-content: ''
 ---
+altra racchetta pensata per giocatori di livello avanzato risulta un’ottima arma in entrambe le fasi: nella difesa da fondo campo risulta morbida come gli altri modelli e la forma aiuta nella spinta in attacco. incorpora le tecnologie Smart Bridge e Anti Shock Skin.

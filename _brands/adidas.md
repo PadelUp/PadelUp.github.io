@@ -6,4 +6,5 @@ image_dir: /images/wiki/brands/
 image: adidas.jpg
 title: Adidas
 brand: adidas
+marca: adidas
 ---

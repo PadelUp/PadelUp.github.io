@@ -5,7 +5,7 @@ permalink: /wiki/racchette/nox/ml10-by-majo-sánchez-alayeto/
 image_dir: /images/wiki/racchette/
 image: nox-ml10-by-majo-sánchez-alayeto.jpg
 title: Nox Ml10 By Majo Sánchez Alayeto
-brand: Nox
+brand: nox
 model: Ml10 By Majo Sánchez Alayeto
 marca: nox
 modello: ML10 by majo sánchez alayeto
@@ -19,5 +19,5 @@ materiale: carbonio 12k
 gomma: EVA Black
 superficie: ruvida
 index: ''
-content: ''
 ---
+racchetta di spinta ufficiale della giocatrice Majo Sanchez Alayeto, delle gemelle atomiche, derivata dal suo stile di gioco in campo. Gomma Black EVA e carbonio 12k in questa pala che al suo interno sono presenti le tecnologie innovative Nox come il sistema antivibrazioni AVS e un manico più lungo per una migliore impugnatura.

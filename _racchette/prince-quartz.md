@@ -5,7 +5,7 @@ permalink: /wiki/racchette/prince/quartz/
 image_dir: /images/wiki/racchette/
 image: prince-quartz.jpg
 title: Prince Quartz
-brand: Prince
+brand: prince
 model: Quartz
 marca: prince
 modello: quartz
@@ -19,5 +19,5 @@ materiale: carbonio
 gomma: EVA super soft
 superficie: ruvida
 index: ''
-content: ''
 ---
+racchetta dal look femminile sempre appartenente alla gamma alta, consente di gestire in modo ottimale sia la fase offensiva sia la fase difensiva. Al suo interno troviamo la tecnologia Triple Threat per ridurre le vibrazioni.

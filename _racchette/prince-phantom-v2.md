@@ -5,7 +5,7 @@ permalink: /wiki/racchette/prince/phantom-v2/
 image_dir: /images/wiki/racchette/
 image: prince-phantom-v2.jpg
 title: Prince Phantom V2
-brand: Prince
+brand: prince
 model: Phantom V2
 marca: prince
 modello: phantom v2
@@ -19,5 +19,5 @@ materiale: carbonio
 gomma: ''
 superficie: ruvida
 index: ''
-content: ''
 ---
+racchetta polivalente dal piatto ruvido, la gomma Black EVA garantisce un buon controllo della palla. Incorpora le tecnologie di anti vibrazione AHS e impugnatura P-Wristband.

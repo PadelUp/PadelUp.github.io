@@ -5,7 +5,7 @@ permalink: /wiki/racchette/bullpadel/wing-21/
 image_dir: /images/wiki/racchette/
 image: bullpadel-wing-21.jpg
 title: Bullpadel Wing 21
-brand: Bullpadel
+brand: bullpadel
 model: Wing 21
 marca: bullpadel
 modello: wing 21
@@ -13,11 +13,11 @@ anno: '2021'
 prezzo: '140'
 forma: goccia
 bilanciamento: medio
-peso: ''
+peso: 365-380
 livello: intermedio
 materiale: carbonio
 gomma: EVA
 superficie: liscia
 index: ''
-content: ''
 ---
+racchetta che combina la fibra di vetro e quella di carbonio, risultando polivalente grazie anche alla forma a goccia e il bilanciamento al centro. Sempre per giocatori di livello avanzato che cercano la spinta del colpo senza perderne il controllo.

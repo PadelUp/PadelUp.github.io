@@ -5,7 +5,7 @@ permalink: /wiki/racchette/dropshot/delta-1.0/
 image_dir: /images/wiki/racchette/
 image: dropshot-delta-1.0.jpg
 title: Dropshot Delta 1.0
-brand: Dropshot
+brand: dropshot
 model: Delta 1.0
 marca: dropshot
 modello: delta 1.0
@@ -13,7 +13,7 @@ anno: '2021'
 prezzo: '170'
 forma: rotonda oversize
 bilanciamento: ''
-peso: ''
+peso: 360-370
 livello: intermedio
 materiale: carbonio 3k
 gomma: EVA soft

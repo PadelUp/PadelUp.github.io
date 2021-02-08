@@ -5,7 +5,7 @@ permalink: /wiki/racchette/dropshot/taipan/
 image_dir: /images/wiki/racchette/
 image: dropshot-taipan.jpg
 title: Dropshot Taipan
-brand: Dropshot
+brand: dropshot
 model: Taipan
 marca: dropshot
 modello: taipan
@@ -13,7 +13,7 @@ anno: '2021'
 prezzo: '170'
 forma: goccia
 bilanciamento: ''
-peso: ''
+peso: 360-380
 livello: intermedio
 materiale: carbonio 3k
 gomma: EVA pro

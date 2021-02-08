@@ -5,15 +5,15 @@ permalink: /wiki/racchette/dropshot/heritage-2.0/
 image_dir: /images/wiki/racchette/
 image: dropshot-heritage-2.0.jpg
 title: Dropshot Heritage 2.0
-brand: Dropshot
+brand: dropshot
 model: Heritage 2.0
 marca: dropshot
 modello: heritage 2.0
 anno: '2021'
 prezzo: '240'
 forma: goccia
-bilanciamento: ''
-peso: ''
+bilanciamento: medio/alto
+peso: 360-380
 livello: esperto
 materiale: carbonio 24k
 gomma: EVA pro

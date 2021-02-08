@@ -5,7 +5,7 @@ permalink: /wiki/racchette/prince/mach/
 image_dir: /images/wiki/racchette/
 image: prince-mach.jpg
 title: Prince Mach
-brand: Prince
+brand: prince
 model: Mach
 marca: prince
 modello: mach
@@ -19,5 +19,5 @@ materiale: carbonio
 gomma: EVA super soft
 superficie: ruvida
 index: ''
-content: ''
 ---
+racchetta di alta gamma della nuova collezione, ideata per garantire equilibrio nelle due fasi, risulta versatile e imprime effetto ai colpi grazie alla superficie ruvida.

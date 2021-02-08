@@ -5,15 +5,15 @@ permalink: /wiki/racchette/dropshot/legend-2.0/
 image_dir: /images/wiki/racchette/
 image: dropshot-legend-2.0.jpg
 title: Dropshot Legend 2.0
-brand: Dropshot
+brand: dropshot
 model: Legend 2.0
 marca: dropshot
 modello: legend 2.0
 anno: '2021'
 prezzo: '240'
 forma: rotonda oversize
-bilanciamento: ''
-peso: ''
+bilanciamento: basso
+peso: 360-380
 livello: esperto
 materiale: carbonio 24k
 gomma: EVA pro

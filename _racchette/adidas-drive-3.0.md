@@ -5,7 +5,7 @@ permalink: /wiki/racchette/adidas/drive-3.0/
 image_dir: /images/wiki/racchette/
 image: adidas-drive-3.0.jpg
 title: Adidas Drive 3.0
-brand: Adidas
+brand: adidas
 model: Drive 3.0
 marca: adidas
 modello: drive 3.0

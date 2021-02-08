@@ -5,19 +5,19 @@ permalink: /wiki/racchette/bullpadel/bp10-evo/
 image_dir: /images/wiki/racchette/
 image: bullpadel-bp10-evo.jpg
 title: Bullpadel Bp10 Evo
-brand: Bullpadel
+brand: bullpadel
 model: Bp10 Evo
 marca: bullpadel
 modello: BP10 evo
 anno: '2021'
-prezzo: ''
+prezzo: '130'
 forma: goccia
 bilanciamento: medio
-peso: ''
+peso: 360-370
 livello: intermedio
 materiale: carbonio e fibra di vetro
 gomma: EVA soft
 superficie: liscia
 index: ''
-content: ''
 ---
+racchetta ideale per giocatori di livello intermedio è costruita prevalentemente in fibra di vetro e carbonio, con all’interno una gomma EVA Soft

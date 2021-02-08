@@ -6,4 +6,5 @@ image_dir: /images/wiki/brands/
 image: starvie.jpg
 title: Starvie
 brand: starvie
+marca: starvie
 ---

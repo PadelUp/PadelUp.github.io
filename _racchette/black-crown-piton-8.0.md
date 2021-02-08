@@ -5,7 +5,7 @@ permalink: /wiki/racchette/black-crown/piton-8.0/
 image_dir: /images/wiki/racchette/
 image: black-crown-piton-8.0.jpg
 title: Black Crown Piton 8.0
-brand: Black Crown
+brand: black-crown
 model: Piton 8.0
 marca: black crown
 modello: piton 8.0
@@ -16,8 +16,8 @@ bilanciamento: medio
 peso: 355-370
 livello: 'avanzato '
 materiale: carbonio 3k
-gomma: EVA soft
-superficie: ''
+gomma: EVA mid soft
+superficie: liscia
 index: ''
-content: ''
 ---
+racchetta con forma rotonda e bilanciamento al centro, ideale per il controllo della palla e il gioco difensivo, la gomma mediamente morbida conferisce anche una buona spinta in fase di attacco.

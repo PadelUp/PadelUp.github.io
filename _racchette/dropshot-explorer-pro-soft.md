@@ -5,15 +5,15 @@ permalink: /wiki/racchette/dropshot/explorer-pro-soft/
 image_dir: /images/wiki/racchette/
 image: dropshot-explorer-pro-soft.jpg
 title: Dropshot Explorer Pro Soft
-brand: Dropshot
+brand: dropshot
 model: Explorer Pro Soft
 marca: dropshot
 modello: explorer pro soft
 anno: '2021'
 prezzo: '210'
 forma: rotonda
-bilanciamento: ''
-peso: ''
+bilanciamento: medio
+peso: 360-380
 livello: intermedio
 materiale: carbonio 12k
 gomma: EVA soft

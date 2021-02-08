@@ -1,0 +1,10 @@
+---
+layout: grid
+---
+
+{% assign vips = site.vips | sort: 'index' | reverse %}
+{% for vip in vips %}
+  {% if vip.job == page.job %}
+    {% include vips.html %}
+  {% endif %}
+{% endfor %}

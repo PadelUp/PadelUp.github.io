@@ -6,4 +6,5 @@ image_dir: /images/wiki/brands/
 image: prince.jpg
 title: Prince
 brand: prince
+marca: prince
 ---

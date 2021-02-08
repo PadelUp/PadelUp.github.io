@@ -5,7 +5,7 @@ permalink: /wiki/racchette/vibor-a/copper/
 image_dir: /images/wiki/racchette/
 image: vibor-a-copper.jpg
 title: Vibor-A Copper
-brand: Vibor-A
+brand: vibor-a
 model: Copper
 marca: vibor-a
 modello: copper
@@ -19,5 +19,5 @@ materiale: carbonio+
 gomma: EVA black soft
 superficie: ruvida
 index: ''
-content: ''
 ---
+acchetta dalla dimensione a diamante è ideale per i giocatori di attacco, il bilanciamento in alto infatti garantisce ottima potenza in uscita e la gomma EVA Soft consente di ammortizzare i colpi e controllare la palla.

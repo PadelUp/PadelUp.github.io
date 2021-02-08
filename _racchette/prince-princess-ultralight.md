@@ -5,19 +5,19 @@ permalink: /wiki/racchette/prince/princess-ultralight/
 image_dir: /images/wiki/racchette/
 image: prince-princess-ultralight.jpg
 title: Prince Princess Ultralight
-brand: Prince
+brand: prince
 model: Princess Ultralight
 marca: prince
 modello: princess ultralight
 anno: '2021'
 prezzo: '65'
 forma: rotonda
-bilanciamento: ''
+bilanciamento: basso
 peso: 300-330
 livello: junior
-materiale: ''
+materiale: fibra di vetro
 gomma: ''
 superficie: liscia
 index: ''
-content: ''
 ---
+racchetta per giocatrici femminili di livello principiante intermedio con una forma rotonda e un punto di impatto ottimale molto ampio.

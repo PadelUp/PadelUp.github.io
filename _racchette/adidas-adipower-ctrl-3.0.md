@@ -5,7 +5,7 @@ permalink: /wiki/racchette/adidas/adipower-ctrl-3.0/
 image_dir: /images/wiki/racchette/
 image: adidas-adipower-ctrl-3.0.jpg
 title: Adidas Adipower Ctrl 3.0
-brand: Adidas
+brand: adidas
 model: Adipower Ctrl 3.0
 marca: adidas
 modello: adipower ctrl 3.0

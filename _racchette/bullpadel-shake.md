@@ -5,19 +5,19 @@ permalink: /wiki/racchette/bullpadel/shake/
 image_dir: /images/wiki/racchette/
 image: bullpadel-shake.jpg
 title: Bullpadel Shake
-brand: Bullpadel
+brand: bullpadel
 model: Shake
 marca: bullpadel
 modello: shake
 anno: '2021'
-prezzo: ''
+prezzo: '85'
 forma: rotonda
 bilanciamento: basso
-peso: ''
+peso: 350-360
 livello: principiante
 materiale: carbonio e fibra di vetro
 gomma: EVA-lastic
 superficie: liscia
 index: ''
-content: ''
 ---
+questa racchetta è la versione per giocatori del modello Libra.

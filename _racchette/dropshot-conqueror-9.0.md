@@ -5,15 +5,15 @@ permalink: /wiki/racchette/dropshot/conqueror-9.0/
 image_dir: /images/wiki/racchette/
 image: dropshot-conqueror-9.0.jpg
 title: Dropshot Conqueror 9.0
-brand: Dropshot
+brand: dropshot
 model: Conqueror 9.0
 marca: dropshot
 modello: conqueror 9.0
 anno: '2021'
 prezzo: '340'
 forma: goccia
-bilanciamento: ''
-peso: ''
+bilanciamento: medio/alto
+peso: 350-375
 livello: avanzato
 materiale: carbonio 24k
 gomma: EVA tech

@@ -5,15 +5,15 @@ permalink: /wiki/racchette/dropshot/premium-1.0/
 image_dir: /images/wiki/racchette/
 image: dropshot-premium-1.0.jpg
 title: Dropshot Premium 1.0
-brand: Dropshot
+brand: dropshot
 model: Premium 1.0
 marca: dropshot
 modello: premium 1.0
 anno: '2021'
 prezzo: '240'
 forma: rotonda oversize
-bilanciamento: ''
-peso: ''
+bilanciamento: medio
+peso: 360-380
 livello: esperto
 materiale: carbonio 24k
 gomma: EVA pro

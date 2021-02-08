@@ -5,15 +5,15 @@ permalink: /wiki/racchette/dropshot/essence/
 image_dir: /images/wiki/racchette/
 image: dropshot-essence.jpg
 title: Dropshot Essence
-brand: Dropshot
+brand: dropshot
 model: Essence
 marca: dropshot
 modello: essence
 anno: '2021'
 prezzo: '230'
 forma: goccia
-bilanciamento: ''
-peso: ''
+bilanciamento: medio
+peso: 360-380
 livello: esperto
 materiale: carbonio 24k
 gomma: EVA pro

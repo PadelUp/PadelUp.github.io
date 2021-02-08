@@ -5,19 +5,19 @@ permalink: /wiki/racchette/head/delta-hybrid/
 image_dir: /images/wiki/racchette/
 image: head-delta-hybrid.jpg
 title: Head Delta Hybrid
-brand: Head
+brand: head
 model: Delta Hybrid
 marca: head
 modello: delta hybrid
-anno: '2021'
+anno: '2020'
 prezzo: '300'
 forma: ibrida
-bilanciamento: ''
-peso: ''
+bilanciamento: medio-alto
+peso: '355'
 livello: avanzato
 materiale: grafene
 gomma: Power Foam
 superficie: ruvida
 index: ''
-content: ''
 ---
+racchetta costruita con i migliori materiali garantisce un uso prolungato senza perdere qualità nelle prestazioni, ha una forma particolare e le facce sono di due colorazioni diverse. Incorpora una tecnologia di stabilizzazione del punto di impatto.

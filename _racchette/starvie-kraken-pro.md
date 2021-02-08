@@ -5,7 +5,7 @@ permalink: /wiki/racchette/starvie/kraken-pro/
 image_dir: /images/wiki/racchette/
 image: starvie-kraken-pro.jpg
 title: Starvie Kraken Pro
-brand: Starvie
+brand: starvie
 model: Kraken Pro
 marca: starvie
 modello: kraken pro
@@ -19,5 +19,5 @@ materiale: carbonio
 gomma: EVA
 superficie: liscia
 index: ''
-content: ''
 ---
+racchetta ideale per giocatori di livello intermedio/avanzato, risulta leggera e maneggevole soprattuto da fondo campo nella fase difensiva. Ha una gomma di densità media, mentre il modello normale ha una gomma soft.

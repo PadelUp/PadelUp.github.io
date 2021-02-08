@@ -5,7 +5,7 @@ permalink: /wiki/racchette/nox/ml10-by-mapi-sánchez-alayeto/
 image_dir: /images/wiki/racchette/
 image: nox-ml10-by-mapi-sánchez-alayeto.jpg
 title: Nox Ml10 By Mapi Sánchez Alayeto
-brand: Nox
+brand: nox
 model: Ml10 By Mapi Sánchez Alayeto
 marca: nox
 modello: ML10 by mapi sánchez alayeto
@@ -19,5 +19,5 @@ materiale: carbonio 3k
 gomma: HR3
 superficie: ruvida
 index: ''
-content: ''
 ---
+altra gemella atomica, con il suo modello ufficiale, con una racchetta piu di controllo, siamo sempre nei modelli top di gamma e qui abbiamo una costruzione in carbonio 3k e gomma interna HR3. Al suo interno sono presenti le tecnologie innovative Nox come il sistema antivibrazioni AVS e un manico più lungo per una migliore impugnatura.

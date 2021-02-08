@@ -5,19 +5,19 @@ permalink: /wiki/racchette/nox/attraction-wpt-2020/
 image_dir: /images/wiki/racchette/
 image: nox-attraction-wpt-2020.jpg
 title: Nox Attraction Wpt 2020
-brand: Nox
+brand: nox
 model: Attraction Wpt 2020
 marca: nox
 modello: attraction wpt 2020
-anno: '2021'
+anno: '2020'
 prezzo: '175'
 forma: diamante
-bilanciamento: ''
+bilanciamento: alto
 peso: 360-375
 livello: avanzato
 materiale: carbonio 3k
 gomma: HR3
 superficie: ruvida
 index: ''
-content: ''
 ---
+racchetta composta da carbonio e fibre di vetro sulle facce, ha una superficie ruvida e una forma a diamante per garantire potenza. Al suo interno sono presenti le tecnologie innovative Nox come il sistema antivibrazioni AVS e un manico più lungo per una migliore impugnatura.

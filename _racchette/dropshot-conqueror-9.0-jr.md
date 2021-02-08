@@ -5,7 +5,7 @@ permalink: /wiki/racchette/dropshot/conqueror-9.0-jr/
 image_dir: /images/wiki/racchette/
 image: dropshot-conqueror-9.0-jr.jpg
 title: Dropshot Conqueror 9.0 Jr
-brand: Dropshot
+brand: dropshot
 model: Conqueror 9.0 Jr
 marca: dropshot
 modello: conqueror 9.0 jr
@@ -13,7 +13,7 @@ anno: '2021'
 prezzo: '62'
 forma: goccia
 bilanciamento: ''
-peso: ''
+peso: 310-330
 livello: junior
 materiale: fibra di vetro
 gomma: EVA soft

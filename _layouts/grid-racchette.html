@@ -4,7 +4,7 @@ layout: grid
 
 {% assign racchette = site.racchette | sort: 'index' | reverse %}
 {% for racchetta in racchette %}
-  {% if racchetta.brand == page.title %}
+  {% if racchetta.brand == page.brand %}
     {% include racchette.html %}
   {% endif %}
 {% endfor %}

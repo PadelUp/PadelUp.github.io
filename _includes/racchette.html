@@ -1,14 +1,14 @@
 <div class="article col col-4 col-d-6 col-m-12 grid__post animate">
   {% if racchetta.image %}
     <a class="article__image" href="{{racchetta.url | prepend: site.baseurl}}">
-      <img class="racchette" src="{{site.baseurl}}{{ racchetta.image_dir }}{{ racchetta.image }}" alt="{{ page.title }} {{racchetta.model}}">
+      <img class="racchette" src="{{site.baseurl}}{{ racchetta.image_dir }}{{ racchetta.image }}" alt="{{racchetta.title}}">
     </a>
   {% endif %}
   <div class="article__content">
     <h2 class="article__title">
       <a href="{{ racchetta.url | prepend: site.baseurl }}">{{ racchetta.model }}</a>
     </h2>
-    <p class="article__excerpt">{% if racchetta.description %}{{ racchetta.description }}{% else %}{{ racchetta.content | strip_html | truncate: 100 }}{% endif %}</p>
+    <p class="article__excerpt">{% if racchetta.description %}{{ racchetta.description | capitalize}}{% else %}{{ racchetta.content | strip_html | truncate: 100 | capitalize}}{% endif %}</p>
     <div class="article__bottom">
       <div class="article__btn">
         <a href="{{racchetta.url | prepend: site.baseurl}}" class="read-more">Entra<i class="ion ion-ios-arrow-forward"></i></a>

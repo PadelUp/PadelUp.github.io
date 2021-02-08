@@ -6,4 +6,5 @@ image_dir: /images/wiki/brands/
 image: head.jpg
 title: Head
 brand: head
+marca: head
 ---

@@ -5,7 +5,7 @@ permalink: /wiki/racchette/dropshot/sakura-3.0/
 image_dir: /images/wiki/racchette/
 image: dropshot-sakura-3.0.jpg
 title: Dropshot Sakura 3.0
-brand: Dropshot
+brand: dropshot
 model: Sakura 3.0
 marca: dropshot
 modello: sakura 3.0
@@ -13,7 +13,7 @@ anno: '2021'
 prezzo: '80'
 forma: goccia
 bilanciamento: ''
-peso: ''
+peso: 360-370
 livello: principiante/intermedio
 materiale: fibra di vetro
 gomma: EVA soft
