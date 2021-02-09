@@ -8,5 +8,5 @@ title: Alessandro Lupi
 job: giornalista
 nome: Alessandro Lupi
 professione: giornalista
-content: ''
 ---
+giornalista di Sky Sport. 

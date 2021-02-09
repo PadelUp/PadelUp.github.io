@@ -8,5 +8,5 @@ title: Novak Djokovic
 job: tennista
 nome: Novak Djokovic
 professione: tennista
-content: ''
 ---
+tennista serbo, attualmente numero 1 al mondo nel ranking ATP ha vinto 81 titoli in carriera ed è ritenuto uno dei migliori tennisti della storia. 

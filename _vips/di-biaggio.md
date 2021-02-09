@@ -8,5 +8,5 @@ title: Di Biaggio
 job: allenatore
 nome: Di Biaggio
 professione: allenatore
-content: ''
 ---
+ex-calciatore ed attualmente allenatore di calcio ha giocato più di 100 gare ufficiali con la maglia di Roma e Inter. 

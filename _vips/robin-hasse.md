@@ -8,5 +8,5 @@ title: Robin Hasse
 job: tennista
 nome: Robin Hasse
 professione: tennista
-content: ''
 ---
+tennista olandese classe 1987 in carriera ha raggiunto il suo best ranking il 30 luglio 2012 classificandosi al 33º posto nella classifica mondiale ATP.

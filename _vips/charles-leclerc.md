@@ -8,5 +8,5 @@ title: Charles Leclerc
 job: pilota
 nome: Charles Leclerc
 professione: pilota
-content: ''
 ---
+pilota nato a Monaco nel 1997, gareggia in Formula 1 dal 2018 e nell'anno successivo diventa pilota della Ferrari  

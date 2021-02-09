@@ -8,5 +8,5 @@ title: Carlos Moya
 job: tennista
 nome: Carlos Moya
 professione: tennista
-content: ''
 ---
+ex-tennista ed attualmente allenatore di tennis, in carriera ha vinto 20 titoli ed ha raggiunto anche lui la prima posizoine nel ranking ATP. 

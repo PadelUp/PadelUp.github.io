@@ -8,5 +8,5 @@ title: Martina Hinghis
 job: tennista
 nome: Martina Hinghis
 professione: tennista
-content: ''
 ---
+ex-tennista slovacca attualmente ricopre il ruolo di allenatrice. Ha ottenuto la prima posizione nel ranking WTA nel 1997. 

@@ -8,5 +8,5 @@ title: Serena Wiliams
 job: tennista
 nome: Serena Wiliams
 professione: tennista
-content: ''
 ---
+tennista statunitense considerata da molti tra le migliori tenniste di sempre, ha vinto 73 titoli WTA ed è stata a lungo N.1 al mondo. 

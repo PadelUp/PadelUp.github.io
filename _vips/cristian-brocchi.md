@@ -8,5 +8,5 @@ title: Cristian Brocchi
 job: calciatore
 nome: Cristian Brocchi
 professione: calciatore
-content: ''
 ---
+attualmente allenatore del Monza è stato un calciatore italiano per molte stagioni, vestendo prestigiose maglie come quella dell'Inter F.C. e dell'A.C. Milan. 

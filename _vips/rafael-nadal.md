@@ -8,5 +8,5 @@ title: Rafael Nadal
 job: tennista
 nome: Rafael Nadal
 professione: tennista
-content: ''
 ---
+tennista e leggena spagnolo, idolo di più di molti, in carriera ha vinto 86 tornei ATP ed è stato N.1 al mondo per diversi anni.

@@ -8,5 +8,5 @@ title: Meloccaro
 job: giornalista
 nome: Meloccaro
 professione: giornalista
-content: ''
 ---
+giornalista di Sky Sport. 
