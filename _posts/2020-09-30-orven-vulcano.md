@@ -6,11 +6,8 @@ date: 2020-09-30 08:00:33
 image: /images/posts/orven-vulcano-01.jpg
 tags: recensioni
 author: saint
+video: https://www.youtube.com/embed/keJPpDmpenE
 ---
-
-## Video Recensione
-
-<p><iframe src="https://www.youtube.com/embed/keJPpDmpenE" frameborder="0" allowfullscreen></iframe></p>
 
 Nuova settimana, nuova recensione
 

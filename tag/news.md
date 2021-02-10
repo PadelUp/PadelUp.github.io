@@ -1,6 +1,6 @@
 ---
 layout: tagpage
-title: "Tag: news"
+title: News
 tag: news
 exclude: true
 ---

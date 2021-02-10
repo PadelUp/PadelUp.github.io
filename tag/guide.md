@@ -1,6 +1,6 @@
 ---
 layout: tagpage
-title: "Tag: guide"
+title: Guide
 tag: guide
 exclude: true
 ---

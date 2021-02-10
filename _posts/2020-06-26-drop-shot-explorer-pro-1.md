@@ -6,11 +6,8 @@ date: 2020-06-26 10:21:34
 image: /images/posts/dropshot-explorer-01.jpg
 tags: recensioni
 author: jack
+video: https://www.youtube.com/embed/KQvyiDTGVdY
 ---
-
-## Video Recensione
-
-<p><iframe src="https://www.youtube.com/embed/KQvyiDTGVdY" frameborder="0" allowfullscreen></iframe></p>
 
 ## Il brand e la sua storia
 

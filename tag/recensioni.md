@@ -1,6 +1,6 @@
 ---
 layout: tagpage
-title: "Tag: recensioni"
+title: Recensioni
 tag: recensioni
 exclude: true
 ---

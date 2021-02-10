@@ -1,6 +1,6 @@
 ---
 layout: tagpage
-title: "Tag: approfondimenti"
+title: Approfondimenti
 tag: approfondimenti
 exclude: true
 ---

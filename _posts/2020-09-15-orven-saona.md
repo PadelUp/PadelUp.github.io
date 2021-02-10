@@ -6,11 +6,8 @@ date: 2020-09-15 19:06:50
 image: /images/posts/orven-saona-02.jpg
 tags: recensioni
 author: saint
+video: https://www.youtube.com/embed/Z-rSZOjNbSA
 ---
-
-## Video Recensione
-
-<p><iframe src="https://www.youtube.com/embed/Z-rSZOjNbSA" frameborder="0" allowfullscreen></iframe></p>
 
 Continuiamo con le recensioni di racchette da Padel in compagnia di **Orven Sport** e del maestro nazionale, nonché giocatore di Serie A, **Gianmarco Toccini**, che insieme a Daniele Catini hanno provato le racchette della nuova collezione.
 

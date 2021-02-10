@@ -6,12 +6,8 @@ date: 2020-07-18 20:11:56
 image: /images/posts/nox-ml10-01.jpg
 tags: recensioni
 author: luca
+video: https://www.youtube.com/embed/Ymc7_ZA_9po
 ---
-
-## Video Recensione
-
-<p><iframe src="https://www.youtube.com/embed/Ymc7_ZA_9po" frameborder="0" allowfullscreen></iframe></p>
- 
 
 Video recensione della racchetta Nox ML 10 Pro Cup, pala utilizzata attualmente e storicamente dal famoso giocatore WPT Miguel Lamperti. Questa racchetta é in vendita dal diversi anni, ma ogni anno il brand ne produce un modello aggiornato per proporre sul mercato una linea nuova ad ogni nuova stagione del massimo campionato internazionale. 
 

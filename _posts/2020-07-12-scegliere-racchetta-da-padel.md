@@ -6,9 +6,8 @@ date: 2020-07-12 18:01:56
 image: /images/posts/guida-scegli-pala-01.jpg
 tags: guide
 author: saint
+video: https://www.youtube.com/embed/h434R8IQ_Hk
 ---
-
-<p><iframe src="https://www.youtube.com/embed/h434R8IQ_Hk" frameborder="0" allowfullscreen></iframe></p>
 
 In questo video cerchiamo di rispondere alla domanda “quale racchetta da padel scegliere?" Vi sarà certamente capitato di chiedervi cosa cambia tra tutte le racchette in commercio, quali grandi differenze ci siano tra tante informazioni cosi simili tra di loro.
 

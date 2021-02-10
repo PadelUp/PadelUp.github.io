@@ -35,7 +35,13 @@ layout: default
       <article class="post">
 
         <div class="post__content">
-          {{ content | capitalize}}
+          {% if page.video %}
+          <h2>Video Recensione</h2>
+          <p>
+          <iframe width="560" height="315" src="{{page.video}}" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+          </p>          
+          {% endif %}
+          {{ content }}
         </div>
 
         <div class="post__share">
