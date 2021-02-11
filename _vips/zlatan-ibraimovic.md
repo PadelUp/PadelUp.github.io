@@ -9,4 +9,4 @@ job: calciatore
 nome: Zlatan Ibraimovic
 professione: calciatore
 ---
-calciatore del Milan, leggenda vivente del calcio Svedese, è considerato da molti tra i migliori attaccanti di sempre 
+Calciatore del Milan, leggenda vivente del calcio Svedese, è considerato da molti tra i migliori attaccanti di sempre 

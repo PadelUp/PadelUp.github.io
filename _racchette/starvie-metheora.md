@@ -18,6 +18,6 @@ livello: avanzato
 materiale: carbonio
 gomma: EVA soft
 superficie: ruvida
-index: ''
+index: '18'
 ---
-racchetta ufficiale del giocatore World Padel Tour Mati Diaz, la pala più famosa del brand, ha un formato tondo e un punto di impatto ottimale ampio. Ideale per giocatori di controllo ma che grazie al suo bilanciamento alto consente una buona spinta della palla. Ideale per giocatori di livello avanzato.
+Racchetta ufficiale del giocatore World Padel Tour Mati Diaz, la pala più famosa del brand, ha un formato tondo e un punto di impatto ottimale ampio. Ideale per giocatori di controllo ma che grazie al suo bilanciamento alto consente una buona spinta della palla. Ideale per giocatori di livello avanzato.

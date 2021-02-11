@@ -9,4 +9,4 @@ job: calciatore
 nome: Gianluca Giannichedda
 professione: calciatore
 ---
-attualmente allenatore è stato un calciatore e dirigente sportivo italiano, collezzionando più di 100 presenze con Lazio e Udinese
+Attualmente allenatore è stato un calciatore e dirigente sportivo italiano, collezzionando più di 100 presenze con Lazio e Udinese

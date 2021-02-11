@@ -9,4 +9,4 @@ job: pilota
 nome: Carlos Sainz
 professione: pilota
 ---
-pilota spagnolo attualmente della scuderia Ferrari, corre in Formula 1 dal 2015
+Pilota spagnolo attualmente della scuderia Ferrari, corre in Formula 1 dal 2015

@@ -9,4 +9,4 @@ job: calciatore
 nome: Johan Cruijff
 professione: calciatore
 ---
-ex-calciatore olandese, considerato uno dei migliori di sempre, dopo una lunga carriera all'Ajax ha indossato la maglia del F.C. Barcellona per cinque stagioni. 
+Ex-calciatore olandese, considerato uno dei migliori di sempre, dopo una lunga carriera all'Ajax ha indossato la maglia del F.C. Barcellona per cinque stagioni. 

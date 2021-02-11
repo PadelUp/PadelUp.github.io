@@ -9,4 +9,4 @@ job: allenatore
 nome: John Terry
 professione: allenatore
 ---
-ex-calciatore e bandiera del Chelsea con un totale di 717 presenze delle quali 580 da capitano è il terzo calciatore per numero di presenze nella storia dei Blues 
+Ex-calciatore e bandiera del Chelsea con un totale di 717 presenze delle quali 580 da capitano è il terzo calciatore per numero di presenze nella storia dei Blues 

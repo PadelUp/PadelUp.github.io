@@ -9,4 +9,4 @@ job: calciatore
 nome: Bernardo Corradi
 professione: calciatore
 ---
-attualmente opinionista, diregnete sportivo e allantore è stato un calciatore professionista giocando in serie A e terminando la sua carriera al Montreal Impact
+Attualmente opinionista, diregnete sportivo e allantore è stato un calciatore professionista giocando in serie A e terminando la sua carriera al Montreal Impact

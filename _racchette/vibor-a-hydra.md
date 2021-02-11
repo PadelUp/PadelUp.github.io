@@ -18,6 +18,6 @@ livello: intermedio/avanzato
 materiale: carbonio
 gomma: EVA Soft
 superficie: liscia
-index: ''
+index: '1'
 ---
-racchetta con al suo interno diverse tecnologie innovative come il sistema di anti vibrazione integrato ed un punto di impatto ottimale ampio, risulta ideale per giocatori di livello medio/avanzato.
+Racchetta con al suo interno diverse tecnologie innovative come il sistema di anti vibrazione integrato ed un punto di impatto ottimale ampio, risulta ideale per giocatori di livello medio/avanzato.

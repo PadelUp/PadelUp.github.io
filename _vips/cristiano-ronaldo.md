@@ -9,4 +9,4 @@ job: calciatore
 nome: Cristiano Ronaldo
 professione: calciatore
 ---
-calciatore della Juventus, eterno rivale di Leo Messi con il quale ha inscenato nunerose volte El Clasico, leggenda del Portogallo è diventato campione d'europa nel 2016
+Calciatore della Juventus, eterno rivale di Leo Messi con il quale ha inscenato nunerose volte El Clasico, leggenda del Portogallo è diventato campione d'europa nel 2016

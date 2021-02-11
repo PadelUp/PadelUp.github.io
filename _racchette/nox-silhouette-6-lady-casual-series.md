@@ -18,6 +18,6 @@ livello: principiante/intermedio
 materiale: 'fibra di vetro '
 gomma: HR3
 superficie: liscia
-index: ''
+index: '1'
 ---
-ideale per giocatori di livello principiante intermedio, ha una forma rotonda oversize, gomma HR3 e fibra di vetro.
+Ideale per giocatori di livello principiante intermedio, ha una forma rotonda oversize, gomma HR3 e fibra di vetro.

@@ -18,6 +18,6 @@ livello: avanzato
 materiale: carbonio 12k
 gomma: EVA Black
 superficie: ruvida
-index: ''
+index: '17'
 ---
-racchetta di spinta ufficiale della giocatrice Majo Sanchez Alayeto, delle gemelle atomiche, derivata dal suo stile di gioco in campo. Gomma Black EVA e carbonio 12k in questa pala che al suo interno sono presenti le tecnologie innovative Nox come il sistema antivibrazioni AVS e un manico più lungo per una migliore impugnatura.
+Racchetta di spinta ufficiale della giocatrice Majo Sanchez Alayeto, delle gemelle atomiche, derivata dal suo stile di gioco in campo. Gomma Black EVA e carbonio 12k in questa pala che al suo interno sono presenti le tecnologie innovative Nox come il sistema antivibrazioni AVS e un manico più lungo per una migliore impugnatura.

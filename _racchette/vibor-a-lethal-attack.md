@@ -18,6 +18,6 @@ livello: intermedio/avanzato
 materiale: carbonio 6k
 gomma: EVA black soft
 superficie: liscia
-index: ''
+index: '5'
 ---
-costruzione in carbonio 6k e carbonio 24k sulle facce la rendono una racchetta unica nel suo genere, si capisce dal nome come sia un modello votato all’attacco. Incorpora un sistema di anti vibrazioni interno.
+Costruzione in carbonio 6k e carbonio 24k sulle facce la rendono una racchetta unica nel suo genere, si capisce dal nome come sia un modello votato all’attacco. Incorpora un sistema di anti vibrazioni interno.

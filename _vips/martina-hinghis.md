@@ -9,4 +9,4 @@ job: tennista
 nome: Martina Hinghis
 professione: tennista
 ---
-ex-tennista slovacca attualmente ricopre il ruolo di allenatrice. Ha ottenuto la prima posizione nel ranking WTA nel 1997. 
+Ex-tennista slovacca attualmente ricopre il ruolo di allenatrice. Ha ottenuto la prima posizione nel ranking WTA nel 1997. 

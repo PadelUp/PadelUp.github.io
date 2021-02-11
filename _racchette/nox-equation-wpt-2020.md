@@ -18,6 +18,6 @@ livello: avanzato
 materiale: carbonio 3k
 gomma: HR3
 superficie: ruvida
-index: ''
+index: '6'
 ---
-modello dello scorso anno condivide con la nuova Attraction la composizione in carbonio insieme alla fibra di vetro e il piatto ruvido, la forma tonda e il bilanciamento medio ne fanno una racchetta per giocatori difensivi con la voglia di spingere un po’ di più la palla. Al suo interno è presente la tecnologia innovativa Nox come il sistema antivibrazioni AVS.
+Modello dello scorso anno condivide con la nuova Attraction la composizione in carbonio insieme alla fibra di vetro e il piatto ruvido, la forma tonda e il bilanciamento medio ne fanno una racchetta per giocatori difensivi con la voglia di spingere un po’ di più la palla. Al suo interno è presente la tecnologia innovativa Nox come il sistema antivibrazioni AVS.

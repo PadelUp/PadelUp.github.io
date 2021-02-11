@@ -18,6 +18,6 @@ livello: intermedio
 materiale: carbonio
 gomma: EVA
 superficie: liscia
-index: ''
+index: '8'
 ---
-racchetta di alta gamma ideale per giocatori di livello intermedio/avanzato. Costruita in fibra di vetro e carbonio offre un giusto bilanciamento tra potenza e controllo, rispetto al modello normale ha una gomma di densità medio/alta.
+Racchetta di alta gamma ideale per giocatori di livello intermedio/avanzato. Costruita in fibra di vetro e carbonio offre un giusto bilanciamento tra potenza e controllo, rispetto al modello normale ha una gomma di densità medio/alta.

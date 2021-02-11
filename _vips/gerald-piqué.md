@@ -9,4 +9,4 @@ job: calciatore
 nome: Gerald Piqué
 professione: calciatore
 ---
-calciatore del Barcellona, compagno della cantante Shakira, ha vinto il campionato del mondo con la nazionale Spagnola nel 2010 e campione d'Europa nel 2012
+Calciatore del Barcellona, compagno della cantante Shakira, ha vinto il campionato del mondo con la nazionale Spagnola nel 2010 e campione d'Europa nel 2012

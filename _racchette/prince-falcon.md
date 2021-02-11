@@ -18,6 +18,6 @@ livello: avanzato
 materiale: carbonio 24k
 gomma: Black EVA
 superficie: ruvida
-index: ''
+index: '13'
 ---
-la racchetta più potente della collezione, costruita in carbonio 24k e riempita con gomma EVA Power consente un’elevata potenza dei colpi in uscita. Incorpora le tecnologie Triple Threat, Aero Profile e Power Core.
+La racchetta più potente della collezione, costruita in carbonio 24k e riempita con gomma EVA Power consente un’elevata potenza dei colpi in uscita. Incorpora le tecnologie Triple Threat, Aero Profile e Power Core.

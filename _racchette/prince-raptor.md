@@ -18,6 +18,6 @@ livello: principiante/intermedio
 materiale: carbonio
 gomma: ''
 superficie: liscia
-index: ''
+index: '3'
 ---
-punto ottimale di impatto ampio ed ideale per imprime velocità ai colpi piatti e tagliati. Costruita in carbonio e fibra di vetro. Ideale per giocatori di livello principiante/intermedio.
+Punto ottimale di impatto ampio ed ideale per imprime velocità ai colpi piatti e tagliati. Costruita in carbonio e fibra di vetro. Ideale per giocatori di livello principiante/intermedio.

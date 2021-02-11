@@ -20,4 +20,4 @@ gomma: EVA soft performance
 superficie: liscia
 index: '6'
 ---
-L’Adidas RX30 è la racchetta della collezione più consigliata per i giocatori di livello intermedio. Presenta un formato rotondo ed un bilanciamento medio per concentrarsi sul controllo. Presenta una struttura in fibra di vetro, sia per il telaio che per i piatti. Questo rende la racchetta un po ‘più leggera e maneggevole, senza perdere resistenza. La caratteristica migliore è che dispone tecnologie strutturali di fascia alta come il Dual Exoskeleton e lo Structural Reinforcement.
+L’Adidas RX30 è una racchetta ideale per giocatori di livello intermedio. Ha una forma rotonda e un bilanciamento centrale. Costruita interamente in fibra di vetro risulta leggera e maneggevole.

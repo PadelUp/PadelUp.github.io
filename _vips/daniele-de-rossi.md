@@ -9,4 +9,4 @@ job: calciatore
 nome: Daniele de Rossi
 professione: calciatore
 ---
-calciatore romano, bandiera del club e tifoso dello stesso, nato ad Ostia (RM) nel 1983 ha vinto un mondiale nel 2006.
+Calciatore romano, bandiera del club e tifoso dello stesso, nato ad Ostia (RM) nel 1983 ha vinto un mondiale nel 2006.

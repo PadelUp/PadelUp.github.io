@@ -18,6 +18,6 @@ livello: intermedio/avanzato
 materiale: carbonio 3k
 gomma: HR3
 superficie: liscia
-index: ''
+index: '8'
 ---
 Uguale per forma e composizione alla ML10 Pro Cup, ma con il tema silver-camouflage!

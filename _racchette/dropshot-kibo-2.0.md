@@ -18,6 +18,6 @@ livello: principiante
 materiale: fibra di vetro
 gomma: EVA
 superficie: liscia
-index: ''
+index: '3'
 ---
-racchetta tonda dal punto di impatto ottimale molto ampio, ideale per giocatori di livello principiante o alle prime armi con questo sport, è costruita in fibra di vetro e al suo interno ha una gomma Full EVA. Incorpora la tecnologia di antivibrazioni e un sistema avanzato di disposizione dei buchi sulla faccia della racchetta.
+Racchetta tonda dal punto di impatto ottimale molto ampio, ideale per giocatori di livello principiante o alle prime armi con questo sport, è costruita in fibra di vetro e al suo interno ha una gomma Full EVA. Incorpora la tecnologia di antivibrazioni e un sistema avanzato di disposizione dei buchi sulla faccia della racchetta.

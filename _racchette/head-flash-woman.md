@@ -18,6 +18,6 @@ livello: principiante donna
 materiale: carbonio
 gomma: EVA
 superficie: liscia
-index: ''
+index: '3'
 ---
-sostanzialmente identica al modello Flash questa racchetta è pensata per le giocatrici di livello principiante o alle prime armi, che cercano una racchetta affidabile e di qualità.
+Sostanzialmente identica al modello Flash questa racchetta è pensata per le giocatrici di livello principiante o alle prime armi, che cercano una racchetta affidabile e di qualità.

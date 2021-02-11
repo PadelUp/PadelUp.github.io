@@ -9,4 +9,4 @@ job: calciatore
 nome: Raul
 professione: calciatore
 ---
-attualmente allenatore di calcio è stata una leggenda del Real Madrid indossando la maglia dei Blancos dal 1992 al 2010, in carriera ha vinto moltissimi trofei nazionali ed internazionali. 
+Attualmente allenatore di calcio è stata una leggenda del Real Madrid indossando la maglia dei Blancos dal 1992 al 2010, in carriera ha vinto moltissimi trofei nazionali ed internazionali. 

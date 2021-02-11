@@ -18,6 +18,6 @@ livello: intermedio/avanzato
 materiale: carbonio
 gomma: EVA super soft
 superficie: ruvida
-index: ''
+index: '6'
 ---
-racchetta dalla forma diamante con le facce ruvide per imprimere rotazioni alla palla. Incorpora nell’impugnatura la tecnologia P-Wristband.
+Racchetta dalla forma diamante con le facce ruvide per imprimere rotazioni alla palla. Incorpora nell’impugnatura la tecnologia P-Wristband.

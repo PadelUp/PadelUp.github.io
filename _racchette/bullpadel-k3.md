@@ -18,6 +18,6 @@ livello: intermedio
 materiale: carbonio
 gomma: EVA
 superficie: liscia
-index: ''
+index: '9'
 ---
-modello progettato per il controllo, infatti la sua forma è rotonda e un bilanciamento in basso per favorire il controllo della palla, con la peculiarità di un piatto ruvido e la tecnologia Double Brige inserita nel cuore per un maggior controllo.
+Modello progettato per il controllo, infatti la sua forma è rotonda e un bilanciamento in basso per favorire il controllo della palla, con la peculiarità di un piatto ruvido e la tecnologia Double Brige inserita nel cuore per un maggior controllo.

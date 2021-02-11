@@ -9,4 +9,4 @@ job: showman
 nome: Fausto Brizzi
 professione: showman
 ---
-registra, scrittore e sceneggiatore romano classe 1986
+Registra, scrittore e sceneggiatore romano classe 1986

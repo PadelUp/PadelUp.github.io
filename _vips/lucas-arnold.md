@@ -9,4 +9,4 @@ job: tennista
 nome: Lucas Arnold
 professione: tennista
 ---
-tennista argentino classe 1974 ha raggiungo il best ranking di N.77 al mondo in singolo e N.21 in doppio. 
+Tennista argentino classe 1974 ha raggiungo il best ranking di N.77 al mondo in singolo e N.21 in doppio. 

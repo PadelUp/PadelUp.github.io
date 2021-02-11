@@ -18,6 +18,6 @@ livello: avanzato
 materiale: 'carbonio '
 gomma: black EVA
 superficie: ruvida
-index: ''
+index: '12'
 ---
-racchetta di controllo ideale per giocatori difensivi di livello elevato, inoltre grazie alla sua forma a diamante consente una buona velocità di palla. Incorpora la tecnologia Triple Threat per la stabilizzazione delle vibrazioni.
+Racchetta di controllo ideale per giocatori difensivi di livello elevato, inoltre grazie alla sua forma a diamante consente una buona velocità di palla. Incorpora la tecnologia Triple Threat per la stabilizzazione delle vibrazioni.

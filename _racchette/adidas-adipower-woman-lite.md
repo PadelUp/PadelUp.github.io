@@ -20,4 +20,4 @@ gomma: EVA soft performance
 superficie: liscia
 index: '9'
 ---
-La Adipower Woman Lite è la versione femminile di queste racchette, per giocatrici di livello intermedio o avanzato alla ricerca di controllo. Presenta un formato rotondo e un bilanciamento basso, oltre a una struttura 100% in fibra di vetro. Inoltre, troviamo anche qui la gomma EVA Soft Performance con un tocco morbido che garantisce un colpo confortevole con più rimbalzo. Una caratteristica esclusiva di questa versione femminile è il suo peso ridotto.
+Versione per giocatrici della gamma Adipower, peculiare per il peso ridotto, è ideale per giocatrici di livello medio/alto che apprezzano il gioco difensivo e di controllo. La leggerezza della pala si ottiene tramite il riempimento in gomma EVA Soft, materiali in fibra di vetro e forma rotonda con bilanciamento basso.

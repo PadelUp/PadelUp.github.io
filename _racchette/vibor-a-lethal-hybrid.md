@@ -18,6 +18,6 @@ livello: intermedio/avanzato
 materiale: carbonio 6k
 gomma: EVA black ultra soft
 superficie: liscia
-index: ''
+index: '4'
 ---
-stessa composizione del modello e Lethal Attack, incorpora differenti tecnologie di anti vibrazione nel cuore della racchetta e sui rivestimenti esterni. Al suo interno troviamo una gomma EVA Super Soft per un massimo controllo della palla.
+Stessa composizione del modello e Lethal Attack, incorpora differenti tecnologie di anti vibrazione nel cuore della racchetta e sui rivestimenti esterni. Al suo interno troviamo una gomma EVA Super Soft per un massimo controllo della palla.

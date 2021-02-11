@@ -10,14 +10,14 @@ model: Metalbone
 marca: adidas
 modello: metalbone
 anno: '2021'
-prezzo: '320'
-forma: rotonda
-bilanciamento: medio
+prezzo: '360'
+forma: diamante oversize
+bilanciamento: alto
 peso: 345-360
 livello: avanzato
 materiale: carbonio e alluminio
 gomma: EVA soft performance
 superficie: ruvida
-index: '18'
+index: '19'
 ---
-La nuova Metalbone arriva anche nella sua versione CTRL, per i giocatori che cercano maggiore manovrabilità e precisione nel loro gioco. La CTRL presenta la stessa fabbricazione della versione power in carbonio e alluminio. Presenti anche le nuove tecnologie del 2021 e i piatti ruvidi con Spin Blade. L’unica differenza la troviamo nel formato, in questo caso rotondo con un bilanciamento medio. Ciò conferisce alla racchetta un punto dolce più ampio ed una maggiore sensazione di maneggevolezza.
+Racchetta ufficiale del giocatore World Padel Tour Ale Galan, attualmente numero 1 al mondo, ideale per i giocatori di spinta, in grado di trasferire un ottimo effetto e potenza ai colpi. Incorpora le tecnologie innovative Adidas ed è adatta a giocatori con una buona esperienza e controllo della racchetta.

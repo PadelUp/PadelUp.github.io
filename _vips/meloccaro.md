@@ -9,4 +9,4 @@ job: giornalista
 nome: Meloccaro
 professione: giornalista
 ---
-giornalista di Sky Sport. 
+Giornalista di Sky Sport. 

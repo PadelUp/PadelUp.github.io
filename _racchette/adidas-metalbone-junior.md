@@ -20,4 +20,4 @@ gomma: EVA soft performance
 superficie: 'liscia '
 index: '1'
 ---
-La Metalbone Youth è una versione per giovani giocatori, ispirata alla racchetta di Ale Galán. Questo modello è l’ideale per i giovani che hanno già esperienza in campo. Si tratta di una racchetta focalizzata sull’attacco, con un formato a diamante, una composizione in fibra di vetro e una gomma EVA Soft Performance all’interno. Dispone della nuova tecnologia Octagonal Structure del 2021.
+Versione per ragazzi del top di gamma di questa collezione: la Metalbone di Ale Galán. Nonostante sia un modello junior necessità di esperienza per essere mangiata al meglio: è infatti un modello di attacco data la sua forma a diamante. Internamente ha una gomma EVA Soft ed una costruzione interamente in fibra di vetro.

@@ -18,6 +18,6 @@ livello: intermedio/avanzato
 materiale: grafene
 gomma: Power Foam
 superficie: ruvida
-index: ''
+index: '11'
 ---
-racchetta dalla forma diamante orientata al gioco offensivo, anche grazie alle facce costruite in fibra di vetro.
+Racchetta dalla forma diamante orientata al gioco offensivo, anche grazie alle facce costruite in fibra di vetro.

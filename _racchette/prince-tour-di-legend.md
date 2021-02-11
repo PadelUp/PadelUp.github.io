@@ -18,6 +18,6 @@ livello: intermedio/avanzato
 materiale: carbonio
 gomma: ''
 superficie: ruvida
-index: ''
+index: '8'
 ---
-racchetta più venduta della collezione, anch’essa con un piatto ruvido. Incorpora le tecnologie FTP e V-Core.
+Racchetta più venduta della collezione, anch’essa con un piatto ruvido. Incorpora le tecnologie FTP e V-Core.

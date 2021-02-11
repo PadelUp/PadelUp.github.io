@@ -20,4 +20,4 @@ gomma: EVA Soft performance
 superficie: liscia
 index: '14'
 ---
-L’Essnova Carbon 3.0 punta a diventare una delle preferite dai giocatori avanzati. Una racchetta potente con una forma a diamante, alto bilanciamento e struttura 100% in carbonio. In particolare, in questo modello, i piatti sono composti da fibra di carbonio 6K. Un altro aspetto importante è che, nonostante sia una racchetta di potenza, dispone di un nucleo in gomma EVA Soft Performance con un tocco morbido.
+L’Essnova Carbon 3.0 è senza dubbio un modello per giocatori di livello medio/alto. Nonostante la forma a diamante si attesta come polivalente ed efficace nelle due fasi: forza in attacco e controllo in difesa, dispone di un nucleo in gomma EVA Soft per un’ottima morbidezza.

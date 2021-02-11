@@ -9,4 +9,4 @@ job: principe
 nome: Alberto di Monaco
 professione: principe
 ---
-conosciuto come Alberto di Monaco, Alexandre Louis Pierre Grimaldi, è principe dal 2005 ed è appassionato di padel, infatti il World Padel Tour organizzava tappe del circuito nel principato coinvolgendo lo stesso principe nella pista di gioco
+Conosciuto come Alberto di Monaco, Alexandre Louis Pierre Grimaldi, è principe dal 2005 ed è appassionato di padel, infatti il World Padel Tour organizzava tappe del circuito nel principato coinvolgendo lo stesso principe nella pista di gioco

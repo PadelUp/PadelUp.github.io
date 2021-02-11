@@ -18,6 +18,6 @@ livello: junior
 materiale: fibra di vetro
 gomma: EVA soft
 superficie: liscia
-index: ''
+index: '2'
 ---
-versione da bambino/ragazzo del modello top di casa della marca, la pala di Juan Martin Diaz, adatta anche alle donne per il suo peso ridotto ma anche per il suo look da top di gamma. È costruita in fibra di vetro con una gomma EVA Soft e Incorpora la tecnologia di antivibrazioni e un sistema avanzato di disposizione dei buchi sulla faccia della racchetta.
+Versione da bambino/ragazzo del modello top di casa della marca, la pala di Juan Martin Diaz, adatta anche alle donne per il suo peso ridotto ma anche per il suo look da top di gamma. È costruita in fibra di vetro con una gomma EVA Soft e Incorpora la tecnologia di antivibrazioni e un sistema avanzato di disposizione dei buchi sulla faccia della racchetta.

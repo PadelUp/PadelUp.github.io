@@ -9,4 +9,4 @@ job: calciatore
 nome: Paul Pogba
 professione: calciatore
 ---
-calcaitore del Manchester United, esploso nella Juventus di mister Allegri, ha vinto il titolo di campione del mondo con la Francia nel 201?
+Calcaitore del Manchester United, esploso nella Juventus di mister Allegri, ha vinto il titolo di campione del mondo con la Francia nel 201?

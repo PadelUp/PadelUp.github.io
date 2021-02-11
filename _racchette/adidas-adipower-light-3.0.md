@@ -20,4 +20,4 @@ gomma: EVA Soft energy
 superficie: liscia
 index: '15'
 ---
-La Adipower Light è un’altra delle racchette più famose e una delle più vendute del 2020. Anche lei arriva alla sua terza versione, riconosciuta per avere una struttura leggera che la rende confortevole e maneggevole. È la racchetta ufficiale di Martita Ortega, una giocatrice che occupa la seconda posizione nella classifica femminile del World Padel Tour. Questa racchetta è molto simile alla versione di controllo, con lo stesso formato e costruzione in carbonio. La differenza, oltre al peso ridotto, risiede in un nucleo Soft Energy più morbido.
+Racchetta ufficiale del giocatore World Padel Tour Marta Ortega, è una delle racchette più famose vendute dello scorso anno. Terza versione, ancora più leggera e maneggevole. Questo modello è simile alla versione di controllo, con il quale condivide formato e materiali di costruzione, mentre si differenza nella morbidezza del nucleo, più morbido in questo modello.

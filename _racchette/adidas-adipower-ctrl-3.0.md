@@ -20,4 +20,4 @@ gomma: 'EVA high memory '
 superficie: liscia
 index: '16'
 ---
-La Adidas Adipower CTRL 3.0 è la versione di controllo, per chi predilige un gioco più comodo e maneggevole. Si tratta della racchetta scelta dal giocatore del World Padel Tour Alex Ruiz per questa nuova stagione 2021. In quanto a materiali e tecnologie è esattamente identica alla versione di potenza. Dispone di una struttura in carbonio, un nucleo EVA High Memory e tutte le altre tecnologie. La differenza risiede nel formato rotondo con bilanciamento medio per ottenere un punto dolce ampio ed una struttura maneggevole e leggera.
+Racchetta ufficiale del giocatore World Padel Tour Alex Ruiz, questa è la versione di controllo della racchetta precedente, per chi ricerca un gioco difensivo e a fondo campo. Costruita interamente in carbonio il nucleo è in gomma EVA High Memory. Rispetto alla precedente ha una forma rotondo ed un bilanciamento nel medio per ottenere maggior maneggevolezza.

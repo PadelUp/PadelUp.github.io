@@ -18,6 +18,6 @@ livello: intermedio
 materiale: carbonio 3k
 gomma: EVA pro
 superficie: ruvida
-index: ''
+index: '5'
 ---
-simile ai modelli explorer degli anni passati questa racchetta dalla forma a goccia e dal piatto ruvido è ideale per giocatori intermedi, che intendono sviluppare un gioco offensivo, senza rinunciare a una gomma EVA Pro. Al suo interno ha un sistema di antivibrazione e il Twin Tubolar System e un sistema avanzato di disposizione dei buchi sulla faccia della racchetta.
+Simile ai modelli explorer degli anni passati questa racchetta dalla forma a goccia e dal piatto ruvido è ideale per giocatori intermedi, che intendono sviluppare un gioco offensivo, senza rinunciare a una gomma EVA Pro. Al suo interno ha un sistema di antivibrazione e il Twin Tubolar System e un sistema avanzato di disposizione dei buchi sulla faccia della racchetta.

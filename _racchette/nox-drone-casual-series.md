@@ -18,6 +18,6 @@ livello: principiante/intermedio
 materiale: carbonio e fibra di vetro
 gomma: HR3
 superficie: ruvida
-index: ''
+index: '3'
 ---
-modello meno pregiato dei pretendenti ma non per questo di bassa qualità. Nox ci ha abituato a racchette pregiate senza dover rincorrere ad una spesa da top di gamma. Questo modello è composto da fibre di vetro e gomma HR3, oltre che una superficie ruvida.
+Modello meno pregiato dei pretendenti ma non per questo di bassa qualità. Nox ci ha abituato a racchette pregiate senza dover rincorrere ad una spesa da top di gamma. Questo modello è composto da fibre di vetro e gomma HR3, oltre che una superficie ruvida.

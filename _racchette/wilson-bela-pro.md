@@ -18,6 +18,6 @@ livello: 'avanzato '
 materiale: carbonio
 gomma: EVA
 superficie: ruvida
-index: ''
+index: '3'
 ---
-progettata in seguito all'accordo tra la legenda del padel Fernando Belasteguin e la famosa marca Wilson. Racchetta utlizzata nelle gare ufficiali dallo stesso giocatore. Design moderno con una forma a diamante, costruita interamente in carbonio di alta qualità per una maggiore resistenza. 
+Progettata in seguito all'accordo tra la legenda del padel Fernando Belasteguin e la famosa marca Wilson. Racchetta utlizzata nelle gare ufficiali dallo stesso giocatore. Design moderno con una forma a diamante, costruita interamente in carbonio di alta qualità per una maggiore resistenza.

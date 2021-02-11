@@ -18,6 +18,6 @@ livello: avanzato
 materiale: carbonio 3k
 gomma: HR3
 superficie: ruvida
-index: ''
+index: '4'
 ---
-modello dalla forma tonda oversize ha un punto di impatto ottimale molto ampio. Costruita in carbonio e fibra di vetro ha un piatto ruvido e una gomma interna HR3. Al suo interno è presente la tecnologia innovativa Nox come il sistema antivibrazioni AVS.
+Modello dalla forma tonda oversize ha un punto di impatto ottimale molto ampio. Costruita in carbonio e fibra di vetro ha un piatto ruvido e una gomma interna HR3. Al suo interno è presente la tecnologia innovativa Nox come il sistema antivibrazioni AVS.

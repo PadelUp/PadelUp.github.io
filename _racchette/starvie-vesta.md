@@ -18,6 +18,6 @@ livello: uomo
 materiale: fibra di vetro
 gomma: EVA soft
 superficie: liscia
-index: ''
+index: '4'
 ---
-racchetta costruita con carbonio e fibra di vetro, ideale per giocatori di livello intermedio alla ricerca del salto di qualità.
+Racchetta costruita con carbonio e fibra di vetro, ideale per giocatori di livello intermedio alla ricerca del salto di qualità.

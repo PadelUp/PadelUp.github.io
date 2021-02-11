@@ -18,6 +18,6 @@ livello: avanzato
 materiale: carbonio
 gomma: EVA soft densa
 superficie: ruvida
-index: ''
+index: '13'
 ---
-racchetta ideata per cercare un bilanciamento ottimale tra potenza e controllo, rendendo le due fasi di gioco confortevoli. Incorpora la tecnologia Star Balance in mezzo alla racchetta oltre alla tecnologia Aluminium Core System.
+Racchetta ideata per cercare un bilanciamento ottimale tra potenza e controllo, rendendo le due fasi di gioco confortevoli. Incorpora la tecnologia Star Balance in mezzo alla racchetta oltre alla tecnologia Aluminium Core System.

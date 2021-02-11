@@ -18,6 +18,6 @@ livello: avanzato
 materiale: carbonio
 gomma: EVA soft
 superficie: ruvida
-index: ''
+index: '14'
 ---
-altra pala che incorpora le migliori tecnologie del brand spagnolo, ha una forma a lacrima e un piatto ruvido per imprimere potenza e rotazioni al colpo. La gomma interna EVA Soft riduce le vibrazioni e ammortizza il colpo.
+Altra pala che incorpora le migliori tecnologie del brand spagnolo, ha una forma a lacrima e un piatto ruvido per imprimere potenza e rotazioni al colpo. La gomma interna EVA Soft riduce le vibrazioni e ammortizza il colpo.

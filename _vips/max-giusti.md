@@ -9,4 +9,4 @@ job: showman
 nome: Max Giusti
 professione: showman
 ---
-cominco, conduttore televisivo e radiofonico, attore, commediografo e doppiatore nato a Roma nel 1968
+Cominco, conduttore televisivo e radiofonico, attore, commediografo e doppiatore nato a Roma nel 1968

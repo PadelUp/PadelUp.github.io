@@ -20,4 +20,4 @@ gomma: EVA soft performance
 superficie: liscia
 index: '11'
 ---
-La versione Lite di Adipower è perfetta per i giocatori di livello intermedio che cercano di raggiungere il livello successivo. Ci troviamo di fronte una racchetta di potenza, con un formato a diamante ed un alto bilanciamento per imprimere più forza nel colpo. La differenza con l’Adipower professionale è il materiale utilizzato nei piatti. In questo modello è stata utilizzata la fibra di vetro ed un nucleo EVA Soft Performance. Il tocco, quindi, risulterà più morbido e confortevole, ma senza perdere in potenza.
+La versione Lite del modello Adipower è ideale per giocatori di livello intermedio ed offre ottime prestazioni in campo. La forma a diamante ed il bilanciamento alto la rendono una racchetta per giocatori offensivi. Rispetto al modello per giocatori di livello esperto qui abbiamo una gomma EVA Soft e l’utilizzo di fibra di vetro per i piatti. Offre una miglior maneggevolezza del colpo senza perdere potenza.

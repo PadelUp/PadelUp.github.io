@@ -9,4 +9,4 @@ job: calciatore
 nome: Andres Iniesta
 professione: calciatore
 ---
-calciatore del Barcellona ha vinto il campionato del mondo con la nazionale Spagnola nel 2010 e campione d'Europa nel 2012; soprannominato Don Andres è considerato uno dei migliori giocatori nella storia del calcio 
+Calciatore del Barcellona ha vinto il campionato del mondo con la nazionale Spagnola nel 2010 e campione d'Europa nel 2012; soprannominato Don Andres è considerato uno dei migliori giocatori nella storia del calcio 

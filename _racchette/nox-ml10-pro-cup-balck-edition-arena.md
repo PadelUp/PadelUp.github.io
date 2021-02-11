@@ -18,6 +18,6 @@ livello: intermedio/avanzato
 materiale: fibra di vetro
 gomma: HR3
 superficie: ruvida
-index: ''
+index: '13'
 ---
-sostanzialmente identica alla ML10 Pro Cup, ha là peculiarità di ottenere la ruvidezza del piatto attraverso l’utilizzo di sabbia di silice per trasferire un maggior effetto ai colpi. 
+Sostanzialmente identica alla ML10 Pro Cup, ha là peculiarità di ottenere la ruvidezza del piatto attraverso l’utilizzo di sabbia di silice per trasferire un maggior effetto ai colpi.

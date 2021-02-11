@@ -9,4 +9,4 @@ job: calciatore
 nome: Iker Casillas
 professione: calciatore
 ---
-ex-portiere della nazionale spagnola, con cui ha vinto un campionato del mondo nel 2010 e due campionati europei nel 2008 e nel 2012, si è ritirato dal calcio professionistico lo scorso anno 
+Ex-portiere della nazionale spagnola, con cui ha vinto un campionato del mondo nel 2010 e due campionati europei nel 2008 e nel 2012, si è ritirato dal calcio professionistico lo scorso anno 

@@ -9,4 +9,4 @@ job: showgirl
 nome: Diletta Leotta
 professione: showgirl
 ---
-conduttrice televisiva e radiofonica nata a Catania nel 1991 si dedica da anni al giornalismo sportivo
+Conduttrice televisiva e radiofonica nata a Catania nel 1991 si dedica da anni al giornalismo sportivo

@@ -9,4 +9,4 @@ job: calciatore
 nome: Demetrio Albertini
 professione: calciatore
 ---
-calciatore è considerato tra i più forti della sua generazione, ha unito la sua carriera sportiva al Milan e a Milano ha fondato il bellissimo club denominato City Padel Milano
+Calciatore è considerato tra i più forti della sua generazione, ha unito la sua carriera sportiva al Milan e a Milano ha fondato il bellissimo club denominato City Padel Milano

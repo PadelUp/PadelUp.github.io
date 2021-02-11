@@ -20,4 +20,4 @@ gomma: EVA soft performance
 superficie: 'liscia '
 index: '10'
 ---
-Adipower Lite è disponibile anche nella sua versione di controllo CTRL. Una racchetta da padel che, con il suo formato rotondo e il bilanciamento medio, favorisce un gioco comodo, preciso e con più maneggevolezza. Presenta una struttura 100% in fibra di vetro e un nucleo EVA Soft Performance per colpire comodamente.
+Questo è il modello di controllo della gamma Adipower, ha infatti un formato rotondo e un bilanciamento al centro, che insieme a gomma EVA Soft la rendono ideale per controllore la palla in qualsiasi situazione di gioco. Ha una costruzione 100% fibra di vetro.

@@ -18,6 +18,6 @@ livello: intermedio
 materiale: carbonio 3k
 gomma: EVA pro
 superficie: liscia
-index: ''
+index: '6'
 ---
-modello simile alla conqueror 6.0, quindi forma a goccia e bilanciamento alto, ideale per giocatori di attacco alla ricerca di colpi potenti e di chiusura, è costruita in carbonio 3k e al suo interno ha una gomma EVA Soft. Incorpora le tecnologie Twin Tubolar System, un protettore di nylon in testa e un sistema di antivibrazioni e un sistema avanzato di disposizione dei buchi sulla faccia della racchetta.
+Modello simile alla conqueror 6.0, quindi forma a goccia e bilanciamento alto, ideale per giocatori di attacco alla ricerca di colpi potenti e di chiusura, è costruita in carbonio 3k e al suo interno ha una gomma EVA Soft. Incorpora le tecnologie Twin Tubolar System, un protettore di nylon in testa e un sistema di antivibrazioni e un sistema avanzato di disposizione dei buchi sulla faccia della racchetta.

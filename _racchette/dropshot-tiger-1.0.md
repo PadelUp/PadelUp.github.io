@@ -18,6 +18,6 @@ livello: baby
 materiale: fibra di vetro
 gomma: full EVA
 superficie: liscia
-index: ''
+index: '1'
 ---
-acchetta raccomandata per i bambini fino ai 9 anni, ha una forma rotonda, è costruita in fibra di vetro e ha al suo interno una gomma Full EVA.
+Acchetta raccomandata per i bambini fino ai 9 anni, ha una forma rotonda, è costruita in fibra di vetro e ha al suo interno una gomma Full EVA.

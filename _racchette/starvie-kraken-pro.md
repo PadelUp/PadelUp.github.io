@@ -18,6 +18,6 @@ livello: intermedio/avanzato
 materiale: carbonio
 gomma: EVA
 superficie: liscia
-index: ''
+index: '12'
 ---
-racchetta ideale per giocatori di livello intermedio/avanzato, risulta leggera e maneggevole soprattuto da fondo campo nella fase difensiva. Ha una gomma di densità media, mentre il modello normale ha una gomma soft.
+Racchetta ideale per giocatori di livello intermedio/avanzato, risulta leggera e maneggevole soprattuto da fondo campo nella fase difensiva. Ha una gomma di densità media, mentre il modello normale ha una gomma soft.

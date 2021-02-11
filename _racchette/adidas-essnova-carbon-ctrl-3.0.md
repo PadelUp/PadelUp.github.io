@@ -20,4 +20,4 @@ gomma: EVA Soft performance
 superficie: liscia
 index: '13'
 ---
-La Essnova dispone anch’essa di una versione di controllo, ideale per il giocatore che desidera una maggiore gestibilità del proprio gioco. In termini di componenti e tecnologie, è identica alla Essnova Carbon 3.0. Anche qui troviamo il carbonio 6K sui piatti e il tubolare in carbonio, così come un nucleo morbido ed elastico. L’unica differenza sta nel formato, in questo modello rotondo e con un bilanciamento medio per favorire il gioco di controllo.
+Anche il modello Essnova ha la sua versione dedicata al controllo, anche questa per giocatori di livello medio alto ricerca la stabilità del colpo senza perdere la potenza. Identica al modello in Carbon 3.0 le due versioni differiscono nel formato, qui è rotondo con un bilanciamento centrale per aumentare il controllo del colpo.

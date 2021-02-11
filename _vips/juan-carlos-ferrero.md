@@ -9,4 +9,4 @@ job: tennista
 nome: Juan Carlos Ferrero
 professione: tennista
 ---
-ex-tennista spagnolo ed attualmente allenatore è stato N.1 del ranking atp nel 2003
+Ex-tennista spagnolo ed attualmente allenatore è stato N.1 del ranking atp nel 2003

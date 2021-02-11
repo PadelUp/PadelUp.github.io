@@ -18,6 +18,6 @@ livello: 'avanzato '
 materiale: carbonio 3k
 gomma: EVA mid soft
 superficie: liscia
-index: ''
+index: '3'
 ---
-racchetta con forma rotonda e bilanciamento al centro, ideale per il controllo della palla e il gioco difensivo, la gomma mediamente morbida conferisce anche una buona spinta in fase di attacco.
+Racchetta con forma rotonda e bilanciamento al centro, ideale per il controllo della palla e il gioco difensivo, la gomma mediamente morbida conferisce anche una buona spinta in fase di attacco.

@@ -18,6 +18,6 @@ livello: intermedio/avanzato
 materiale: carbonio
 gomma: EVA balance
 superficie: ruvida
-index: ''
+index: '5'
 ---
-questa racchetta ricerca l’equilibrio tra potenza e controllo grazie alla gomma EVA Balance, la superficie ruvida imprime effetto ai colpi e l’impugnatura ha la tecnologia P-Wristbanb
+Questa racchetta ricerca l’equilibrio tra potenza e controllo grazie alla gomma EVA Balance, la superficie ruvida imprime effetto ai colpi e l’impugnatura ha la tecnologia P-Wristbanb

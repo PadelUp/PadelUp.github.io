@@ -20,4 +20,4 @@ gomma: EVA soft performance
 superficie: liscia
 index: '2'
 ---
-Al contrario, la Adipower Junior 3.0 è una racchetta per ragazzi e ragazze che stanno appena iniziando a praticare questo sport. È perfetta per i primi allenamenti. È dotata di un formato rotondo, bilanciamento medio, costruzione in fibra di vetro e nucleo EVA Soft Performance per enfatizzare il controllo.
+Rispetto alla Metalbone questo modello Adipower Junior 3.0 è ideale per i ragazzi che iniziano a giocare. Ha una forma rotonda, ed è costruita con lo stesso materiale costruttivo e la stessa gomma EVA Soft della Metalbone Junior

@@ -9,4 +9,4 @@ job: showman
 nome: Paolo Bonolis
 professione: showman
 ---
-conduttore televisivo e showman romano ha condotto numerosissimi programmi per Rai e Mediaset
+Conduttore televisivo e showman romano ha condotto numerosissimi programmi per Rai e Mediaset

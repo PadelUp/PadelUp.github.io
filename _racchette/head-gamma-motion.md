@@ -18,6 +18,6 @@ livello: intermedio/avanzato
 materiale: grafene
 gomma: Power Foam
 superficie: liscia
-index: ''
+index: '8'
 ---
-rispetto al modello Pro qui abbiamo una racchetta di peso inferiore designata anche per le giocatrici, con colori accattivanti ed un design unico.
+Rispetto al modello Pro qui abbiamo una racchetta di peso inferiore designata anche per le giocatrici, con colori accattivanti ed un design unico.

@@ -9,4 +9,4 @@ job: allenatore
 nome: Didier Deschamp
 professione: allenatore
 ---
-allenatore di calcio è stato precedentemente calciatore professionista, nominato miglior calciatore francese nel 2006 ha giocato cinque stagioni nella Juventus vincendo diversi trofei
+Allenatore di calcio è stato precedentemente calciatore professionista, nominato miglior calciatore francese nel 2006 ha giocato cinque stagioni nella Juventus vincendo diversi trofei

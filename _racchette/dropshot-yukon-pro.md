@@ -18,6 +18,6 @@ livello: esperto
 materiale: carbonio 24k
 gomma: EVA soft
 superficie: ruvida
-index: ''
+index: '12'
 ---
-versione più morbida del modello Essence ha la stessa forma a goccia, materiali in carbonio e poliestere, superficie ruvida ma con la gomma Eva soft. Come gli altri modelli della collezione incorpora le tecnologie Twin Tubolar System, un protettore di nylon in testa e un sistema di antivibrazioni e un sistema avanzato di disposizione dei buchi sulla faccia della racchetta.
+Versione più morbida del modello Essence ha la stessa forma a goccia, materiali in carbonio e poliestere, superficie ruvida ma con la gomma Eva soft. Come gli altri modelli della collezione incorpora le tecnologie Twin Tubolar System, un protettore di nylon in testa e un sistema di antivibrazioni e un sistema avanzato di disposizione dei buchi sulla faccia della racchetta.

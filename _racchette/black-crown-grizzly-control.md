@@ -18,6 +18,6 @@ livello: avanzato/intermedio
 materiale: carbonio
 gomma: EVA Super Soft
 superficie: liscia
-index: ''
+index: '2'
 ---
-versione molto simile all'omonimo modello, con la differenza dell'utilizzo di una gomma super soft che rende la racchetta ideale per ammortizzare i colpi. 
+Versione molto simile all'omonimo modello, con la differenza dell'utilizzo di una gomma super soft che rende la racchetta ideale per ammortizzare i colpi.

@@ -18,6 +18,6 @@ livello: junior
 materiale: fibra di vetro
 gomma: ''
 superficie: liscia
-index: ''
+index: '2'
 ---
-racchetta per giocatrici femminili di livello principiante intermedio con una forma rotonda e un punto di impatto ottimale molto ampio.
+Racchetta per giocatrici femminili di livello principiante intermedio con una forma rotonda e un punto di impatto ottimale molto ampio.

@@ -18,6 +18,6 @@ livello: avanzato
 materiale: carbonio 18k
 gomma: EVA soft
 superficie: liscia
-index: ''
+index: '18'
 ---
-rispetto all’omonimo modello questa racchetta ha un bilanciamento basso che aiuta a ricercare un maggior controllo, costruita con gli stessi materiali e caratteristiche del modello precedente.
+Rispetto all’omonimo modello questa racchetta ha un bilanciamento basso che aiuta a ricercare un maggior controllo, costruita con gli stessi materiali e caratteristiche del modello precedente.

@@ -18,6 +18,6 @@ livello: intermedio
 materiale: carbonio 12k
 gomma: EVA tech e soft
 superficie: ruvida
-index: ''
+index: '11'
 ---
-racchetta rotonda indicata per giocatori di controllo, è costruita in carbonio 12k e riempita con gomma EVA Tech ed ha un piatto ruvido. Anch’essa incorpora le tecnologie Twin Tubolar System, un protettore di nylon in testa e un sistema di antivibrazioni e un sistema avanzato di disposizione dei buchi sulla faccia della racchetta.
+Racchetta rotonda indicata per giocatori di controllo, è costruita in carbonio 12k e riempita con gomma EVA Tech ed ha un piatto ruvido. Anch’essa incorpora le tecnologie Twin Tubolar System, un protettore di nylon in testa e un sistema di antivibrazioni e un sistema avanzato di disposizione dei buchi sulla faccia della racchetta.

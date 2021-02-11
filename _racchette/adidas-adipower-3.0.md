@@ -20,4 +20,4 @@ gomma: 'EVA high memory '
 superficie: liscia
 index: '17'
 ---
-Le tecnologie DUAL EXOSKELETON e POWER EMBOSSED RIDGE tireranno fuori il meglio di te nei momenti chiave del gioco e con SPIN BLADE fornisce quell'effetto extra che stavi cercando.
+La racchetta più potente della collezione, la adidas Adipower 3.0 è ideata per giocatori di livello avanzato che cercano una racchetta di alta gamma per ricercare il massimo della potenza. Progettata in forma a diamante e con bilanciamento alto conferisce esplosività ai colpi.

@@ -18,6 +18,6 @@ livello: Junior
 materiale: carbonio
 gomma: Power Foam
 superficie: liscia
-index: ''
+index: '1'
 ---
-modello Junior dal design del modello top di gamma, ècomunque costruita in carbonio ed ha una protezione integrata sulla testa della racchetta.
+Modello Junior dal design del modello top di gamma, ècomunque costruita in carbonio ed ha una protezione integrata sulla testa della racchetta.

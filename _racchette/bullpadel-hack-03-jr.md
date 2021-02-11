@@ -18,6 +18,6 @@ livello: junior
 materiale: carbonio e fibra di vetro
 gomma: EVAlastic
 superficie: liscia
-index: ''
+index: '1'
 ---
-versione per ragazzi del modello utilizzato dal giocatore professionista Paquito Navarro. È costruita in carbonio ed è riempita con gomma EVAlastic.
+Versione per ragazzi del modello utilizzato dal giocatore professionista Paquito Navarro. È costruita in carbonio ed è riempita con gomma EVAlastic.

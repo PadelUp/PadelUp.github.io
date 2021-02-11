@@ -18,6 +18,6 @@ livello: avanzato
 materiale: carbonio 12k
 gomma: EVA black
 superficie: ruvida
-index: ''
+index: '7'
 ---
-modello per giocatori di spinta, offre la massima potenza del colpo grazie al carbonio 12k e una gomma Black EVA. Questo modello ha una forma a goccia e una superficie ruvida.
+Modello per giocatori di spinta, offre la massima potenza del colpo grazie al carbonio 12k e una gomma Black EVA. Questo modello ha una forma a goccia e una superficie ruvida.

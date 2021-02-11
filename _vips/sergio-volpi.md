@@ -9,4 +9,4 @@ job: calciatore
 nome: Sergio Volpi
 professione: calciatore
 ---
-calciatore italiano, nato nel 1974 ha giocato con diversi club di serie A con il maggior numero di presenze nella Sampdoria.
+Calciatore italiano, nato nel 1974 ha giocato con diversi club di serie A con il maggior numero di presenze nella Sampdoria.

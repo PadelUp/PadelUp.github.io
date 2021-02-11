@@ -9,4 +9,4 @@ job: calciatore
 nome: Bruno Giordano
 professione: calciatore
 ---
-attualmente dirigente è stato un calciatore di serie A collezionando il maggior numero di presenze con la maglia della S.S. Lazio.
+Attualmente dirigente è stato un calciatore di serie A collezionando il maggior numero di presenze con la maglia della S.S. Lazio.

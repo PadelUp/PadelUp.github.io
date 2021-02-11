@@ -18,6 +18,6 @@ livello: uomo
 materiale: fibra di vetro
 gomma: EVA soft
 superficie: liscia
-index: ''
+index: '5'
 ---
-altra racchetta ideale per giocatori di livello intermedio, ha una gomma EVA Soft ed una costruzione in fibra di vetro e carbonio.
+Altra racchetta ideale per giocatori di livello intermedio, ha una gomma EVA Soft ed una costruzione in fibra di vetro e carbonio.

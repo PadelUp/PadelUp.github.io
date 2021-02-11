@@ -20,4 +20,4 @@ gomma: EVA soft
 superficie: 'liscia '
 index: '3'
 ---
-Questa racchetta è esattamente la stessa della Match 3.0, ma con una sola differenza. Ha un peso ridotto, una struttura più leggera che la rende più confortevole e maneggevole. Condivide la stessa fabbricazione in fibra di vetro e dispone di un nucleo EVA Soft Performance per un tocco morbido.
+Questa versione è esattamente identica al modello originario ma con un peso inferiore e una costruzione che risulta leggera ed offre maggior controllo della palla.

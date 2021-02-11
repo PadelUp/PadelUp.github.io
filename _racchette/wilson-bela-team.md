@@ -18,6 +18,6 @@ livello: intermedio/avanzato
 materiale: fibra di vetro
 gomma: 'EVA '
 superficie: ruvida
-index: ''
+index: '1'
 ---
-progettata in seguito all'accordo tra la legenda del padel Fernando Belasteguin e la famosa marca Wilson. colorazioni nero e rossa per questa racchetta costruita in fibra di vetro, resistente e manegevole grazie ad un bilanciamento centrale 
+Progettata in seguito all'accordo tra la legenda del padel Fernando Belasteguin e la famosa marca Wilson. colorazioni nero e rossa per questa racchetta costruita in fibra di vetro, resistente e manegevole grazie ad un bilanciamento centrale

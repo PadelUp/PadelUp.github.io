@@ -18,6 +18,6 @@ livello: intermedio
 materiale: carbonio e fibra di vetro
 gomma: EVA soft
 superficie: liscia
-index: ''
+index: '6'
 ---
-racchetta ideale per giocatori di livello intermedio è costruita prevalentemente in fibra di vetro e carbonio, con all’interno una gomma EVA Soft
+Racchetta ideale per giocatori di livello intermedio è costruita prevalentemente in fibra di vetro e carbonio, con all’interno una gomma EVA Soft

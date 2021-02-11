@@ -18,6 +18,6 @@ livello: principiante/intermedio
 materiale: grafene
 gomma: comfort foam
 superficie: liscia
-index: ''
+index: '5'
 ---
-racchetta per i giocatori di livello principiante, infatti la dicitura UL si riferisce ad Ultra Light, ovvero una racchetta molto leggera, che però non fa a meno della qualità Head.
+Racchetta per i giocatori di livello principiante, infatti la dicitura UL si riferisce ad Ultra Light, ovvero una racchetta molto leggera, che però non fa a meno della qualità Head.

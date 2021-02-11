@@ -18,6 +18,6 @@ livello: esperto
 materiale: carbonio 24k
 gomma: EVA pro
 superficie: ruvida
-index: ''
+index: '15'
 ---
 Racchetta dall’elegante design e colorazione ha un piatto ruvido, la forma a goccia e, oltre al consueto carbonio 24k, una nuova fibra di cristalli in poliestere rendono la racchetta molto resistente a colpi potenti ed usi prolungati. incorpora le tecnologie Twin Tubolar System e un sistema di antivibrazioni e un sistema avanzato di disposizione dei buchi sulla faccia della racchetta.

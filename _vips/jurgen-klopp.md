@@ -9,4 +9,4 @@ job: allenatore
 nome: Jurgen Klopp
 professione: allenatore
 ---
-allenatore di calcio del Liverpool F.C. dal 2015 si è conquistato il posto tra i migliori allenatori del mondo alla guida del Borussia Dortmund. 
+Allenatore di calcio del Liverpool F.C. dal 2015 si è conquistato il posto tra i migliori allenatori del mondo alla guida del Borussia Dortmund. 

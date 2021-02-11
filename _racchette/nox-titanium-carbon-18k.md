@@ -18,6 +18,6 @@ livello: avanzato
 materiale: carbonio 18k
 gomma: HR3
 superficie: liscia
-index: ''
+index: '14'
 ---
-prende il nome dalla sua composizione in carbonio 3k su una forma a diamante, questo combinato alla gomma HR3 conferisce un elevato grado di potenza ai colpi in uscita. Al suo interno sono presenti le tecnologie innovative Nox come il sistema antivibrazioni AVS e un manico più lungo per una migliore impugnatura.
+Prende il nome dalla sua composizione in carbonio 3k su una forma a diamante, questo combinato alla gomma HR3 conferisce un elevato grado di potenza ai colpi in uscita. Al suo interno sono presenti le tecnologie innovative Nox come il sistema antivibrazioni AVS e un manico più lungo per una migliore impugnatura.

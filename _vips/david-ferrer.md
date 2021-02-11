@@ -9,4 +9,4 @@ job: tennista
 nome: David Ferrer
 professione: tennista
 ---
-ex-tennista spagnolo ed attualmente allenatore è stato N.3 del ranking ATP nel 2013
+Ex-tennista spagnolo ed attualmente allenatore è stato N.3 del ranking ATP nel 2013

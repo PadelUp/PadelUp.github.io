@@ -18,6 +18,6 @@ livello: avanzato
 materiale: carbonio 6k
 gomma: EVA black soft
 superficie: liscia
-index: ''
+index: '9'
 ---
-racchetta dalla forma rotonda e bilanciamento medio, ideata per giocatrici femminili come suggerisce lo stesso nome, incorpora tutta la qualità e tecnologia delle racchette del brand.
+Racchetta dalla forma rotonda e bilanciamento medio, ideata per giocatrici femminili come suggerisce lo stesso nome, incorpora tutta la qualità e tecnologia delle racchette del brand.

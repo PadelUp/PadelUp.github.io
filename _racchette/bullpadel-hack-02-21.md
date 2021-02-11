@@ -18,6 +18,6 @@ livello: avanzato
 materiale: carbonio 18k
 gomma: Multi EVA
 superficie: liscia
-index: ''
+index: '17'
 ---
-nuovo design per la racchetta ufficiale del giocatore World Padel Tour Paquito Navarro. Racchetta di spinta che usa la tecnologia Adaptia per adattare la velocità di ogni colpo, oltre all’Hesacore di serie e il Metashield in testa.
+Nuovo design per la racchetta ufficiale del giocatore World Padel Tour Paquito Navarro. Racchetta di spinta che usa la tecnologia Adaptia per adattare la velocità di ogni colpo, oltre all’Hesacore di serie e il Metashield in testa.

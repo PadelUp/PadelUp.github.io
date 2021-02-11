@@ -9,4 +9,4 @@ job: tennista
 nome: Jonas Björkman
 professione: tennista
 ---
-ex-tennista ed allenatore di tennis ha all'attivo più di 600 match giocati ha vinto 56 tornei di doppio ed è stato N.4 al mondo nle 1997
+Ex-tennista ed allenatore di tennis ha all'attivo più di 600 match giocati ha vinto 56 tornei di doppio ed è stato N.4 al mondo nle 1997

@@ -18,6 +18,6 @@ livello: intermedio
 materiale: carbonio e fibra di vetro
 gomma: EVA
 superficie: liscia
-index: ''
+index: '8'
 ---
-racchetta per giocatori di livello intermedio, ideale per il giocatore di sinistra grazie ad un bilanciamento alto su una forma a diamante, inoltre al suo interno la gomma EVA Soft consente un buon controllo del colpo.
+Racchetta per giocatori di livello intermedio, ideale per il giocatore di sinistra grazie ad un bilanciamento alto su una forma a diamante, inoltre al suo interno la gomma EVA Soft consente un buon controllo del colpo.

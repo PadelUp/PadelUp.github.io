@@ -9,4 +9,4 @@ job: showgirl
 nome: Matilde brandi
 professione: showgirl
 ---
-showgirl romana classe 1969, è una ballerina, showgirl, conduttrice e attrice sia televisiva sia teatrale.
+Showgirl romana classe 1969, è una ballerina, showgirl, conduttrice e attrice sia televisiva sia teatrale.

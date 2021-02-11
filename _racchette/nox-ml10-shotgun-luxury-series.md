@@ -18,6 +18,6 @@ livello: avanzato
 materiale: carbonio 12k
 gomma: HR3
 superficie: ruvida
-index: ''
+index: '20'
 ---
-racchetta ideata per un controllo ottimale e un’elevata potenza, questo grazie ad una forma ibrida e un piatto ruvido, carbonio 12k e gomma HR3. Al suo interno sono presenti le tecnologie innovative Nox come il sistema antivibrazioni AVS e un manico più lungo per una migliore impugnatura.
+Racchetta ideata per un controllo ottimale e un’elevata potenza, questo grazie ad una forma ibrida e un piatto ruvido, carbonio 12k e gomma HR3. Al suo interno sono presenti le tecnologie innovative Nox come il sistema antivibrazioni AVS e un manico più lungo per una migliore impugnatura.

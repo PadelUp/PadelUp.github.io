@@ -20,4 +20,4 @@ gomma: EVA soft
 superficie: liscia
 index: '4'
 ---
-Questa racchetta è ideale per le tue prime partite di padel. A differenza della Drive, questa racchetta ha un formato All Round, che si adatta a diversi stili di gioco. Presenta una struttura 100% in fibra di vetro e un nucleo in gomma EVA Soft Performance.
+Anche questa racchetta e ideale per giocatori di livello principiante, risulta molto simile al modello Drive con la differenza di un piatto rotondo più largo in grado di rispondere adeguatamente anche in fase offensiva.

@@ -18,6 +18,6 @@ livello: intermedio
 materiale: carbonio 3k
 gomma: EVA soft
 superficie: ruvida
-index: ''
+index: '9'
 ---
-rispetto al modello Delta dell’anno passato ha un protettore di urti in testa e ricerca le prestazioni di una racchetta top di gamma, grazie al suo carbonio 3k e alla gomma EVA Soft, inoltre è presente la tecnologia Twin Tubolar System e un sistema avanzato di disposizione dei buchi sulla faccia della racchetta.
+Rispetto al modello Delta dell’anno passato ha un protettore di urti in testa e ricerca le prestazioni di una racchetta top di gamma, grazie al suo carbonio 3k e alla gomma EVA Soft, inoltre è presente la tecnologia Twin Tubolar System e un sistema avanzato di disposizione dei buchi sulla faccia della racchetta.

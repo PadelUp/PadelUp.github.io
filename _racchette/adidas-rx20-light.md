@@ -20,4 +20,4 @@ gomma: EVA soft performance
 superficie: liscia
 index: '7'
 ---
-La nuova Adidas RX20 Light è identica alla RX30 per quanto riguarda i materiali con cui sono state realizzate, condividono lo stesso formato e hanno anche le stesse tecnologie. Allora qual è la differenza? Questa racchetta ha una struttura più leggera per ottenere un peso ridotto.
+I modelli Adidas RX20 Light e RX30 sono sostanzialmente identiche, sia per caratteristiche che per materiali costruttivi. La differenza sta nel fatto che questa racchetta ha un peso decisamente inferiore e risulta più leggera.

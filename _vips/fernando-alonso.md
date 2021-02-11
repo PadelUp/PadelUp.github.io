@@ -9,4 +9,4 @@ job: pilota
 nome: Fernando Alonso
 professione: pilota
 ---
-pilota spagnolo ha vinto due volte, nel 2005 e 2006 il campionato di Formula 1, ha garaggiato 4 stagioni con la Ferrari
+Pilota spagnolo ha vinto due volte, nel 2005 e 2006 il campionato di Formula 1, ha garaggiato 4 stagioni con la Ferrari

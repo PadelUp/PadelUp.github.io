@@ -18,6 +18,6 @@ livello: principiante donna
 materiale: carbonio e fibra di vetro
 gomma: EVA-lastic
 superficie: liscia
-index: ''
+index: '5'
 ---
-racchetta dall’ottima costruzione per materiali e composizione, ideale per le giocatrici principianti, ha una forma rotonda ed una elevata morbidezza del piatto ottenuta grazie alla gomma EVAlastic.
+Racchetta dall’ottima costruzione per materiali e composizione, ideale per le giocatrici principianti, ha una forma rotonda ed una elevata morbidezza del piatto ottenuta grazie alla gomma EVAlastic.

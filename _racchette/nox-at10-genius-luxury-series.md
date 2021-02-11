@@ -18,6 +18,6 @@ livello: avanzato
 materiale: carbonio 12k
 gomma: HR3
 superficie: ruvida
-index: ''
+index: '21'
 ---
-racchetta composta da carbonio e fibre di vetro sulle facce, ha una superficie ruvida e una forma a diamante per garantire potenza. Al suo interno sono presenti le tecnologie innovative Nox come il sistema antivibrazioni AVS e un manico più lungo per una migliore impugnatura.
+Racchetta composta da carbonio e fibre di vetro sulle facce, ha una superficie ruvida e una forma a diamante per garantire potenza. Al suo interno sono presenti le tecnologie innovative Nox come il sistema antivibrazioni AVS e un manico più lungo per una migliore impugnatura.

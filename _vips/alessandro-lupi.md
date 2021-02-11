@@ -9,4 +9,4 @@ job: giornalista
 nome: Alessandro Lupi
 professione: giornalista
 ---
-giornalista di Sky Sport. 
+Giornalista di Sky Sport. 

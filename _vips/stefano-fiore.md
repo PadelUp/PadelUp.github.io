@@ -9,4 +9,4 @@ job: calciatore
 nome: Stefano Fiore
 professione: calciatore
 ---
-ex centrocampista di serie A ha giocato diverse stagioni nella Lazio attualmente è un collaboratore atletico del Perugia
+Ex centrocampista di serie A ha giocato diverse stagioni nella Lazio attualmente è un collaboratore atletico del Perugia

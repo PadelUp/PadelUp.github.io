@@ -18,6 +18,6 @@ livello: avanzato
 materiale: carbonio 24k
 gomma: EVA soft
 superficie: ruvida
-index: ''
+index: '21'
 ---
 Molto simile al modello Conqueror 9.0 da cui prende il nome, con la differenza della tipologia di gomma utilizzata, qui troviamo una EVA soft. Anche questo modello incorpora le tecnologie Twin Tubolar System, un protettore di nylon in testa e un sistema di antivibrazioni e un sistema avanzato di disposizione dei buchi sulla faccia della racchetta.

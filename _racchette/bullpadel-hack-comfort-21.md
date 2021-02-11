@@ -18,6 +18,6 @@ livello: avanzato
 materiale: carbonio e fibra di vetro
 gomma: EVA
 superficie: liscia
-index: ''
+index: '13'
 ---
-anche questo modello è costruito con materiali innovativi e nuove tecnologie, seguendo lo stile dei modelli Hack, con la particolarità di essere comfort per quanto riguarda materiali e gomma.
+Anche questo modello è costruito con materiali innovativi e nuove tecnologie, seguendo lo stile dei modelli Hack, con la particolarità di essere comfort per quanto riguarda materiali e gomma.

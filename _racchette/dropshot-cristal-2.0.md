@@ -18,6 +18,6 @@ livello: intermedio
 materiale: carbonio 3k
 gomma: EVA soft
 superficie: liscia
-index: ''
+index: '7'
 ---
 Racchetta molto leggera, costruita con un carbonio 3k ha al suo interno una gomma EVA Soft, il piatto è ruvido e la forma è a goccia. Incorpora le tecnologie Twin Tubolar System, un protettore di nylon in testa e un sistema di antivibrazioni e un sistema avanzato di disposizione dei buchi sulla faccia della racchetta.

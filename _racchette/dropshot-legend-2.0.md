@@ -18,6 +18,6 @@ livello: esperto
 materiale: carbonio 24k
 gomma: EVA pro
 superficie: ruvida
-index: ''
+index: '20'
 ---
-racchetta dalla forma rotonda oversize costruita interamente in carbonio 24k è riempita di gomma Eva Pro per garantire un’uscita rapida del colpo. Come gli altri modelli della collezione incorpora le tecnologie Twin Tubolar System, un protettore di nylon in testa e un sistema di antivibrazioni e un sistema avanzato di disposizione dei buchi sulla faccia della racchetta.
+Racchetta dalla forma rotonda oversize costruita interamente in carbonio 24k è riempita di gomma Eva Pro per garantire un’uscita rapida del colpo. Come gli altri modelli della collezione incorpora le tecnologie Twin Tubolar System, un protettore di nylon in testa e un sistema di antivibrazioni e un sistema avanzato di disposizione dei buchi sulla faccia della racchetta.

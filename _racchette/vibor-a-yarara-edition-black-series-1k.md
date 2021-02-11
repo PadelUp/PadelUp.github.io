@@ -18,6 +18,6 @@ livello: avanzato
 materiale: carbonio 6k
 gomma: EVA black soft
 superficie: ruvida
-index: ''
+index: '8'
 ---
-racchetta dal design unico, costruita interamente in carbonio 6k, al suo interno troviamo una gomma EVA Soft che garantisce un ottimo controllo di palla, combina le colorazioni di nero, rosso e oro.
+Racchetta dal design unico, costruita interamente in carbonio 6k, al suo interno troviamo una gomma EVA Soft che garantisce un ottimo controllo di palla, combina le colorazioni di nero, rosso e oro.

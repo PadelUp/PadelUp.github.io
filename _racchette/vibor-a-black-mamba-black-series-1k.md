@@ -18,6 +18,6 @@ livello: avanzato
 materiale: carbonio 6k
 gomma: EVA ultra soft
 superficie: liscia
-index: ''
+index: '6'
 ---
-Racchetta dalla forma a goccia con un’ottima maneggevolezza grazie al bilanciamento medio, costruita in carbonio 6k e carbonio 1k sulle facce. Al suo interno una gomma EVA Ultra Soft assorbe bene le vibrazioni e consente di controllare ogni colpo.
+Acchetta dalla forma a goccia con un’ottima maneggevolezza grazie al bilanciamento medio, costruita in carbonio 6k e carbonio 1k sulle facce. Al suo interno una gomma EVA Ultra Soft assorbe bene le vibrazioni e consente di controllare ogni colpo.

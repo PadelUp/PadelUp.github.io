@@ -9,4 +9,4 @@ job: giornalista
 nome: Dario Marcolin
 professione: giornalista
 ---
-attualmente commentatorte di Dazn è stato un calciatore italiano, tra le più importanti ha vestito la maglia di Lazio, Cagliari, Sampdoria e Napoli
+Attualmente commentatorte di Dazn è stato un calciatore italiano, tra le più importanti ha vestito la maglia di Lazio, Cagliari, Sampdoria e Napoli

@@ -18,6 +18,6 @@ livello: avanzato
 materiale: carbonio flex
 gomma: 'blackeva '
 superficie: liscia
-index: ''
+index: '4'
 ---
 Racchetta costruita interamente in carbonio con peculiarità la potenza. La gomma in Black EVA garantisce una morbidezza ottimale del piatto in tutte le situazioni di gioco. Incorpora le tecnologie di Vibrabsorb System e tecnologia HPS.
