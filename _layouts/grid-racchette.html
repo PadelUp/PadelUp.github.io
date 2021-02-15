@@ -2,7 +2,7 @@
 layout: grid
 ---
 
-{% assign racchette = site.racchette | sort: 'index' | reverse %}
+{% assign racchette = site.racchette | sort: "index" | reverse %}
 {% for racchetta in racchette %}
   {% if racchetta.brand == page.brand %}
     {% include racchette.html %}
