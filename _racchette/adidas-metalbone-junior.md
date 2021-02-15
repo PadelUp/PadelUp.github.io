@@ -1,14 +1,14 @@
 ---
 id: adidas-metalbone-junior
 parent: /wiki/racchette/adidas/
-permalink: /wiki/racchette/adidas/metalbone-junior/
+permalink: /wiki/racchette/adidas/metalbone-youth/
 image_dir: /images/wiki/racchette/
-image: adidas-metalbone-junior.jpg
-title: Adidas Metalbone Junior
+image: adidas-metalbone-youth.jpg
+title: Adidas Metalbone Youth
 brand: adidas
-model: Metalbone Junior
+model: Metalbone Youth
 marca: adidas
-modello: metalbone junior
+modello: metalbone youth
 anno: '2021'
 prezzo: '100'
 forma: diamante

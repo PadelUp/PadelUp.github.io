@@ -8,7 +8,7 @@
     <h2 class="article__title">
       <a href="{{ vip.url | prepend: site.baseurl }}">{{ vip.title }}</a>
     </h2>
-    <p class="article__excerpt">{% if vip.description %}{{ vip.description | capitalize }}{% else %}{{ vip.content | strip_html | truncate: 100 | capitalize}}{% endif %}</p>
+    <p class="article__excerpt">{% if vip.description %}{{ vip.description }}{% else %}{{ vip.content | strip_html | truncate: 100 }}{% endif %}</p>
     <div class="article__bottom">
       <div class="article__btn">
         <a href="{{vip.url | prepend: site.baseurl}}" class="read-more">Entra<i class="ion ion-ios-arrow-forward"></i></a>
