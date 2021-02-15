@@ -13,7 +13,7 @@ layout: default
       <div class="archive-box">
           <h1 class="archive-title">{{ page.title }}</h1>
           <br>
-          <p>{{ page.description | capitalize}}</p>
+          <p>{% if page.description %}{{ page.description }}{% else %}{{ page.content }}{% endif %}</p>
       </div>
       <div class="container__inner">
         <div class="contaniner__inner-box">
