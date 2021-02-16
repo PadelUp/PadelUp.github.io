@@ -18,6 +18,6 @@ livello: avanzato
 materiale: carbonio 3k
 gomma: EVA white
 superficie: ruvida
-index: '4'
+index: 4
 ---
 Edizione limitata del modello più famoso del brand, la Piton torna con un look total Black misto a a un Whittier-gold. Costruzione in carbonio 3k e gomma EVA White, consente un elevato controllo grazie anche alla sua forma rotonda.

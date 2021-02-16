@@ -86,6 +86,7 @@ formcarry-identifier: https://formcarry.com/s/Izvl0LCnVC0m
 # Build settings
 markdown: kramdown
 permalink: pretty
+future: false
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
@@ -139,6 +140,10 @@ defaults:
       path: '_pages'
     values:
       layout: "page"
+  - scope:
+      path: '_posts'
+    values:
+      layout: "post"
   # seo image fallback
   - scope:
       path: ""

@@ -18,6 +18,6 @@ livello: uomo
 materiale: carbonio
 gomma: EVA soft
 superficie: liscia
-index: '6'
+index: 6
 ---
 Racchetta solida grazie alla sua composizione interamente in carbonio, ha una forma ibrida ed una gomma EVA Soft. Ideale per giocatori di livello intermedio.

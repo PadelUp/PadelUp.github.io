@@ -18,6 +18,6 @@ livello: avanzato
 materiale: carbonio
 gomma: ''
 superficie: ruvida
-index: '9'
+index: 2
 ---
 Racchetta ideata per giocatori di potenza, data la sua forma ibrida e la composizione in gomma EVA Power. Incorpora le tecnologie di antivibrazione AHS e l’impugnatura P-Wristband.

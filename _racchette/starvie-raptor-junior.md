@@ -18,6 +18,6 @@ livello: junior
 materiale: fibra di vetro
 gomma: EVA
 superficie: 'liscia '
-index: '1'
+index: 1
 ---
 Versione junior del modello utilizzato dal giocatore wpt Franco Stupaczuk, costruita in fibra di vetro ha una forma rotonda, risulta leggera e maneggevole.

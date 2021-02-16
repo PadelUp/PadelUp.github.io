@@ -18,6 +18,6 @@ livello: avanzato
 materiale: grafene
 gomma: Power Foam
 superficie: ruvida
-index: '13'
+index: 13
 ---
 Racchetta che ricerca la massima potenza senza perdere in controllo, grazie alla sua gomma interna ed alla forma a diamante. Al suo interno troviamo la tecnologia Smart Bridge.

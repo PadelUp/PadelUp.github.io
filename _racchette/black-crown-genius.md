@@ -18,6 +18,6 @@ livello: avanzato
 materiale: carbonio 3k
 gomma: EVA soft
 superficie: ruvida
-index: '6'
+index: 6
 ---
 Racchetta usata dal giocatore World Padel Tour Tito Allemandi per giocatori di livello elevato, con una gomma in EVA memory che si adatta al giocatore, una superficie ruvida e una forma a lacrima, per imprimere potenza senza perdere il controllo.

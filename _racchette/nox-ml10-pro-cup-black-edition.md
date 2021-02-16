@@ -18,6 +18,6 @@ livello: intermedio/avanzato
 materiale: fibra di vetro
 gomma: HR3
 superficie: liscia
-index: '11'
+index: 11
 ---
 Uguale per forma e composizione alla ML10 Pro Cup, ma con il tema dominante della colorazione in nero!

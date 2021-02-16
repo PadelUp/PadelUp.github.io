@@ -1,7 +1,9 @@
 source "https://rubygems.org"
 gem "bundler"
-gem "jekyll", github: "jekyll/jekyll"
-gem "jekyll-paginate"
-gem "jekyll-sitemap"
-gem "jekyll-browsersync", group: [:jekyll_plugins]
-gem "jekyll-seo-tag"
+gem "jekyll", "3.9.0"
+group :jekyll_plugins do
+    gem "jekyll-paginate"
+    gem "jekyll-sitemap"
+    gem "jekyll-seo-tag"
+    gem "kramdown-parser-gfm"
+end

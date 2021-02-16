@@ -18,6 +18,6 @@ livello: principiante/intermedio
 materiale: carbonio
 gomma: ''
 superficie: liscia
-index: '4'
+index: 4
 ---
 Racchetta dalla forma ibrida con una superficie liscia, costruita in carbonio e fibra di vetro. Ideale per giocatori di livello principiante/intermedio.

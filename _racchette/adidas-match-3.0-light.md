@@ -18,6 +18,6 @@ livello: principiante
 materiale: fibra di vetro
 gomma: EVA soft
 superficie: 'liscia '
-index: '3'
+index: 3
 ---
 Questa versione è esattamente identica al modello originario ma con un peso inferiore e una costruzione che risulta leggera ed offre maggior controllo della palla.

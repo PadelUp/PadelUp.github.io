@@ -18,6 +18,6 @@ livello: avanzato
 materiale: carbonio 18k
 gomma: EVA Black
 superficie: ruvida
-index: '25'
+index: 25
 ---
 Racchetta di potenza dalla forma diamante, ha un piatto ruvido e un carbonio 18k, all’interno la gomma Black EVA la rende una racchetta rigida, solida e potente adatta a giocatori esperti. Al suo interno sono presenti le tecnologie innovative Nox come il sistema antivibrazioni AVS e un manico più lungo per una migliore impugnatura.

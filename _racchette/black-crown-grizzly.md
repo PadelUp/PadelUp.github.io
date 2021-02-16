@@ -18,6 +18,6 @@ livello: avanzato/intermedio
 materiale: carbonio
 gomma: EVA Soft
 superficie: liscia
-index: '1'
+index: 1
 ---
 Racchetta dalla forma rotonda, cotruita interamente in carbonio risulta ideale per i giocatori che preferiscono la fase offensiva e il controllo della palla al colpo di chiusura. la gomma EVA Soft garantisce una buona morbidezza del piatto.

@@ -18,6 +18,6 @@ livello: avanzato
 materiale: carbonio+
 gomma: EVA black soft
 superficie: ruvida
-index: '10'
+index: 10
 ---
 Versione dell’anno precedente è molto simile alla stessa dell’anno successivo, qui viene utilizzato un carbonio differente nella costruzione della racchetta.

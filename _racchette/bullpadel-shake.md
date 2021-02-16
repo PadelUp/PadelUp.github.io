@@ -18,6 +18,6 @@ livello: principiante
 materiale: carbonio e fibra di vetro
 gomma: EVA-lastic
 superficie: liscia
-index: '4'
+index: 4
 ---
 Questa è la versione per giocatori del modello Libra.

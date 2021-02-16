@@ -18,6 +18,6 @@ livello: intermedio
 materiale: carbonio 6k
 gomma: EVA Soft performance
 superficie: liscia
-index: '14'
+index: 14
 ---
 L’Essnova Carbon 3.0 è senza dubbio un modello per giocatori di livello medio/alto. Nonostante la forma a diamante si attesta come polivalente ed efficace nelle due fasi: forza in attacco e controllo in difesa, dispone di un nucleo in gomma EVA Soft per un’ottima morbidezza.

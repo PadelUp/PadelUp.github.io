@@ -3,7 +3,7 @@ layout: default
 ---
 
 
-{% assign  racchette_brand = site.racchette | sort: "index" | reversed | where:"brand", page.brand %}
+{% assign  racchette_brand = site.racchette | sort: "index" | reverse | where:"brand", page.brand %}
   
 {% for racchetta in racchette_brand %}
 {% if racchetta.title == page.title %}
@@ -119,9 +119,9 @@ layout: default
           <br>
           {% if prevurl or nexturl %}
           <div class="article__btn">
-              {% if nexturl %}<a href="{{nexturl}}" class="read-more" style="float: left;"><i class="ion ion-ios-arrow-back"> SUCCESSIVA</i></a>{% endif %}
-              {% if prevurl %}<a href="{{prevurl}}" class="read-more" style="float: right;">PRECEDENTE <i class="ion ion-ios-arrow-forward"></i></a>{% endif %}                    
-            </div>
+            {% if nexturl %}<a href="{{nexturl}}" class="read-more" style="float: left;"><i class="ion ion-ios-arrow-back"></i> successiva</a>{% endif %}
+            {% if prevurl %}<a href="{{prevurl}}" class="read-more" style="float: right;">precedente <i class="ion ion-ios-arrow-forward"></i></a>{% endif %}                    
+          </div>
           {% endif %}
           <br>
         </div>

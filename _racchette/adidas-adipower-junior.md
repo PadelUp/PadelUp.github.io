@@ -18,6 +18,6 @@ livello: junior
 materiale: fibra di vetro
 gomma: EVA soft performance
 superficie: liscia
-index: '2'
+index: 2
 ---
 Rispetto alla Metalbone questo modello Adipower Junior 3.0 è ideale per i ragazzi che iniziano a giocare. Ha una forma rotonda, ed è costruita con lo stesso materiale costruttivo e la stessa gomma EVA Soft della Metalbone Junior

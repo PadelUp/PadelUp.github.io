@@ -18,6 +18,6 @@ livello: avanzato
 materiale: carbonio
 gomma: EVA soft
 superficie: ruvida
-index: '15'
+index: 15
 ---
 Racchetta ufficiale del giocatore World Padel Tour Franco Stupaczuk, incorpora nel cuore la tecnologia Raptor Core per ridurre le vibrazioni. I materiali di costruzione ne garantiscono un uso prolungato senza perdere efficenza.

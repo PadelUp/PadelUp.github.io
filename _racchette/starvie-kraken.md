@@ -18,6 +18,6 @@ livello: intermedio/avanzato
 materiale: carbonio
 gomma: EVA soft
 superficie: liscia
-index: '11'
+index: 11
 ---
 Modello uguale all’omonimo Pro con la differenza di essere più morbida grazie all’utilizzo di una gomma EVA Soft

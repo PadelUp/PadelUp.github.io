@@ -18,6 +18,6 @@ livello: intermedio
 materiale: fibra di vetro
 gomma: EVA soft performance
 superficie: liscia
-index: '6'
+index: 6
 ---
 L’Adidas RX30 è una racchetta ideale per giocatori di livello intermedio. Ha una forma rotonda e un bilanciamento centrale. Costruita interamente in fibra di vetro risulta leggera e maneggevole.

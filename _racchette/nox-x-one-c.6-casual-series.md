@@ -18,6 +18,6 @@ livello: principiante/intermedio
 materiale: fibra di vetro
 gomma: HR3
 superficie: liscia
-index: '2'
+index: 2
 ---
 Racchetta per giocatori principianti ha una forma tonda e un punto ottimale d’impatto ampio, fibra di vetro e gomma HR3 con una superficie liscia.

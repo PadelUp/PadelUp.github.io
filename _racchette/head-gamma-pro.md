@@ -18,6 +18,6 @@ livello: avanzato/avanzato
 materiale: grafene
 gomma: Power Foam
 superficie: liscia
-index: '10'
+index: 10
 ---
 Altra racchetta di alta gamma ideale per giocatori di livello esperto, incorpora il grafene nella struttura ed ha una forma esagonale, incorpora le tecnologie Smart Bridge e Anti Shock Skin.

@@ -18,6 +18,6 @@ livello: 'avanzato '
 materiale: carbonio
 gomma: EVA soft
 superficie: ruvida
-index: '2'
+index: 2
 ---
 Progettata in seguito all'accordo tra la legenda del padel Fernando Belasteguin e la famosa marca Wilson. Altro top di gamma della casa è costruita in carbonio e fibra di vetro, maggior controllo e precesione grazie ad una gomma EVA a bassa densità. Incorpora la tecnologia innovativa Arrow Grip per una migliore impugnatura

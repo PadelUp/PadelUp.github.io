@@ -18,6 +18,6 @@ livello: intermedio/avanzato
 materiale: carbonio+
 gomma: EVA black soft
 superficie: ruvida
-index: '3'
+index: 3
 ---
 Acchetta dalla dimensione a diamante è ideale per i giocatori di attacco, il bilanciamento in alto infatti garantisce ottima potenza in uscita e la gomma EVA Soft consente di ammortizzare i colpi e controllare la palla.

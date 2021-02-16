@@ -18,6 +18,6 @@ livello: avanzato
 materiale: grafene
 gomma: comfort foam
 superficie: liscia
-index: '9'
+index: 9
 ---
 Racchetta per giocatori di livello intermedio avanzato, ha una forma rotonda e una gomma confort che conferisce maneggevolezza alla racchetta.

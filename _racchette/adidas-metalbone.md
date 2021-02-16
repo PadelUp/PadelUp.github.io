@@ -18,6 +18,6 @@ livello: avanzato
 materiale: carbonio e alluminio
 gomma: EVA soft performance
 superficie: ruvida
-index: '19'
+index: 19
 ---
 Racchetta ufficiale del giocatore World Padel Tour Ale Galan, attualmente numero 1 al mondo, ideale per i giocatori di spinta, in grado di trasferire un ottimo effetto e potenza ai colpi. Incorpora le tecnologie innovative Adidas ed è adatta a giocatori con una buona esperienza e controllo della racchetta.

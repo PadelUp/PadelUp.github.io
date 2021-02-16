@@ -18,6 +18,6 @@ livello: avanzato
 materiale: carbonio 6k
 gomma: EVA black soft
 superficie: ruvida
-index: '11'
+index: 11
 ---
 Costruita su un tubolare di carbonio ha anche le facce in carbonio 6k e una gomma EVA Soft che rende la racchetta maneggevole in fase difensiva e aggressiva in fase di spinta. Ha un sistema di anti vibrazioni incorporato e le colorazioni principali sono rosso e nero.

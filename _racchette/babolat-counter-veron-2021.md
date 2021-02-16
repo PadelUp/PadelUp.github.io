@@ -18,6 +18,6 @@ livello: avanzato/intermedio
 materiale: carbonio
 gomma: ''
 superficie: liscia
-index: '6'
+index: 6
 ---
 Altra racchetta per giocatori di livello avanzato fa sempre parte dei top di gamma della casa, ha una forma ibrida e un bilanciamento medio, che la rendono ideale per il gioco di controllo.

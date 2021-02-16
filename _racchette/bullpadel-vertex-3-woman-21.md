@@ -18,6 +18,6 @@ livello: avanzato donna
 materiale: fibra di vetro
 gomma: EVA
 superficie: liscia
-index: '14'
+index: 14
 ---
 Versione per il pubblico femminile del modello utilizzato dal giocatore Maxi Sanchez. Bilanciamento alto e forma a diamante garantiscono un gioco offensivo ottimale per giocatrici di sinistra.

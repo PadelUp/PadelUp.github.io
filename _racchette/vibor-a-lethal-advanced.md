@@ -18,6 +18,6 @@ livello: intermedio/avanzato
 materiale: carbonio
 gomma: EVA Black Ultra Soft
 superficie: ruvida
-index: '2'
+index: 2
 ---
 Costruita con carbonio 3k per la composizione esterna e carbonio 6k per le facce offre una buona spinta e un ottimo controllo di palla grazie alla gomma EVA Black Ultra Soft, ideale per giocatori di tipo difensivo.

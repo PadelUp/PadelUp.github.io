@@ -18,6 +18,6 @@ livello: intermedio
 materiale: carbonio 12k
 gomma: EVA soft
 superficie: liscia
-index: '10'
+index: 10
 ---
 Molto simile al modello explorer pro ha la stoffa forma rotonda e il carbonio 12k con la differenza della gomma EVA Soft. Incorpora le tecnologie Twin Tubolar System, un protettore di nylon in testa e un sistema di antivibrazioni e un sistema avanzato di disposizione dei buchi sulla faccia della racchetta.

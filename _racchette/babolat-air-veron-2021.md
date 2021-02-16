@@ -18,6 +18,6 @@ livello: avanzato/intermedio
 materiale: carbonio
 gomma: multi eva
 superficie: liscia
-index: '5'
+index: 5
 ---
 Altro modello top di gamma, indirizzato alla potenza del colpo, ideale per giocatori di livello avanzato che cercano anche il controllo del colpo oltre alla pure potenza; questo grazie al nucleo in gomma EVA e al bilanciamento centrale.

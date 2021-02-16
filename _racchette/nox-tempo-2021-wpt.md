@@ -18,6 +18,6 @@ livello: avanzato
 materiale: carbonio 12k
 gomma: EVA black
 superficie: ruvida
-index: '24'
+index: 24
 ---
 Altra racchetta per giocatori esperti è costruita in carbonio 12k con la superficie ruvida, anche questo modella ha una gomma interna Black EVA, risulta precisa, maneggevole e comoda. Al suo interno sono presenti le tecnologie innovative Nox come il sistema antivibrazioni AVS e un manico più lungo per una migliore impugnatura.

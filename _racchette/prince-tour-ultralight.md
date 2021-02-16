@@ -18,6 +18,6 @@ livello: junior
 materiale: 'fibra di vetro '
 gomma: ''
 superficie: liscia
-index: '1'
+index: 1
 ---
 Racchetta per giocatori di livello principiante intermedio con una forma rotonda e un punto di impatto ottimale molto ampio.

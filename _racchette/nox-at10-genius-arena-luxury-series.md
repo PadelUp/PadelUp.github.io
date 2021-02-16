@@ -18,6 +18,6 @@ livello: avanzato
 materiale: carbonio 12k
 gomma: HR3
 superficie: ruvida
-index: '22'
+index: 22
 ---
 Molto simile al modello utilizzato da agustin tapia con la differenza che la ruvidezza del piatto è ottenuta tramite una finitura in sabbia di salice per un maggior effetto.

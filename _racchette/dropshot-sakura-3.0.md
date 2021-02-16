@@ -18,6 +18,6 @@ livello: principiante/intermedio
 materiale: fibra di vetro
 gomma: EVA soft
 superficie: liscia
-index: '4'
+index: 4
 ---
 Racchetta dalla forma a goccia ma con un ampio punto di impatto ottimale è adatta ai giocatori di livello principiante/intermedio, è costruita in fibra di vetro e al suo interno ha una gomma EVA Soft. Incorpora la tecnologia di antivibrazioni e un sistema avanzato di disposizione dei buchi sulla faccia della racchetta.

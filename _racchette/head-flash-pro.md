@@ -18,6 +18,6 @@ livello: principiante
 materiale: fibra di vetro
 gomma: gommapiuma
 superficie: liscia
-index: '6'
+index: 6
 ---
 Modello per giocatori di livello principiante intermedio, costruita interamente in carbonio offre ottime prestazioni in rapporto al prezzo modico. Incorpora nel telaio un protettore per gli urti.

@@ -18,6 +18,6 @@ livello: avanzato
 materiale: carbonio
 gomma: EVA soft pro
 superficie: ruvida
-index: '17'
+index: 17
 ---
 Racchetta per giocatori di livello avanzato, consente una buona spinta grazie alla sua forma a goccia e il piatto ruvido, ed una gomma di densità media, unica differenza con il modello Triton

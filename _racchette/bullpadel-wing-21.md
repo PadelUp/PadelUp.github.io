@@ -18,6 +18,6 @@ livello: intermedio
 materiale: carbonio
 gomma: EVA
 superficie: liscia
-index: '11'
+index: 11
 ---
 Racchetta che combina la fibra di vetro e quella di carbonio, risultando polivalente grazie anche alla forma a goccia e il bilanciamento al centro. Sempre per giocatori di livello avanzato che cercano la spinta del colpo senza perderne il controllo.

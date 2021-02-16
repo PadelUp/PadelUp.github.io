@@ -18,6 +18,6 @@ livello: intermedio/avanzato
 materiale: carbonio 3k
 gomma: HR3
 superficie: liscia
-index: '10'
+index: 10
 ---
 Uguale per forma e composizione alla ML10 Pro Cup, ma dal peso inferiore ideale per giocatrici femminili che non vogliono rinunciare a questo bellissimo modello

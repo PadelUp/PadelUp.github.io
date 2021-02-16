@@ -18,6 +18,6 @@ livello: esperto
 materiale: carbonio 24k
 gomma: EVA soft
 superficie: ruvida
-index: '13'
+index: 13
 ---
 Racchetta dalla forma rotonda oversize ha un punto di impatto ottimale ampio, la superficie è ruvida ed è costruita con carbonio e fibra di cristalli in poliestere. In essa sono presenti le tecnologie Twin Tubolar System, un protettore di nylon in testa e un sistema di antivibrazioni e un sistema avanzato di disposizione dei buchi sulla faccia della racchetta.

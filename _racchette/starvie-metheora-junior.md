@@ -18,6 +18,6 @@ livello: junior
 materiale: fibra di vetro
 gomma: EVA
 superficie: 'liscia '
-index: '2'
+index: 2
 ---
 Versione junior del modello utilizzato dal giocatore wpt Mati Diaz, ha una forma rotonda ed un peso contenuto, ideale per imparare e prendere confidenza con questo sport.

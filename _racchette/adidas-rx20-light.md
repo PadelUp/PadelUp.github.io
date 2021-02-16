@@ -18,6 +18,6 @@ livello: principiante/intermedio
 materiale: fibra di vetro
 gomma: EVA soft performance
 superficie: liscia
-index: '7'
+index: 7
 ---
 I modelli Adidas RX20 Light e RX30 sono sostanzialmente identiche, sia per caratteristiche che per materiali costruttivi. La differenza sta nel fatto che questa racchetta ha un peso decisamente inferiore e risulta più leggera.

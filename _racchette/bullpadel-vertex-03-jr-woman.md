@@ -18,6 +18,6 @@ livello: junior
 materiale: carbonio e fibra di vetro
 gomma: EVAlastic
 superficie: liscia
-index: '3'
+index: 3
 ---
 Versione per ragazze del modello utilizzato dai giocatori Maxi Sanchez e Fede Chingotto. Anche questo modello è costruito interamente in carbonio con i piatti

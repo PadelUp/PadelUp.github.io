@@ -18,6 +18,6 @@ livello: avanzato
 materiale: carbonio
 gomma: 'EVA high memory '
 superficie: liscia
-index: '16'
+index: 16
 ---
 Racchetta ufficiale del giocatore World Padel Tour Alex Ruiz, questa è la versione di controllo della racchetta precedente, per chi ricerca un gioco difensivo e a fondo campo. Costruita interamente in carbonio il nucleo è in gomma EVA High Memory. Rispetto alla precedente ha una forma rotondo ed un bilanciamento nel medio per ottenere maggior maneggevolezza.

@@ -18,6 +18,6 @@ livello: avanzato
 materiale: carbonio
 gomma: EVA Soft energy
 superficie: liscia
-index: '15'
+index: 15
 ---
 Racchetta ufficiale del giocatore World Padel Tour Marta Ortega, è una delle racchette più famose vendute dello scorso anno. Terza versione, ancora più leggera e maneggevole. Questo modello è simile alla versione di controllo, con il quale condivide formato e materiali di costruzione, mentre si differenza nella morbidezza del nucleo, più morbido in questo modello.

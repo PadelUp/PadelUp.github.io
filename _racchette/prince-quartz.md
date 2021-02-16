@@ -18,6 +18,6 @@ livello: intermedio/avanzato
 materiale: carbonio
 gomma: EVA super soft
 superficie: ruvida
-index: '7'
+index: 7
 ---
 Racchetta dal look femminile sempre appartenente alla gamma alta, consente di gestire in modo ottimale sia la fase offensiva sia la fase difensiva. Al suo interno troviamo la tecnologia Triple Threat per ridurre le vibrazioni.

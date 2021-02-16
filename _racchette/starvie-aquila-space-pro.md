@@ -18,6 +18,6 @@ livello: intermedio/avanzato
 materiale: carbonio
 gomma: EVA
 superficie: ruvida
-index: '10'
+index: 10
 ---
 Racchetta costruita interamente in carbonio, ideata per giocatori offensivi data la sua forma a goccia e un punto di impatto ottimale largo e una densità di gomma EVA medio/alta.

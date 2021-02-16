@@ -18,6 +18,6 @@ livello: avanzato
 materiale: carbonio
 gomma: EVA soft
 superficie: ruvida
-index: '16'
+index: 16
 ---
 Modello identico al Triton Pro con la differenza dell’utilizzo di una gomma EVA Soft per un maggior controllo della palla.

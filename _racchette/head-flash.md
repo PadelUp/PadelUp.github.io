@@ -18,6 +18,6 @@ livello: principante/intermedio
 materiale: carbonio
 gomma: EVA
 superficie: lisica
-index: '4'
+index: 4
 ---
 Simile al suo modello Pro questa racchetta è ideale per giocatori principianti, essendo ancora più leggera e maneggevole dell’omonimo modello pro.

@@ -18,6 +18,6 @@ livello: intermedio
 materiale: carbonio
 gomma: EVA soft
 superficie: liscia
-index: '7'
+index: 7
 ---
 Racchetta dal peso decisamente inferiore dello stesso modello utilizzato dalla giocatrice professionista Alejandra Salazar, pensata per giocatori e giocatrici di livello amatoriale/intermedio.

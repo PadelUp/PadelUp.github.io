@@ -18,6 +18,6 @@ livello: avanzato
 materiale: carbonio
 gomma: EVA super soft
 superficie: ruvida
-index: '11'
+index: 11
 ---
 Racchetta di alta gamma della nuova collezione, ideata per garantire equilibrio nelle due fasi, risulta versatile e imprime effetto ai colpi grazie alla superficie ruvida.

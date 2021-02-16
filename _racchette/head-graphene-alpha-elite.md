@@ -18,6 +18,6 @@ livello: intermedio/avanzato
 materiale: grafene
 gomma: Power Foam
 superficie: liscia
-index: '12'
+index: 12
 ---
 Altra racchetta pensata per giocatori di livello avanzato risulta un’ottima arma in entrambe le fasi: nella difesa da fondo campo risulta morbida come gli altri modelli e la forma aiuta nella spinta in attacco. incorpora le tecnologie Smart Bridge e Anti Shock Skin.

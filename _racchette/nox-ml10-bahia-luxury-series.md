@@ -18,6 +18,6 @@ livello: avanzato
 materiale: carbonio 12k
 gomma: HR3
 superficie: ruvida
-index: '19'
+index: 19
 ---
 Equilibrio tra potenza e controllo, forma ibrida e piatto ruvido per questa racchetta pensata per giocatori professionisti, forma a goccia e costruzione in carbonio. Al suo interno sono presenti le tecnologie innovative Nox come il sistema antivibrazioni AVS e un manico più lungo per una migliore impugnatura.

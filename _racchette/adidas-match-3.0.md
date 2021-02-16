@@ -18,6 +18,6 @@ livello: principiante
 materiale: fibra di vetro
 gomma: EVA soft
 superficie: liscia
-index: '4'
+index: 4
 ---
 Anche questa racchetta e ideale per giocatori di livello principiante, risulta molto simile al modello Drive con la differenza di un piatto rotondo più largo in grado di rispondere adeguatamente anche in fase offensiva.

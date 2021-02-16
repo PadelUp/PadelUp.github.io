@@ -18,6 +18,6 @@ livello: 'principiante '
 materiale: carbonio
 gomma: 'Soft foam '
 superficie: liscia
-index: '2'
+index: 2
 ---
 Modello che si ispira a quello del giocatore patrocinato dalla marca, destinata però a giocatori di livello principiante, ha infatti un punto di impatto ottimale molto alto e un’ottima qualità costruttiva.

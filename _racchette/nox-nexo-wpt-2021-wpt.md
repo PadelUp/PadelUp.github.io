@@ -18,6 +18,6 @@ livello: avanzato
 materiale: carbonio 12k
 gomma: EVA black
 superficie: ruvida
-index: '23'
+index: 23
 ---
 Anche questo modello fa parte della serie WPT e condivide con il modello Tempo il carbonio 12k e la superficie ruvida. Ideale per il controllo del colpo grazie alla forma rotonda e il bilanciamento basso. Al suo interno sono presenti le tecnologie innovative Nox come il sistema antivibrazioni AVS e un manico più lungo per una migliore impugnatura.

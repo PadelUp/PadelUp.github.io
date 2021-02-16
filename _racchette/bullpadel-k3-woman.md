@@ -18,6 +18,6 @@ livello: intermedio
 materiale: carbonio
 gomma: EVA
 superficie: liscia
-index: '10'
+index: 10
 ---
 Versione femminile del modello precedente, ideale per giocatrici di livello intermedio/avanzato, ha la stessa forma e la stessa composizione, manca il Double Bridge ma è comunque costruita con i migliori materiali utilizzati dalla marca.

@@ -18,6 +18,6 @@ livello: intermedio/avanzato
 materiale: grafene
 gomma: comfort foam
 superficie: liscia
-index: '7'
+index: 7
 ---
 Modello per giocatori di livello intermedio è ideale per il controllo del colpo grazie al suo bilanciamento basso, la forma a diamante invece consente di imprimere una discreta potenza.

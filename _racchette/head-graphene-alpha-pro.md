@@ -18,6 +18,6 @@ livello: avanzato
 materiale: grafene
 gomma: Power Foam
 superficie: liscia
-index: '15'
+index: 15
 ---
 Racchetta ufficiale del giocatore world Padel tour Sanyo Gutierrez, adatta a giocatori difensivi con un gioco da fondo campo grazie all’eccezionale maneggevolezza della racchetta. Top di gamma della marca incorpora le tecnologie Smart Bridge e Anti Shock Skin.

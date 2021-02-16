@@ -18,6 +18,6 @@ livello: principiante/intermedio
 materiale: fibra di veto
 gomma: EVA soft performance
 superficie: liscia
-index: '8'
+index: 8
 ---
 L’Adidas RX10 è la racchetta da padel che dovresti scegliere se sei approdato da poco ad un livello intermedio. È il modello più maneggevole della serie RX, con un formato rotondo e un bilanciamento medio. Presenta inoltre una costruzione in fibra di vetro e un nucleo in gomma EVA Soft Performance.

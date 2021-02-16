@@ -18,6 +18,6 @@ livello: avanzato
 materiale: carbonio
 gomma: ''
 superficie: ruvida
-index: '10'
+index: 10
 ---
 Racchetta polivalente dal piatto ruvido, la gomma Black EVA garantisce un buon controllo della palla. Incorpora le tecnologie di anti vibrazione AHS e impugnatura P-Wristband.

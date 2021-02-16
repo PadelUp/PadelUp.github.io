@@ -18,6 +18,6 @@ livello: 'principiante '
 materiale: fibra di vetro
 gomma: EVA soft
 superficie: 'liscia '
-index: '5'
+index: 5
 ---
 Questa racchetta è ideale per principianti, un ottimo strumento per prendere dimestichezza con questo sport. È costruita interamente in fibra di vetro, ha una forma rotonda e un bilanciamento centrale. Grazie alla morbidezza del piatto si ottiene un punto di impatto ottimale molto ampio.
