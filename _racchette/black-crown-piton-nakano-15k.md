@@ -18,6 +18,6 @@ livello: intermedio/avanzato
 materiale: carbonio 15k
 gomma: EVA Super Soft
 superficie: liscia
-index: '9'
+index: 9
 ---
 L'obbiettivo di questa racchetta è coniugare potenza e controllo, come? Grazie ad una gomma EVA Super Soft offre controllo del colpo, mentre grazie al carbonio 15k ha la rigidtà necessaria per offrire potenza alla palla.

@@ -18,6 +18,6 @@ livello: intermedio/avanzato
 materiale: carbonio
 gomma: Black EVA Soft
 superficie: ruvida
-index: '14'
+index: 14
 ---
 Racchetta ideata per giocatrici, infatti le sue colorazioni in viola e il peso viola la rendono ideale per ragazze. Anche questo modello è indicato per un gioco principalmente offensivo ed è ideale per giocatrici di livello intermedio/avanzato.

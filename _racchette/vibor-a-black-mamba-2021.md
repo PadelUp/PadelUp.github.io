@@ -18,6 +18,6 @@ livello: avanzato
 materiale: carbonio
 gomma: Black EVA Soft
 superficie: ruvida
-index: '12'
+index: 12
 ---
 Edizione 2021 di uno dei modelli più apprezzati e conosciuti dell'intera marca. Questa racchetta ha una combinazioni di colorazioni gialle e nere; incorpora nuove tecnologie nel carbonio ed una gomma Black EVA che la rende perfetta anche per il gioco difensivo

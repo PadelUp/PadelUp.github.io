@@ -18,6 +18,6 @@ livello: intermedio/avanzato
 materiale: carbonio e alluminio
 gomma: Power Soft Memory EVA
 superficie: liscia
-index: '8'
+index: 8
 ---
 Rispetto alla Piton 9.0 questa versione incorpora una gomma Power Soft Memory EVA, che offre un punto ottimale di impatto più ampio ed un maggior controllo.

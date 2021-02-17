@@ -18,6 +18,6 @@ livello: avanzato
 materiale: carbonio
 gomma: Black EVA
 superficie: ruvida
-index: '13'
+index: 13
 ---
 Nuova versione di un classico della marca. Si presenta con colorazioni lucide e una superfici ruvida sul piatto; costruita interamente in carbonio ha un bilanciamento in alto, che le rende ideale per giocatori di attacco.

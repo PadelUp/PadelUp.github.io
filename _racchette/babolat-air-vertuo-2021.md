@@ -18,6 +18,6 @@ livello: intermedio
 materiale: carbonio e vetroresina
 gomma: Black EVA
 superficie: liscia
-index: '8'
+index: 8
 ---
 Rispetto agli altri modelli della collezione possiamo dire che l'Air è quello più di controllo. Ha un peso ridotto ed un sistema di antivibrazione integrarato, che insieme alla gomma elastica offre controllo e morbidezza del colpo.

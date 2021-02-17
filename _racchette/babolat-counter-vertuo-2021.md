@@ -18,6 +18,6 @@ livello: intermedio
 materiale: carbonio e vetroresina
 gomma: Black EVA
 superficie: liscia
-index: '9'
+index: 9
 ---
 Anche questo modello, seppure con una forma diversa, cerca di offrire il massimo della potenza ad ogni colpo, combinando una gomma EVA di ottima qualità e buoni materiali costruttivi.

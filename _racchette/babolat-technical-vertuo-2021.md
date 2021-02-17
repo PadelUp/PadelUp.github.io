@@ -18,6 +18,6 @@ livello: intermedio
 materiale: carbonio e vetroresina
 gomma: Black EVA
 superficie: liscia
-index: '7'
+index: 7
 ---
 Modello della fascia di prezzo intermedia, ideale ed ideato per giocatori offensivi. Quello che cerca di offrire questa racchetta, dalla forma e caratteristiche per attaccanti, è il controllo del colpo

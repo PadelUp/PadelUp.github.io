@@ -18,6 +18,6 @@ livello: intermedio/avanzato
 materiale: carbonio 3k
 gomma: Super Control Black EVA
 superficie: liscia
-index: '7'
+index: 7
 ---
 Nuova versione in linea con i modelli Piton precedenti. Questa racchetta ha una forma rotonda ed aggiunge potenza al gioco grazie alla struttura in carbonio in 3k; il controllo è ottenuto grazie ad una gomma Black EVA Super Control.
