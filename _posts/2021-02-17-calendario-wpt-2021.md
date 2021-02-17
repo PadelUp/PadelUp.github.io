@@ -6,7 +6,7 @@ date: 2021-02-17T16:39:25.062Z
 image: /images/posts/calendario-wpt-2021-01.jpg
 tags:
   - news
-author: saint
+author: jack
 ---
 Riparte il miglior padel del mondo!
 
