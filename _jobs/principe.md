@@ -4,7 +4,7 @@ parent: /wiki/vip/
 permalink: /wiki/vip/principe/
 image_dir: /images/wiki/jobs/
 image: principe.jpg
-title: Principe
+title: Principi
 job: principe
 professione: principe
 ---

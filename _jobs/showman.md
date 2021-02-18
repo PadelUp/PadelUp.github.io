@@ -4,7 +4,7 @@ parent: /wiki/vip/
 permalink: /wiki/vip/showman/
 image_dir: /images/wiki/jobs/
 image: showman.jpg
-title: Showman
+title: Showmans
 job: showman
 professione: showman
 ---

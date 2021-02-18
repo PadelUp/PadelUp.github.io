@@ -34,9 +34,10 @@ layout: default
       </div>  
       {% endif %}
       <div class="post-head">
-        <div class="post-info">
-        </div>
         <h1 class="post-title">{{ page.title | escape }}</h1>
+        <div class="post-info">
+          <p>{{ page.professione | capitalize }}</p>
+        </div>
       </div>
       <div class="image-box">
         <img class="post-image racchette" src="{{site.baseurl}}{{ page.image_dir }}{{ page.image }}" alt="{{page.title}} padel">
@@ -54,6 +55,18 @@ layout: default
 
         <div class="post__content">
           {{ content }}
+          {% if page.padel %}
+          <h3>{{page.title}} e il Padel</h3>
+            {{page.padel}}
+          {% endif %}
+          {% if page.youtube %}
+            {{page.youtube}}
+          {% endif %}
+          {% if page.instagram %}
+            <p>
+              {{page.instagram}}
+            </p>
+          {% endif %}
           <br>
           {% if prevurl or nexturl %}
           <div class="article__btn">

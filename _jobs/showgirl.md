@@ -4,7 +4,7 @@ parent: /wiki/vip/
 permalink: /wiki/vip/showgirl/
 image_dir: /images/wiki/jobs/
 image: showgirl.jpg
-title: Showgirl
+title: Showgirls
 job: showgirl
 professione: showgirl
 ---
