@@ -3,7 +3,7 @@ id: head-graphene-alpha-pro
 parent: /wiki/racchette/head/
 permalink: /wiki/racchette/head/graphene-alpha-pro/
 image_dir: /images/wiki/racchette/
-image: head-graphene-alpha-pro.jpg
+image: head-graphene-alpha-pro-1.jpg
 title: Head Graphene Alpha Pro
 brand: head
 model: Graphene Alpha Pro
