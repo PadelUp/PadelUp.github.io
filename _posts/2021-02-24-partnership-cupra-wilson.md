@@ -1,8 +1,11 @@
 ---
 layout: post
 title: Cupra annuncia a sorpresa una partnership con Wilson
-description: Il brand Cupra, sempre più sponsor del Padel internazionale, durante la conferenza online per celebrare il suo terzo anniversario annuncia che, insieme al brand Wilson, doterà il campione Fernando Belasteguin di una racchetta unica, che userà in alcuni tornei del WPT nella stagione 2021
-date: 2021-02-24T16:39:25.062Z
+description: Il brand Cupra, sempre più sponsor del Padel internazionale,
+  durante la conferenza online per celebrare il suo terzo anniversario annuncia
+  che, insieme al brand Wilson, doterà il campione Fernando Belasteguin di una
+  racchetta unica, che userà in alcuni tornei del WPT nella stagione 2021
+date: 2021-02-24T15:00:00.000Z
 image: /images/posts/partnership-cupra-wilson-01.jpg
 tags:
   - news
