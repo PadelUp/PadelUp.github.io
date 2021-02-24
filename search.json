@@ -1,7 +1,7 @@
 ---
 layout: null
 ---
-{% assign all = site.posts | concat: site.racchette %}
+{% assign all = site.posts | concat: site.racchette | concat: site.vips %}
 
 [
   {% for post in all %}
