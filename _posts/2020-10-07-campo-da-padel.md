@@ -6,7 +6,7 @@ date: 2020-10-07T16:39:25.062Z
 image: /images/posts/campo-da-padel-01.jpg
 tags:
   - approfondimenti
-author: simprecicchiani
+author: simi
 ---
 ## Dimensioni, struttura e materiali
 
