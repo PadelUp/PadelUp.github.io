@@ -16,7 +16,7 @@ social:
   links:
     - https://www.facebook.com/padelup.it
     - https://www.instagram.com/padelup.it
-    - https://www.youtube.com/channel/UC7to2FLfn-TwnFcdZKUSG2A
+    - https://www.youtube.com/c/PadelUp
     - https://vm.tiktok.com/JeBEsdU/
     - https://github.com/PadelUp
 
@@ -38,7 +38,7 @@ webmaster_verifications:
 contact:
   - {icon: "ion-logo-instagram", link: "https://instagram.com/padelup.it"}
   - {icon: "ion-logo-facebook", link: "https://www.facebook.com/padelup.it"}
-  - {icon: "ion-logo-youtube", link: "https://www.youtube.com/channel/UC7to2FLfn-TwnFcdZKUSG2A"}
+  - {icon: "ion-logo-youtube", link: "https://www.youtube.com/c/PadelUp"}
   - {icon: "ion-ios-musical-note", link: "https://vm.tiktok.com/JeBEsdU/"}
 
 
