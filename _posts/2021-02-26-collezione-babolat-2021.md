@@ -5,8 +5,8 @@ image: /images/wiki/brands/babolat.jpg
 tags: news
 author: saint
 description: >-
-  Nuovi modelli dalle forme esuberanti per modelli di racchette votati al gioco
-  aggressivo. I tre modelli storici Babolat: Counter, Technical e Air in nuove
+  Nuovi modelli dalle forme esuberanti per racchette votate al gioco
+  offensivo. I tre modelli storici Babolat: Counter, Technical e Air in nuove
   versioni.
 ---
 Anche il brand Babolat, famoso nel mondo del tennis per essere da sempre sponsor della leggenda vivente spagnola **Rafa Nadal**, è approdata nel mercato del Padel ormai da diverse stagioni. In questo mercato sponsorizza l’altro giocatore attualmente numero 1 del mondo **Juan Lebron**. 
