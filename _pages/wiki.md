@@ -1,6 +1,6 @@
 ---
 layout: grid
-title: wiki
+title: WIKI
 description: Benvenuto nel database di Padel Up
 permalink: /wiki/
 ---
