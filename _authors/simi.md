@@ -4,8 +4,8 @@ photo:
 avatar: /images/staff/simi.jpg
 name: simi
 display_name: Simone Precicchiani
-position: Sviluppatore
-bio: Laurea in Business & Management @LUISS Guido Carli, laureando in Corporate Finance. Programmatore e Graphic Designer.
+position: Sviluppatore & Graphic Designer
+bio: Laurea in Business & Management @LUISS Guido Carli, laureando in Corporate Finance. Appassionato di programmazione e creatore di contenuti digitali.
 social:
     # - {name: "instagram", link: "https://instagram.com/simprecicchiani"}
     # - {name: "facebook", link: "https://www.facebook.com/SimonePrecicchiani"}
