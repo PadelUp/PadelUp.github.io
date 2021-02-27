@@ -89,6 +89,9 @@
     color: $dark;
     transition: all .25s ease;
     cursor: pointer;
+    &:hover {
+      transform: rotate(90deg);
+    }
     @media only screen and (max-width: $tablet) {
       top: 25px;
       right: 30px;
