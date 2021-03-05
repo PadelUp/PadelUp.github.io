@@ -10,7 +10,7 @@ lang: it-IT
 #-------------------------------
 # Webmanifest
 name: "Padel Up"
-short_name: "PU"
+short_name: "Padel Up"
 language: "it"
 lang_direction: "ltr"
 color: "#ffffff"

@@ -1,8 +1,13 @@
+---
+layout: null
+---
+
 {
     "lang": "{{ site.language }}",
     "dir": "{{ site.lang_direction }}",
     "name": {{ site.name | smartify | jsonify }},
     "short_name": {{ site.short_name | smartify | jsonify }},
+    "description": {{ site.tagline | smartify | jsonify }},
     "icons": [
         {
             "src": "/images/favicon/android-chrome-192x192.png",
@@ -17,7 +22,6 @@
     ],
     "theme_color": "{{ site.color }}",
     "background_color": "{{ site.color }}",
-    "start_url": "{{ site.url }}",
     "display": "standalone",
     "orientation": "natural"
 }

@@ -5,6 +5,7 @@ permalink: /staff/
 image: /images/staff/staff.jpg
 ---
 
-{% for author in site.authors | sort: 'index' %}
+{% assign authors = site.authors | sort: 'index' %}
+{% for author in authors %}
 {% include author.html %}
 {% endfor %}
