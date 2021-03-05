@@ -8,6 +8,14 @@ url: "https://www.padelup.it" # the base hostname & protocol for your site, e.g.
 lang: it-IT
 
 #-------------------------------
+# Webmanifest
+name: "Padel Up"
+short_name: "PU"
+language: "it"
+lang_direction: "ltr"
+color: "#ffffff"
+
+#-------------------------------
 # SEO
 tagline: Il padel a tutto un altro livello. Recensioni, guide, news e approfondimenti sul mondo del paddle.
 
