@@ -6,6 +6,7 @@ name: simi
 display_name: Simone Precicchiani
 position: Sviluppatore & Graphic Designer
 bio: Laurea in Business & Management @LUISS Guido Carli, laureando in Corporate Finance. Appassionato di programmazione e creatore di contenuti digitali.
+index: 2
 social:
     # - {name: "instagram", link: "https://instagram.com/simprecicchiani"}
     # - {name: "facebook", link: "https://www.facebook.com/SimonePrecicchiani"}
