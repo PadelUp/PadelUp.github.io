@@ -63,6 +63,16 @@ $(document).ready(function() {
     html.removeClass("hide-scroll");
   }
 
+  // =====================
+  // Simple Jekyll Search
+  // =====================
+  SimpleJekyllSearch({
+    searchInput: document.getElementById("js-search-input"),
+    resultsContainer: document.getElementById("js-results-container"),
+    json: "/search.json",
+    searchResultTemplate: '<div class="search-results__item"><a class="search-results__image" href="{url}" style="background-image: url({image})"></a> <a class="search-results__link" href="{url}"><span class="search-results-date"> <time datetime="{date}">{date}</time></span><div class="search-result-title">{title}</div></a></div>',
+    noResultsText: '<li class="no-results"><h3>No results found</h3></li>'
+  });
 
   /* =======================
   // Animation Load Page

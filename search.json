@@ -1,17 +1,38 @@
 ---
 layout: null
 ---
-{% assign all = site.posts | concat: site.racchette | concat: site.vips %}
-
 [
-  {% for post in all %}
+  {% for post in site.posts %}
     {
       "title"    : "{{ post.title | escape }}",
       "category" : "{{ post.category }}",
       "tags"     : "{{ post.tags | array_to_sentence_string }}",
       "url"      : "{{ site.baseurl }}{{ post.url }}",
       "date"     : "{{ post.date | date: '%b %-d, %Y' }}",
-      "image"    : "{{ post.image_dir }}{{ post.image }}"
+      "image"    : "{{ post.image }}"
+    },
+  {% endfor %}
+
+  {% for racchetta in site.racchette %}
+    {
+      "title"    : "{{ racchetta.title | escape }}",
+      "category" : "{{ racchetta.category }}",
+      "tags"     : "{{ racchetta.tags | array_to_sentence_string }}",
+      "url"      : "{{ site.baseurl }}{{ racchetta.url }}",
+      "date"     : "Racchetta",
+      "image"    : "{{ racchetta.image_dir }}{{ racchetta.image }}"
+    },
+  {% endfor %}
+
+  {% for vip in site.vips %}
+    {
+      "title"    : "{{ vip.title | escape }}",
+      "category" : "{{ vip.category }}",
+      "tags"     : "{{ vip.tags | array_to_sentence_string }}",
+      "url"      : "{{ site.baseurl }}{{ vip.url }}",
+      "date"     : "VIP",
+      "image"    : "{{ vip.image_dir }}{{ vip.image }}"
     } {% unless forloop.last %},{% endunless %}
   {% endfor %}
+
 ]
