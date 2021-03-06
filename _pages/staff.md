@@ -1,7 +1,6 @@
 ---
 layout: page
 title: staff
-permalink: /staff/
 image: /images/staff/staff.webp
 ---
 

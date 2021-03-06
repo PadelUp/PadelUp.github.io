@@ -1,0 +1,12 @@
+- name: Instagram
+  link: https://instagram.com/padelup.it
+  icon: logo-instagram
+- name: Facebook
+  link: https://www.facebook.com/padelup.it
+  icon: logo-facebook
+- name: YouTube
+  link: https://www.youtube.com/c/PadelUp
+  icon: logo-youtube
+- name: TikTok
+  link: https://vm.tiktok.com/JeBEsdU/
+  icon: logo-tiktok

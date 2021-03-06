@@ -1,10 +1,9 @@
 ---
-layout: post
 title: Calendario World Padel Tour 2021
 description: Ritorna il miglio padel del mondo con un calendario ricco di appuntamenti, seppur provvisorio, che vedrà anche una tappa in Italia
 date: 2021-02-17T16:39:25.062Z
 image: /images/posts/calendario-wpt-2021-01.webp
-tags:
+categories:
   - news
 author: jack
 ---

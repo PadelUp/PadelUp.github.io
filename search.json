@@ -13,6 +13,17 @@ layout: null
     },
   {% endfor %}
 
+  {% for author in site.authors %}
+    {
+      "title"    : "{{ author.display_name | escape }}",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "{{ site.baseurl }}/staff/",
+      "date"     : "Staff",
+      "image"    : "{{ author.avatar }}"
+    },
+  {% endfor %}
+
   {% for racchetta in site.racchette %}
     {
       "title"    : "{{ racchetta.title | escape }}",

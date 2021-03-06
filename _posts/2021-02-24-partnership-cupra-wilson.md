@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Cupra annuncia a sorpresa una partnership con Wilson
 description: Il brand Cupra, sempre più sponsor del Padel internazionale,
   durante la conferenza online per celebrare il suo terzo anniversario annuncia
@@ -7,7 +6,7 @@ description: Il brand Cupra, sempre più sponsor del Padel internazionale,
   racchetta unica, che userà in alcuni tornei del WPT nella stagione 2021
 date: 2021-02-24T15:00:00.000Z
 image: /images/posts/partnership-cupra-wilson-01.webp
-tags:
+categories:
   - news
 author: saint
 ---

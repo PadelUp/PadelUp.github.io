@@ -1,7 +1,6 @@
 ---
 layout: page
 title: mission
-permalink: /mission/
 image: /images/mission/about.webp
 ---
 

@@ -5,15 +5,8 @@ logo: /images/logo/padelup.svg
 description: "Contenuti originali per un Padel di livello superiore. Recensioni, Guide, News e Approfondimenti"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://www.padelup.it" # the base hostname & protocol for your site, e.g. http://example.com
-lang: it-IT
-
-#-------------------------------
-# Webmanifest
-name: "Padel Up"
-short_name: "Padel Up"
-language: "it"
-lang_direction: "ltr"
-color: "#ffffff"
+lang: it
+dir: ltr
 
 #-------------------------------
 # SEO
@@ -42,24 +35,8 @@ webmaster_verifications:
   # baidu: 
 
 #-------------------------------
-# Footer section
-contact:
-  - {icon: "ion-logo-instagram", link: "https://instagram.com/padelup.it"}
-  - {icon: "ion-logo-facebook", link: "https://www.facebook.com/padelup.it"}
-  - {icon: "ion-logo-youtube", link: "https://www.youtube.com/c/PadelUp"}
-  - {icon: "ion-ios-musical-note", link: "https://vm.tiktok.com/JeBEsdU/"}
-
-
-#-------------------------------
 # Comment Section (Disqus)
 disqus-identifier: #mr.C. add your shortname for Disqus Comment. For example mr-brown
-
-
-#-------------------------------
-# Instagram Feed
-instafeed: false
-userID: 37269725689
-accessToken: "IGQVJWQldhZAWZA4cXNsbnpvNHZAfbVF1eXM2SHRRS0N2VkZAzNEtNTlhwY01na3lUXzYyeFo2VmJDeDU0WFNaZAUZAMR0tfQnBwN2l1MGNFX3h6bG9SdHRUTTZAjNE9MeEZAoQmlZAcmZAsWDBB"
 
 #-------------------------------
 # Gallery section (Footer)
@@ -93,7 +70,7 @@ formcarry-identifier: https://formcarry.com/s/Izvl0LCnVC0m
 #-------------------------------
 # Build settings
 markdown: kramdown
-permalink: pretty
+permalink: /:categories/:title/
 future: false
 plugins:
   - jekyll-paginate
@@ -103,6 +80,9 @@ plugins:
 collections:
   authors:
     output: false
+  pages:
+    output: true
+    permalink: /:name/
   racchette:
     output: true
   brands:
@@ -113,6 +93,9 @@ collections:
     output: true
   sections:
     output: true
+  tags:
+    output: true
+    permalink: /:name/
 
 paginate: 7
 paginate_path: "/page/:num"
@@ -145,18 +128,22 @@ defaults:
     values:
       layout: "grid"
   - scope:
-      path: '_pages'
+      path: "_pages"
     values:
       layout: "page"
   - scope:
-      path: '_posts'
+      path: "_posts"
     values:
       layout: "post"
-  # seo image fallback
+  - scope:
+      path: ""
+      type: "tags"
+    values:
+      layout: "tag-page"
   - scope:
       path: ""
     values:
-      image: /images/seo.webp
+      image: /images/seo.webp # SEO image fallback
 
 include:
   - _pages
