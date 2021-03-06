@@ -1,7 +1,7 @@
 ---
 layout: author
 photo:
-avatar: /images/staff/jack.jpg
+avatar: /images/staff/jack.webp
 name: jack
 display_name: Giacomo Cimino
 position: Istruttore

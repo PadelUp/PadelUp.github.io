@@ -1,7 +1,7 @@
 ---
 layout: author
 photo: 
-avatar: /images/staff/luca.jpg
+avatar: /images/staff/luca.webp
 name: luca
 display_name: Luca Lorenzini
 position: Giocatore

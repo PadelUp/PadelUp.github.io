@@ -1,7 +1,7 @@
 ---
 layout: author
 photo: 
-avatar: /images/staff/saint.jpg
+avatar: /images/staff/saint.webp
 name: saint
 display_name: Giovanni Maria Santucci
 position: Editore

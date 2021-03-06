@@ -1,7 +1,7 @@
 ---
 layout: author
 photo: 
-avatar: /images/staff/simi.jpg
+avatar: /images/staff/simi.webp
 name: simi
 display_name: Simone Precicchiani
 position: Sviluppatore & Graphic Designer

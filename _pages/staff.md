@@ -2,7 +2,7 @@
 layout: page
 title: staff
 permalink: /staff/
-image: /images/staff/staff.jpg
+image: /images/staff/staff.webp
 ---
 
 {% assign authors = site.authors | sort: 'index' %}
