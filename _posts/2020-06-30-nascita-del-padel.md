@@ -1,10 +1,9 @@
 ---
-layout: post
 title: "La Storia del Mejor Padel del Mundo: La Nascita"
 description: Dagli albori del paddle alle prime manifestazioni del professionismo sportivo internazionale.
 date: 2020-06-30 13:01:05
 image: /images/posts/historia-padel-02.webp
-tags: approfondimenti
+categories: approfondimenti
 author: jack
 ---
 

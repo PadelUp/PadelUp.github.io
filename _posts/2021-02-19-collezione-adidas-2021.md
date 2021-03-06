@@ -1,8 +1,7 @@
 ---
-title: Collezione Racchette Adidas Padel 2021
 date: '2021-02-19'
 image: /images/wiki/brands/adidas.webp
-tags: news
+categories: news
 author: saint
 description: >-
   Storico brand sportivo, apporta annualmente qualità ed innovazione al mondo

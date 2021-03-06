@@ -3,10 +3,10 @@ layout: null
 ---
 
 {
-    "lang": "{{ site.language }}",
-    "dir": "{{ site.lang_direction }}",
-    "name": {{ site.name | smartify | jsonify }},
-    "short_name": {{ site.short_name | smartify | jsonify }},
+    "lang": "{{ site.lang }}",
+    "dir": "{{ site.dir }}",
+    "name": {{ site.title | smartify | jsonify }},
+    "short_name": {{ site.title | smartify | jsonify }},
     "description": {{ site.tagline | smartify | jsonify }},
     "icons": [
         {
@@ -20,8 +20,8 @@ layout: null
             "type": "image/png"
         }
     ],
-    "theme_color": "{{ site.color }}",
-    "background_color": "{{ site.color }}",
+    "theme_color": "#ffffff",
+    "background_color": "#ffffff",
     "display": "standalone",
     "orientation": "natural"
 }

@@ -1,10 +1,9 @@
 ---
-layout: post
 title: "Prova in campo Adidas Essex Carbon ATTK Rough"
 description: Recensione con test in campo della bellissima racchetta da padel di Adidas completamente in carbonio. La pala si presenta con forma a diamante, specialmente indicata per giocatori d'attacco, come verrà spiegato nel video. 
 date: 2020-08-01 10:12:37
 image: /images/posts/adidas-essex-attk-01.webp
-tags: recensioni
+categories: recensioni
 author: saint
 video: https://www.youtube.com/embed/bSNgktDnwSk
 ---

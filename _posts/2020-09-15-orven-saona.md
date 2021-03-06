@@ -1,10 +1,9 @@
 ---
-layout: post
 title: "Orven Saona: il Campione Gianmarco Toccini prova la nuova Racchetta da Padel"
 description: Prova in campo della racchetta di fascia media di proposta da Orven Sport per la stagione 2020
 date: 2020-09-15 19:06:50
 image: /images/posts/orven-saona-02.webp
-tags: recensioni
+categories: recensioni
 author: saint
 video: https://www.youtube.com/embed/Z-rSZOjNbSA
 ---

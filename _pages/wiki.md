@@ -2,7 +2,7 @@
 layout: grid
 title: WIKI
 description: Benvenuto nel database di Padel Up
-permalink: /wiki/
+button: true
 ---
 
 {% for section in site.sections %}

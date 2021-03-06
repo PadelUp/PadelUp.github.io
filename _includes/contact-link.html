@@ -1,11 +1,10 @@
-{% if site.contact %}
 <div class="contact" style="margin: 10px 0;">
   <ul class="contact__list list-reset">
-    {% for contact in site.contact %}
+    {% for social in site.data.socials %}
     <li class="contact__item" style="margin-left: 30px;">
-      <a class="contact__link" style="font-size: 30px;" href="{{contact.link}}"><i class="ion {{contact.icon}}"></i></a>
+      <!-- <a class="contact__link" style="font-size: 30px;" href="{{contact.link}}"><i class="ion {{contact.icon}}"></i></a> -->
+      <a class="contact__link" style="font-size: 30px;" href="{{social.link}}"><ion-icon name="{{social.icon}}"></ion-icon></a>
     </li>
     {% endfor %}
   </ul>
 </div>
-{% endif %}

@@ -1,7 +1,6 @@
 ---
 layout: page
 title: style guide
-permalink: /styleguide/
 image: '/images/120.jpg'
 ---
 

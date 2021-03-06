@@ -7,10 +7,10 @@ layout: default
     <div class="col col-12 col-d-10 push-d-1 col-m-12 push-m-0">
       <div class="post-head">
         <div class="post-info">
-          {% if page.tags.size >= 1 %}
+          {% if page.categories.size >= 1 %}
             <div class="post-tags">
-              {% for tag in page.tags %}
-                <a href="{{ site.baseurl }}/tag/{{ tag }}" class="post-tags__tag">{{ tag }}</a>
+              {% for category in page.categories %}
+                <a href="{{ site.baseurl }}/{{ category }}" class="post-tags__tag">{{ category }}</a>
               {% endfor %}
             </div>
           {% endif %}

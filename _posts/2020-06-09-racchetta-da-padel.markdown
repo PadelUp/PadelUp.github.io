@@ -1,10 +1,9 @@
 ---
-layout: post
 title:  La Racchetta da Padel
 description: "Tutto quello che devi sapere sulla racchetta da padel, la tua nuova compagna di avventure... sportive"
 date:   2020-06-09 22:01:35 +0200
 image:  /images/posts/pala-colors.webp
-tags:   guide
+categories:   guide
 author: saint
 ---
 
