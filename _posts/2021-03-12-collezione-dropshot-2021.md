@@ -1,7 +1,7 @@
 ---
 title: Dropshot
 date: '2021-03-12'
-image: /images/wiki/brands/dropshot.jpg
+image: /images/wiki/brands/dropshot.webp
 tags: news
 author: saint
 description: >-

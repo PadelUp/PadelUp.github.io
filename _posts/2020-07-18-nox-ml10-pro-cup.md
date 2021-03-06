@@ -3,7 +3,7 @@ layout: post
 title: "Recensione NOX ML10 Pro Cup"
 description: Prova sul campo della racchetta di Miguel Lamperti, uno dei migliori del World Padel Tour. La pala da padel si dimostra interessante per le sue caratteristiche che verranno approfondite nel video. 
 date: 2020-07-18 20:11:56
-image: /images/posts/nox-ml10-01.jpg
+image: /images/posts/nox-ml10-01.webp
 tags: recensioni
 author: luca
 video: https://www.youtube.com/embed/Ymc7_ZA_9po
@@ -13,11 +13,11 @@ Video recensione della racchetta Nox ML 10 Pro Cup, pala utilizzata attualmente 
 
 La racchetta si trova in vendita su [Amazon](https://www.amazon.it/NOX-Ml10-PRO-Racchetta-Paddle-Colore/dp/B00BOL4ROE/ref=sr_1_2?__mk_it_IT=ÅMÅŽÕÑ&dchild=1&keywords=nox+ml10&qid=1595103428&sr=8-2) a circa 154 euro, nel video testiamo la pala nelle situazioni e nelle situazioni difensive, per dare alla fine un riscontro sul rapporto qualità/prezzo.
 
-![nox ml10 pro cup racchetta pala padel paddle consigli rotonda 2020](/images/posts/nox-ml10-02.jpg)
+![nox ml10 pro cup racchetta pala padel paddle consigli rotonda 2020](/images/posts/nox-ml10-02.webp)
 
 La pala arriva con il suo fodero in pelle brandizzato Nox, ha una forma perfettamente tonda, con un bilanciamento indirizzato verso il basso, e un peso di circa 370 grammi. A causa della sua forma questa racchetta é particolarmente indicata per la fase difensiva e predilige il controllo. Nella fase di gioco offensiva la superficie liscia e l’elevata densità della gomma HR3 consentono di imprimere comunque potenza nei colpi giocati dall’alto verso il basso. 
 
-![nox ml10 pro cup racchetta pala padel paddle consigli rotonda 2020](/images/posts/nox-ml10-03.jpg)
+![nox ml10 pro cup racchetta pala padel paddle consigli rotonda 2020](/images/posts/nox-ml10-03.webp)
 
 ## Fase Difensiva 
 Voto 8.5: la morbidezza gioca un ruolo importante nei recuperi più difficili ma non si riscontra una elevata potenza nei colpi di spinta, ad esempio le uscite di parete.

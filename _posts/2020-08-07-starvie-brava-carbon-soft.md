@@ -3,7 +3,7 @@ layout: post
 title: "Starvie Brava Carbon Soft sotto ispezione"
 description: Test di gioco della racchetta da padel Starvie Brava Carbon Soft, modello dell’ultima collezione del brand spagnolo, che da anni investe in questo sport e con le sue ampie collezioni sponsorizza e supporta giocatori di alto livello in tutto il panorama mondiale.
 date: 2020-08-07 10:25:37
-image: /images/posts/starvie-bravia-01.jpg
+image: /images/posts/starvie-bravia-01.webp
 tags: recensioni
 author: jack
 video: https://www.youtube.com/embed/X2uiysu8BiU
@@ -13,11 +13,11 @@ Nel video recensiamo la Starvie Brava Carbon Soft, modello appartenente alla col
 
 Questa racchetta si trova ad un prezzo di circa 160 euro e, al fine di dare un parere sul rapporto qualità/prezzo, la proveremo in campo. 
 
-![Starvie Brava Carbon Soft racchetta pala padel paddle consigli goccia 2020](/images/posts/starvie-bravia-02.jpg)
+![Starvie Brava Carbon Soft racchetta pala padel paddle consigli goccia 2020](/images/posts/starvie-bravia-02.webp)
 
 Questa racchetta si trova ad un prezzo di circa 160 euro, la racchetta non é accompagnata dal classico fodero e il suo peso é di circa 365 grammi. Si nota subita la sua forma a goccia ed ha un caratteristico bilanciamento in alto per favorire il gioco di spinta. La superficie é ruvida in rilievo, riconoscibile sia alla vista che al tatto, per favorire i colpi carichi di rotazioni. La fibra di carbonio rendono lo scheletro della racchetta molto resistente e il riempimento é interamente in gomma EVA.
  
-![Starvie Brava Carbon Soft racchetta pala padel paddle consigli goccia 2020](/images/posts/starvie-bravia-03.jpg)
+![Starvie Brava Carbon Soft racchetta pala padel paddle consigli goccia 2020](/images/posts/starvie-bravia-03.webp)
 
 ## Fase Offensiva
 Voto 7: Data la sua forma a goccia ed il suo bilanciamento in testa può essere un buon aiutante in fase di spinta e di chiusura.

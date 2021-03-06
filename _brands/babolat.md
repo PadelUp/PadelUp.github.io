@@ -3,7 +3,7 @@ id: babolat
 parent: /wiki/racchette/
 permalink: /wiki/racchette/babolat/
 image_dir: /images/wiki/brands/
-image: babolat.jpg
+image: babolat.webp
 title: Babolat
 brand: babolat
 marca: babolat

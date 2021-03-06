@@ -3,7 +3,7 @@ id: vibor-a
 parent: /wiki/racchette/
 permalink: /wiki/racchette/vibor-a/
 image_dir: /images/wiki/brands/
-image: vibor-a.jpg
+image: vibor-a.webp
 title: Vibor-a
 brand: vibor-a
 marca: vibor-a

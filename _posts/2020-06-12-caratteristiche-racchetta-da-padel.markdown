@@ -3,7 +3,7 @@ layout: post
 title:  Caratteristiche principali della Racchetta da Padel
 description: "Equilibrio tra giocatore e racchetta da padel: come convivere con grip, superficie e distribuzione del peso"
 date:   2020-06-12 12:01:35 +0200
-image:  /images/posts/pala-grip.jpg
+image:  /images/posts/pala-grip.webp
 tags:   guide
 author: saint
 ---
@@ -14,6 +14,6 @@ Gli *overgrip* sono l’accessorio più controverso degli sport con racchetta: u
 
 Aumentare lo spessore consente di acquisire maggior potenza derivante da una presa più solida, al contrario un manico con un solo *grip* consente una presa più stretta e favorisce maggior controllo e rapida intercambiabilità tra le impugnature.
 
-![racchetta da padel](/images/posts/pala-cord.jpg)
+![racchetta da padel](/images/posts/pala-cord.webp)
 
 È importante osservare che tutte le racchette da paddle sono provviste di un “*cordino*” che fuoriesce dalla parte inferiore della racchetta, questo va stretto al polso per evitare che nello “slancio” dei colpi la racchetta si possa **distaccare dalla mano** del giocatore, procurando danni agli altri giocatori e alla struttura di gioco. 

@@ -3,7 +3,7 @@ layout: post
 title: "Orven Saona: il Campione Gianmarco Toccini prova la nuova Racchetta da Padel"
 description: Prova in campo della racchetta di fascia media di proposta da Orven Sport per la stagione 2020
 date: 2020-09-15 19:06:50
-image: /images/posts/orven-saona-02.jpg
+image: /images/posts/orven-saona-02.webp
 tags: recensioni
 author: saint
 video: https://www.youtube.com/embed/Z-rSZOjNbSA
@@ -19,7 +19,7 @@ La struttura è costituita di 2 strati di **fibra di vetro** e 2 strati di **fib
 
 Ha un peso di circa **355/360 grammi** che, insieme alla forma tonda, garantiscono un buon controllo dei colpi tanto nella fase difensiva quanto nella fase offensiva. 
 
-![Orven Sport Saona racchetta pala padel paddle consigli rotonda tonda fibra 2020](/images/posts/orven-saona-01.jpg)
+![Orven Sport Saona racchetta pala padel paddle consigli rotonda tonda fibra 2020](/images/posts/orven-saona-01.webp)
 
 Nonostante sia una racchetta principalmente di controllo rappresenta un buono strumento anche per giocatori di livello avanzato, che cercano il controllo del colpo rispetto alla potenza, si trova in vendita al prezzo di **240 euro** ed è distribuita esclusivamente dal canale ufficiale Orven Sport!
 

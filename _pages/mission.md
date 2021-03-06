@@ -2,7 +2,7 @@
 layout: page
 title: mission
 permalink: /mission/
-image: /images/mission/about.jpg
+image: /images/mission/about.webp
 ---
 
 ## Vision

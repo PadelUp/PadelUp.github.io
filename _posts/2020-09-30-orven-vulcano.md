@@ -3,7 +3,7 @@ layout: post
 title: "Il Campione di Serie A Gianmarco Toccini e la sua Racchetta da Padel: Orven Vulcano"
 description: Una pala veramente speciale, quasi unica nel suo genere, che permette la personalizzazione del peso in base alle esigenze del giocatore.
 date: 2020-09-30 08:00:33
-image: /images/posts/orven-vulcano-01.jpg
+image: /images/posts/orven-vulcano-01.webp
 tags: recensioni
 author: saint
 video: https://www.youtube.com/embed/keJPpDmpenE
@@ -23,7 +23,7 @@ L’interno del piatto è composto da una **gomma Eva Super Soft** e il bilancia
 
 Altra caratteristica peculiare di questa racchetta è il **Peso totalmente personalizzabile** a partire da 350 grammi fino ad arrivare a 390 grammi.
 
-![Orven Sport Vulcano racchetta pala padel paddle consigli goccia carbonio 2020](/images/posts/orven-vulcano-02.jpg)
+![Orven Sport Vulcano racchetta pala padel paddle consigli goccia carbonio 2020](/images/posts/orven-vulcano-02.webp)
 
 Il prezzo di **300 euro** ed è distribuita esclusivamente dal Orven Sport ed acquistabile sui canali ufficiali
 

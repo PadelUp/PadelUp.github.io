@@ -3,7 +3,7 @@ layout: post
 title: "La Storia del Mejor Padel del Mundo: La Nascita"
 description: Dagli albori del paddle alle prime manifestazioni del professionismo sportivo internazionale.
 date: 2020-06-30 13:01:05
-image: /images/posts/historia-padel-02.jpg
+image: /images/posts/historia-padel-02.webp
 tags: approfondimenti
 author: jack
 ---
@@ -14,7 +14,7 @@ Quella che rappresenta la **storica crescita** esponenziale di questo sport come
 
 Negli anni immediatamente successivi ( **1986 e 1987** ) i primi tornei internazionali hanno visto emergere una coppia di giocatori argentini, tra l’altro fratelli, _**Javier e Gustavo Maquirriain**_, in grado di dominare la scena sportiva. _Gustavo_, in particolare, viene ricordato per aver inventato colpi come la famosa "_vibora_" e la spettacolare "_dormiente_", oltre che proporsi come un dirigente del circuito internazionale di Padel.
 
-![storia padel vintage primi tornei paddle](/images/posts/historia-padel-01.jpg)
+![storia padel vintage primi tornei paddle](/images/posts/historia-padel-01.webp)
 
 Nel **1989** , nella città di Mar del Plata in Argentina,che oltre al Complesso Sportivo Play Time nella stessa argentina, contribuì alla diffusione del padel e si disputò la prima edizione ufficiale del campionato "ispano-sudamericano". La coppia di fratelli padroni di casa si impose contro quella spagnola formata da _Alejandro Lasaigues_ e _Horacio Álvarez Clementi_. È interessante notare come la **rivalità** , anche attuale, **tra spagnoli e argentini** per la conquista del _top ranking_ e la vittoria del titolo nelle massime competizioni, sia fin da quella prima edizione un **motivo di incontro e scontro** tra le due massime espressioni del padel professionistico.
 

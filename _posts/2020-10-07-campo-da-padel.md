@@ -3,7 +3,7 @@ layout: post
 title: Alla Scoperta del Campo da Padel
 description: Uno sport innovativo per indole che prevende uno spazio di gioco altrettanto originale. Uno sguardo al regolamento e le peculiaritá offerte da questo magnifico gioco.
 date: 2020-10-07T16:39:25.062Z
-image: /images/posts/campo-da-padel-01.jpg
+image: /images/posts/campo-da-padel-01.webp
 tags:
   - approfondimenti
 author: simi
@@ -20,7 +20,7 @@ Le linee di servizio sono poste 3 metri prima della parete di fondo e ci sarà a
 
 L'altezza minima tra il campo da gioco e un ostacolo (per esempio il soffitto) è di 6 metri.
 
-![world padel tour campo da padel paddle gioco superficie](/images/posts/campo-da-padel-02.jpg)
+![world padel tour campo da padel paddle gioco superficie](/images/posts/campo-da-padel-02.webp)
 
 ## Le porte
 

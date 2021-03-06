@@ -3,7 +3,7 @@ layout: post
 title: "Il Ritorno dei Campioni del World Padel Tour"
 description: Dopo mesi di stop forzato dal COVID-19 la massima competizione di paddle torna ad emozionare gli appasionati. Nel fine settimana si è concluso il "Madrid Open" che ha visto nel tabellone principale una coppia femminile italiana composta da Chiara Pappacena e Giulia Sussarello
 date: 2020-07-05 19:08:48
-image: /images/posts/wpt-madrid-2020-01.jpg
+image: /images/posts/wpt-madrid-2020-01.webp
 tags: news
 author: saint
 ---
@@ -12,7 +12,7 @@ Dopo l’**emergenza COVID-19**  il World Padel Tour è finalmente ripartito con
 
 il Padel torna cosi in campo e, già dai primi turni, la paura di uno **stop** a causa del *virus* lascia il posto allo **spettacolo** che solo i migliori giocatori del mondo sono in grado di offrire. Lo *streaming* sul canale del **World Padel Tour**, trasmettesso in **diretta** da venerdì 3 luglio, vede in scena i quarti di finale, con i soliti, tanto attesi, protagonisti.
 
-![world padel tour coronavirus stadio vuoto covid-19 pandemia 2020 madrid](/images/posts/wpt-madrid-2020-03.jpg)
+![world padel tour coronavirus stadio vuoto covid-19 pandemia 2020 madrid](/images/posts/wpt-madrid-2020-03.webp)
 
 La tappa successiva, il _“Madrid Open”_, si svolgerà sempre nella capitale spagnola dal **12** al **19 luglio** mentre il resto del **calendario** è ancora in **fase di sviluppo** al fine di garantire la sicurezza dei giocatori e dello staff dell’organizzazione. 
 
@@ -32,11 +32,11 @@ Per il tabellone femminile invece
 
 - La **finale** si gioca dopo una settimana di spettacolo sportivo. Le numero uno del circuito, *Alejandra Salazar* e *Ariana Sanchez*, si portano subito avanti di un *break* e chiudno il **primo set** con il punteggio di 6-2 conquistandone un altro. Nel secondo *set* *Gemma* e *Lucia*, nonstante un *break* recuperato, concedono qualche punto di troppo e concedono il **secondo set** per 6-3. *Alejandra Salazar* e *Ariana Sanchez* con un netto 6-2/ 6-3 affermano sul campo la propria superiorità e confermano il proprio *ranking* e  anche al **rientro dalla lunga sosta**. 
 
-![world padel tour madrid open femminile](/images/posts/wpt-madrid-2020-02.jpg)
+![world padel tour madrid open femminile](/images/posts/wpt-madrid-2020-02.webp)
 
 Lo svolgimento del torneo e lo spettacolo del gioco hanno fatto **dimenticare la brutta esperienza** del *Covid-19*: i vincitori dedicano un pensiero oltre che questa vittoria a tutti coloro che hanno sofferto in questo periodo di emergenza, non ancora del tutto superata, con la speranza di tornare in campo nella prossima tappa del *“Madrid Open”*, che si svolgerà dal 12 al 19 luglio.
 
-![world padel tour coronavirus stadio vuoto covid-19 pandemia 2020 madrid](/images/posts/wpt-madrid-2020-04.jpg)
+![world padel tour coronavirus stadio vuoto covid-19 pandemia 2020 madrid](/images/posts/wpt-madrid-2020-04.webp)
 
 Segnaliamo la partecipazione al tanto ambito *"quadro principal"* delle due ragazze italiane: *Chiara Pappacena* e *Giulia Sussarello*, che bissando lo storico successo ottenuto nel 2019 al WPT di Alicante, alle quali vanno i nostri complimenti e speriamo continuino ad innalzare i nostri colori nel massimo circuito internazionale di Padel. 
 

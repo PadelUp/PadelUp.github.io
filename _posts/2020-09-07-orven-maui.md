@@ -3,7 +3,7 @@ layout: post
 title: "Orven Maui: il maestro Gianmarco Toccini introduce la nuova collezione"
 description: Riparte la stagione con nuove video recensioni di racchette da padel, questa volta in collaborazione con Orven Sport.
 date: 2020-09-07 19:02:34
-image: /images/posts/orven-maui-02.jpg
+image: /images/posts/orven-maui-02.webp
 tags: recensioni
 author: saint
 video: https://www.youtube.com/embed/3Dmb41veqsU
@@ -22,7 +22,7 @@ Questa racchetta si contraddistingue per la morbidezza del piatto composto da un
 La struttura è costituita da 3 strati di **fibra di vetro** e il suo peso è di circa **360/365 grammi**, queste caratteristiche costruttive consentono di spingere la palla anche in fase offensiva.
 
 
-![Orven Sport Maui racchetta pala padel paddle consigli rotonda tonda fibra 2020](/images/posts/orven-maui-01.jpg)
+![Orven Sport Maui racchetta pala padel paddle consigli rotonda tonda fibra 2020](/images/posts/orven-maui-01.webp)
 
 Il punto ottimale di impatto è molto ampio grazie alla forma e la fibra di vetro consente di spingere la palla anche nei colpi offensivi, ha un buon rapporto qualità/prezzo in quanto si trova in vendita al prezzo di **180 euro** ed è distribuita esclusivamente dal canale ufficiale Orven Sport!
 

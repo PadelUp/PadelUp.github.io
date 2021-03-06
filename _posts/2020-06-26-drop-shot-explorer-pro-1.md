@@ -3,7 +3,7 @@ layout: post
 title: "Recensione Drop Shot Explorer Pro 1.0"
 description: Video analisi racchetta da padel in situazioni di gioco, attacco e difesa, rapporto/qualità prezzo e considerazioni finali
 date: 2020-06-26 10:21:34
-image: /images/posts/dropshot-explorer-01.jpg
+image: /images/posts/dropshot-explorer-01.webp
 tags: recensioni
 author: jack
 video: https://www.youtube.com/embed/KQvyiDTGVdY
@@ -18,6 +18,6 @@ La casa produttrice spagnola ha da subito puntato sulla **qualità** e sulla **d
 
 ## Prova in campo
 
-![Giocatore di padel drop shot racchetta](/images/posts/dropshot-explorer-02.jpg)
+![Giocatore di padel drop shot racchetta](/images/posts/dropshot-explorer-02.webp)
 
 Abbiamo provato sul terreno di gioco il modello **Explorer Pro 1.0**. Abbiamo suddiviso il test in due fasi: quella **difensiva** incentrata sul controllo e sulla maneggevolezza e quella **offensiva**, con focus sulla potenza e la velocità in uscita del colpo. Nel video vengono analizzate le principali caratteristiche tecniche e discusse le impressioni di questa racchetta, per darne un giudizio complessivo sul **rapporto qualità/prezzo**. 

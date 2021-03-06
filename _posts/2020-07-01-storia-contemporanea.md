@@ -3,7 +3,7 @@ layout: post
 title: "La Storia del Mejor Padel del Mundo: L'Epoca Contemporanea"
 description: L'ufficializzazione del circuito internazionale e la consacrazione a sport professionistico.
 date: 2020-07-01 13:15:37
-image: /images/posts/historia-worldpadeltour.jpg
+image: /images/posts/historia-worldpadeltour.webp
 tags: approfondimenti
 author: saint
 ---
@@ -16,7 +16,7 @@ Nel 2011 l'organizzazione raggiunse un traguardo importante per il futuro del ci
 
 Gli accresciuti **interessi economici** legati allo svolgimento dei tornei spinse un'associazione privata chiamata _World Padel Tour_ (WPT) a tentare di prendere il controllo del circuito, arrivando anche a vere e proprie battaglie legali.
 
-![storia world padel tour torneo professionistico internazionale paddle](/images/posts/historia-propadeltour.jpg)
+![storia world padel tour torneo professionistico internazionale paddle](/images/posts/historia-propadeltour.webp)
 
 Il _World Paddle Tour_ e il _Padel Pro Tour_ firmarono un **accordo storico** incentrato sullo sviluppo e la crescita del padel, per una continua ascesa di questo sport. Le due organizzazioni **si divisero i compiti** : il PPT incentrò le proprie mansioni nel'organizzazione degli eventi mondiali, puntando sulla spettacolarità della disciplina, mentre il WPT progettò il proprio calendario con tornei che tenessero più in considerazione risultati e classifiche. Nel'accordo si stabilì che le manifestazioni potessero coesistere senza problemi di sovrapposizione, per garantire la partecipazione dei migliori giocatori del pianeta ad entrambi i circuiti. **Molti dei giocatori** aderenti al'associazione professionistica, si dichiararono però **non disposti** a partecipare al _Padel Pro Tour_, decisione che ne determinò la **storica fine**.
 

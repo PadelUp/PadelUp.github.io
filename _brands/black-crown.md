@@ -3,7 +3,7 @@ id: black-crown
 parent: /wiki/racchette/
 permalink: /wiki/racchette/black-crown/
 image_dir: /images/wiki/brands/
-image: black-crown.jpg
+image: black-crown.webp
 title: Black Crown
 brand: black-crown
 marca: black crown

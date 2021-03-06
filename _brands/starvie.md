@@ -3,7 +3,7 @@ id: starvie
 parent: /wiki/racchette/
 permalink: /wiki/racchette/starvie/
 image_dir: /images/wiki/brands/
-image: starvie.jpg
+image: starvie.webp
 title: Starvie
 brand: starvie
 marca: starvie

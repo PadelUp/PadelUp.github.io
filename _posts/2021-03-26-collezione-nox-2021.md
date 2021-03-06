@@ -1,7 +1,7 @@
 ---
 title: Nox
 date: '2021-03-26'
-image: /images/wiki/brands/nox.jpg
+image: /images/wiki/brands/nox.webp
 tags: news
 author: saint
 description: >-

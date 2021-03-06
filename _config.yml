@@ -66,15 +66,15 @@ accessToken: "IGQVJWQldhZAWZA4cXNsbnpvNHZAfbVF1eXM2SHRRS0N2VkZAzNEtNTlhwY01na3lU
 gallery:
   name: Instagram
   images:
-    - url: '01.jpg'
-    - url: '02.jpg'
-    - url: '03.jpg'
-    - url: '04.jpg'
-    - url: '05.jpg'
-    - url: '06.jpg'
-    - url: '07.jpg'
-    - url: '08.jpg'
-    - url: '09.jpg'
+    - url: '01.webp'
+    - url: '02.webp'
+    - url: '03.webp'
+    - url: '04.webp'
+    - url: '05.webp'
+    - url: '06.webp'
+    - url: '07.webp'
+    - url: '08.webp'
+    - url: '09.webp'
 
 #-------------------------------
 # Google Analytics
@@ -156,7 +156,7 @@ defaults:
   - scope:
       path: ""
     values:
-      image: /images/seo.jpg
+      image: /images/seo.webp
 
 include:
   - _pages

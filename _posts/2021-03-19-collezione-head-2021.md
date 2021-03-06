@@ -1,7 +1,7 @@
 ---
 title: Head
 date: '2021-03-19'
-image: /images/wiki/brands/head.jpg
+image: /images/wiki/brands/head.webp
 tags: news
 author: saint
 description: >-

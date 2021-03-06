@@ -3,7 +3,7 @@ layout: post
 title: "Come Scegliere la Racchetta da Padel?"
 description: Video guida delle caratteristiche principali della racchetta da paddle, forniamo alcuni consigli analizzando il peso, la forma, la superficie e i materiali dello strumento. Guidiamo infine la scelta della pala di padel.
 date: 2020-07-12 18:01:56
-image: /images/posts/guida-scegli-pala-01.jpg
+image: /images/posts/guida-scegli-pala-01.webp
 tags: guide
 author: saint
 video: https://www.youtube.com/embed/h434R8IQ_Hk

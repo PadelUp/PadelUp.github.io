@@ -1,7 +1,7 @@
 ---
 title: Black-Crown
 date: '2021-04-17'
-image: /images/wiki/brands/black-crown.jpg
+image: /images/wiki/brands/black-crown.webp
 tags: news
 author: saint
 description: >-

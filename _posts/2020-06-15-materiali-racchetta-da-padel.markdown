@@ -3,7 +3,7 @@ layout: post
 title:  Materiali, Resistenza e Riparazioni della Racchetta da Padel
 description: "Guida alla scoperta della dura vita di una racchetta da padel, dalla fabbricazione ai vostri colpi vincenti... o distruttivi"
 date:   2020-06-14 15:01:35 +0200
-image:  /images/posts/pala-tech.jpg
+image:  /images/posts/pala-tech.webp
 tags:   guide
 author: saint
 ---
