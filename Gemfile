@@ -1,10 +1,11 @@
-source "https://rubygems.org"
-gem "bundler"
-gem "jekyll", "3.9.0"
+source 'https://rubygems.org'
+gem 'bundler'
+gem 'jekyll'
+gem 'webrick', '~> 1.7' # Avoid issues with Ruby ver => 3.0.0
 group :jekyll_plugins do
-    gem "jekyll-paginate"
-    gem "jekyll-sitemap"
-    gem "jekyll-seo-tag"
-    gem "kramdown-parser-gfm"
+    gem 'jekyll-paginate'
+    gem 'jekyll-sitemap'
+    gem 'jekyll-seo-tag'
+    gem 'kramdown-parser-gfm'
+    gem 'jekyll-redirect-from'
 end
-gem "webrick", "~> 1.7"

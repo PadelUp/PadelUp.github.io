@@ -5,6 +5,7 @@ date:   2020-06-14 15:01:35 +0200
 image:  /images/posts/pala-tech.webp
 categories:   guide
 author: saint
+redirect_from: /2020/06/14/materiali-racchetta-da-padel/
 ---
 
 ## Materiali

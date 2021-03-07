@@ -6,6 +6,7 @@ image: /images/posts/orven-vulcano-01.webp
 categories: recensioni
 author: saint
 video: https://www.youtube.com/embed/keJPpDmpenE
+redirect-from: /2020/09/30/orven-vulcano/
 ---
 
 Nuova settimana, nuova recensione

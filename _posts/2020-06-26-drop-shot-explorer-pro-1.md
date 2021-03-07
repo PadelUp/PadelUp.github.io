@@ -6,6 +6,7 @@ image: /images/posts/dropshot-explorer-01.webp
 categories: recensioni
 author: jack
 video: https://www.youtube.com/embed/KQvyiDTGVdY
+redirect_from: /2020/06/26/drop-shot-explorer-pro-1/
 ---
 
 ## Il brand e la sua storia

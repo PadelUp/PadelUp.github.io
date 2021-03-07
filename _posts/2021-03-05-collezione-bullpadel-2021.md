@@ -8,6 +8,7 @@ description: >-
   Storico marchio spagnolo, in questa collezione 2021 presenta cinque linee, per
   tutte le tipologie di giocatori. I modelli dell Proline hanno un manico in
   hesacore di serie, carbonio innovativo ed antivibrazioni integrato.
+redirect_from: /2021/03/05/collezione-bullpadel-2021/
 ---
 Da anni ormai la marca Bullpadel è sinonimo di innovazione e qualità, conquistandosi un posto di diritto tra i Top Brand in questo mercato. 
 

@@ -5,6 +5,7 @@ date:   2020-06-12 12:01:35 +0200
 image:  /images/posts/pala-grip.webp
 categories:   guide
 author: saint
+redirect_from: /2020/06/12/caratteristiche-racchetta-da-padel/
 ---
 
 Il **_Grip_** rappresenta il punto di **contatto** tra il giocatore e la racchetta: non solo consente di trasferire la forza ai colpi, ma anche di limitare le vibrazioni che si ripercuotono sul braccio del giocatore. Le sue dimensioni rispettano le proporzioni della “pala” e il manico deve essere impugnato saldamente.

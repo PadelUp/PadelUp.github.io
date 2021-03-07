@@ -16,7 +16,7 @@
             <ul class="contact__list list-reset">
             {% for social in author.social %}
             <li class="contact__item">
-            <a class="contact__link" href="{{ social.link }}"><i class="ion ion-logo-{{ social.name }}"></i></a>
+            <a class="contact__link" href="{{ social.link }}"><ion-icon name="{{ social.icon }}"></ion-icon></a>
             </li>
             {% endfor %}
             </ul>

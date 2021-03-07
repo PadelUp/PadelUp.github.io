@@ -5,6 +5,7 @@ date:   2020-06-09 22:01:35 +0200
 image:  /images/posts/pala-colors.webp
 categories:   guide
 author: saint
+redirect_from: /2020/06/09/racchetta-da-padel/
 ---
 
 ## Anatomia

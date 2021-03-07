@@ -32,7 +32,7 @@ layout: default
     <div class="col col-12 col-d-10 push-d-1 col-m-12 push-m-0">
       {% if page.parent %}
       <div class="article__btn">
-        <a href="{{ page.parent | prepend: site.baseurl }}" class="read-more"><i class="ion ion-ios-arrow-back"></i> Indietro</a>
+        <a href="{{ page.parent | prepend: site.baseurl }}" class="read-more"><ion-icon name="chevron-back-outline"></ion-icon> Indietro</a>
       </div>  
       {% endif %}
       <div class="post-head">
@@ -119,8 +119,8 @@ layout: default
           <br>
           {% if prevurl or nexturl %}
           <div class="article__btn">
-            {% if nexturl %}<a href="{{nexturl}}" class="read-more" style="float: left;"><i class="ion ion-ios-arrow-back"></i> successiva</a>{% endif %}
-            {% if prevurl %}<a href="{{prevurl}}" class="read-more" style="float: right;">precedente <i class="ion ion-ios-arrow-forward"></i></a>{% endif %}                    
+            {% if nexturl %}<a href="{{nexturl}}" class="read-more" style="float: left;"><ion-icon name="chevron-back-outline"></ion-icon> successiva</a>{% endif %}
+            {% if prevurl %}<a href="{{prevurl}}" class="read-more" style="float: right;">precedente <ion-icon name="chevron-forward-outline"></ion-icon></a>{% endif %}                    
           </div>
           {% endif %}
           <br>

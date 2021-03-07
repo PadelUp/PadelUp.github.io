@@ -5,6 +5,7 @@ date: 2020-06-30 13:01:05
 image: /images/posts/historia-padel-02.webp
 categories: approfondimenti
 author: jack
+redirect_from: /2020/06/30/nascita-del-padel/
 ---
 
 Il Padel affonda le proprie radici nel Messico degli anni 70 e le prime tracce del **professionismo sportivo** si manifestano in **Argentina** a partire dal **1985**.

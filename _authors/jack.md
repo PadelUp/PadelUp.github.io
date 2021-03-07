@@ -8,7 +8,7 @@ position: Istruttore
 bio: Dirigente FIT 1º grado, Istruttore di Padel 1º grado. Campione serie A2 di Padel 2017.
 index: 3
 social:
-    - {name: "instagram", link: "https://instagram.com/___jaackk___"}
-    - {name: "facebook", link: "https://www.facebook.com/giacomo.cimino.12"}
-    - {name: "twitter", link: "https://twitter.com/giacomocim"}
+    - {name: "instagram", icon: "logo-instagram", link: "https://instagram.com/___jaackk___"}
+    - {name: "facebook", icon: "logo-facebook", link: "https://www.facebook.com/giacomo.cimino.12"}
+    - {name: "twitter", icon: "logo-twitter", link: "https://twitter.com/giacomocim"}
 ---

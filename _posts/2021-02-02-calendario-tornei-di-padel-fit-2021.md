@@ -8,6 +8,7 @@ image: /images/posts/calendario-2021-01.webp
 categories:
   - news
 author: saint
+redirect_from: /2021/02/02/calendario-tornei-di-padel-fit-2021/
 ---
 Finalmente riparte la stagione agonistica di Padel sul territorio nazionale, in tabella vengono riporati gli impegni dei primi due mesi di tornei di padel riservati ai tesserati presso la Federazione Italiana Tennis!
 
