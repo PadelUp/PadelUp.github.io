@@ -1,5 +1,4 @@
 ---
-layout: page
 title: style guide
 image: '/images/120.jpg'
 ---

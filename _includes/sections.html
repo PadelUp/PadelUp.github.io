@@ -11,7 +11,7 @@
     <p class="article__excerpt">{% if section.description %}{{ section.description | capitalize}}{% else %}{{ section.content | strip_html | truncate: 100 | capitalize}}{% endif %}</p>
     <div class="article__bottom">
       <div class="article__btn">
-        <a href="{{section.url | prepend: site.baseurl}}" class="read-more">Entra<i class="ion ion-ios-arrow-forward"></i></a>
+        <a href="{{section.url | prepend: site.baseurl}}" class="read-more">Entra <ion-icon name="chevron-forward-outline"></ion-icon></a>
       </div>
     </div>
   </div>

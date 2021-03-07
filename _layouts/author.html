@@ -2,29 +2,25 @@
 layout: default
 ---
 
-{% if author.avatar %}
 <div class="container">
   <div class="row">
     <div class="col col-12 col-d-10 push-d-1 col-m-12 push-m-0">
-      <h1 class="page-title">{{ author.display_name | escape }}</h1>
+      <h1 class="page-title">{{ author.name | escape }}</h1>
       <div class="image-box">
         <img class="page-image" src="{{site.baseurl}}{{author.avatar}}" alt="{{author.display_name}}">
       </div>
     </div>
   </div>
 </div>
-{% endif %}
 
 <div class="container">
   <div class="row">
     <div class="col col-8 push-2 col-d-10 col-m-12 push-d-1 push-m-0">
-      <!-- begin page -->
       <article class="page">
         <div class="page__content">
             {{ author.bio }}
         </div>
       </article>
-      <!-- end page -->
     </div>
   </div>
 </div>

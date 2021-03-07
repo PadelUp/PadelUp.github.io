@@ -6,7 +6,5 @@ button: true
 ---
 
 {% for section in site.sections %}
-  {% unless section.exclude %}
   {% include sections.html %}
-  {% endunless %}
 {% endfor %}
