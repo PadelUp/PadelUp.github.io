@@ -1,6 +1,6 @@
 ---
 layout: page
-title: mission
+title: Mission
 image: /images/mission/about.webp
 ---
 

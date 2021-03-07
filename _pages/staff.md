@@ -1,6 +1,6 @@
 ---
 layout: page
-title: staff
+title: Staff
 image: /images/staff/staff.webp
 ---
 
