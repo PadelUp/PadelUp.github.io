@@ -54,8 +54,8 @@ gallery:
     - url: '09.webp'
 
 #-------------------------------
-# Google Analytics
-google-analytics: "UA-163557003-4"
+# Google Analytics #"UA-163557003-4"
+google-analytics: "G-DH355JDJPH"
 
 #-------------------------------
 # Newsletter
