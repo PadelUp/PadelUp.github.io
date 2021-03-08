@@ -3,7 +3,7 @@ title: Staff
 image: /images/staff/staff.webp
 ---
 
-{% assign authors = site.data.authors %}
-{% for author in authors %}
+{% for person in site.data.authors %}
+{% assign author = person[1] %}
 {% include author.html %}
 {% endfor %}
