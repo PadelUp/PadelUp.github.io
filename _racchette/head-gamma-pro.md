@@ -3,7 +3,7 @@ id: head-gamma-pro
 parent: /wiki/racchette/head/
 permalink: /wiki/racchette/head/gamma-pro/
 image_dir: /images/wiki/racchette/
-image: head-gamma-pro.jpg
+image: head-gamma-pro.webp
 title: Head Gamma Pro
 brand: head
 model: Gamma Pro

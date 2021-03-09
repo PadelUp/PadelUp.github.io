@@ -3,7 +3,7 @@ id: dropshot-delta-1.0
 parent: /wiki/racchette/dropshot/
 permalink: /wiki/racchette/dropshot/delta-1.0/
 image_dir: /images/wiki/racchette/
-image: dropshot-delta-1.0.jpg
+image: dropshot-delta-1.0.webp
 title: Dropshot Delta 1.0
 brand: dropshot
 model: Delta 1.0

@@ -3,7 +3,7 @@ id: starvie-raptor-junior
 parent: /wiki/racchette/starvie/
 permalink: /wiki/racchette/starvie/raptor-junior/
 image_dir: /images/wiki/racchette/
-image: starvie-raptor-junior.jpg
+image: starvie-raptor-junior.webp
 title: Starvie Raptor Junior
 brand: starvie
 model: Raptor Junior

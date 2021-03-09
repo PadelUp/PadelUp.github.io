@@ -3,7 +3,7 @@ id: john-terry
 parent: /wiki/vip/allenatore/
 permalink: /wiki/vip/allenatore/john-terry/
 image_dir: /images/wiki/vip/
-image: john-terry.jpg
+image: john-terry.webp
 title: John Terry
 job: allenatore
 nome: John Terry

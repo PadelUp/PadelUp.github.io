@@ -3,7 +3,7 @@ id: black-crown-piton-nakano-15k
 parent: /wiki/racchette/black-crown/
 permalink: /wiki/racchette/black-crown/piton-nakano-15k/
 image_dir: /images/wiki/racchette/
-image: black-crown-piton-nakano-15k.jpg
+image: black-crown-piton-nakano-15k.webp
 title: Black Crown Piton Nakano 15K
 brand: black-crown
 model: Piton Nakano 15K

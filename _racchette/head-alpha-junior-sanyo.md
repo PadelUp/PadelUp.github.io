@@ -3,7 +3,7 @@ id: head-alpha-junior-sanyo
 parent: /wiki/racchette/head/
 permalink: /wiki/racchette/head/alpha-junior-sanyo/
 image_dir: /images/wiki/racchette/
-image: head-alpha-junior-sanyo.jpg
+image: head-alpha-junior-sanyo.webp
 title: Head Alpha Junior Sanyo
 brand: head
 model: Alpha Junior Sanyo

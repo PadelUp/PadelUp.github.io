@@ -1,6 +1,6 @@
 ---
 title: style guide
-image: '/images/120.jpg'
+image: '/images/120.webp'
 ---
 
 A paragraph looks like this — dolor amet cray stumptown fingerstache neutra food truck seitan poke cardigan waistcoat VHS snackwave celiac hella. Godard seitan shoreditch flexitarian next level trust fund man braid vegan listicle keytar bitters. Disrupt cray fashion axe unicorn lomo shaman poke glossier keffiyeh snackwave austin tattooed seitan hexagon lo-fi. Lumbersexual irony vaporware, butcher shaman.
@@ -103,11 +103,11 @@ A paragraph looks like this — dolor amet cray stumptown fingerstache neutra fo
 
 ## Images
 
-![]({{site.baseurl}}/images/140.jpg)
+![]({{site.baseurl}}/images/140.webp)
 *Beautiful place*
 
 {% highlight markdown %}
-  ![]({{site.baseurl}}/images/140.jpg)
+  ![]({{site.baseurl}}/images/140.webp)
   *Beautiful place*
 {% endhighlight %}
 

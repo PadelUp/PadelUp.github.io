@@ -3,7 +3,7 @@ id: gianluca-giannichedda
 parent: /wiki/vip/calciatore/
 permalink: /wiki/vip/calciatore/gianluca-giannichedda/
 image_dir: /images/wiki/vip/
-image: gianluca-giannichedda.jpg
+image: gianluca-giannichedda.webp
 title: Gianluca Giannichedda
 job: calciatore
 nome: Gianluca Giannichedda

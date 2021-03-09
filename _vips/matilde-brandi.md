@@ -3,7 +3,7 @@ id: matilde-brandi
 parent: /wiki/vip/showgirl/
 permalink: /wiki/vip/showgirl/matilde-brandi/
 image_dir: /images/wiki/vip/
-image: matilde-brandi.jpg
+image: matilde-brandi.webp
 title: Matilde Brandi
 job: showgirl
 nome: Matilde brandi

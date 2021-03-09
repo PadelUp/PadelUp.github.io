@@ -3,7 +3,7 @@ id: dropshot-taipan
 parent: /wiki/racchette/dropshot/
 permalink: /wiki/racchette/dropshot/taipan/
 image_dir: /images/wiki/racchette/
-image: dropshot-taipan.jpg
+image: dropshot-taipan.webp
 title: Dropshot Taipan
 brand: dropshot
 model: Taipan

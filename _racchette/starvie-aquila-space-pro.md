@@ -3,7 +3,7 @@ id: starvie-aquila-space-pro
 parent: /wiki/racchette/starvie/
 permalink: /wiki/racchette/starvie/aquila-space-pro/
 image_dir: /images/wiki/racchette/
-image: starvie-aquila-space-pro.jpg
+image: starvie-aquila-space-pro.webp
 title: Starvie Aquila Space Pro
 brand: starvie
 model: Aquila Space Pro

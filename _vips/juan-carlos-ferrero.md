@@ -3,7 +3,7 @@ id: juan-carlos-ferrero
 parent: /wiki/vip/tennista/
 permalink: /wiki/vip/tennista/juan-carlos-ferrero/
 image_dir: /images/wiki/vip/
-image: juan-carlos-ferrero.jpg
+image: juan-carlos-ferrero.webp
 title: Juan Carlos Ferrero
 job: tennista
 nome: Juan Carlos Ferrero

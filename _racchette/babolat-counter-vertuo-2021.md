@@ -3,7 +3,7 @@ id: babolat-counter-vertuo-2021
 parent: /wiki/racchette/babolat/
 permalink: /wiki/racchette/babolat/counter-vertuo-2021/
 image_dir: /images/wiki/racchette/
-image: babolat-counter-vertuo-2021.jpg
+image: babolat-counter-vertuo-2021.webp
 title: Babolat Counter Vertuo 2021
 brand: babolat
 model: Counter Vertuo 2021

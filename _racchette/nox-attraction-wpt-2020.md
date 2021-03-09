@@ -3,7 +3,7 @@ id: nox-attraction-wpt-2020
 parent: /wiki/racchette/nox/
 permalink: /wiki/racchette/nox/attraction-wpt-2020/
 image_dir: /images/wiki/racchette/
-image: nox-attraction-wpt-2020.jpg
+image: nox-attraction-wpt-2020.webp
 title: Nox Attraction Wpt 2020
 brand: nox
 model: Attraction Wpt 2020

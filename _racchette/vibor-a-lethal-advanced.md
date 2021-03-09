@@ -3,7 +3,7 @@ id: vibor-a-lethal-advanced
 parent: /wiki/racchette/vibor-a/
 permalink: /wiki/racchette/vibor-a/lethal-advanced/
 image_dir: /images/wiki/racchette/
-image: vibor-a-lethal-advanced.jpg
+image: vibor-a-lethal-advanced.webp
 title: Vibor-A Lethal Advanced
 brand: vibor-a
 model: Lethal Advanced

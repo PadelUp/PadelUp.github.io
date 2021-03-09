@@ -3,7 +3,7 @@ id: starvie-metheora
 parent: /wiki/racchette/starvie/
 permalink: /wiki/racchette/starvie/metheora/
 image_dir: /images/wiki/racchette/
-image: starvie-metheora.jpg
+image: starvie-metheora.webp
 title: Starvie Metheora
 brand: starvie
 model: Metheora

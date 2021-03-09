@@ -3,7 +3,7 @@ id: diego-armando-maradona
 parent: /wiki/vip/calciatore/
 permalink: /wiki/vip/calciatore/diego-armando-maradona/
 image_dir: /images/wiki/vip/
-image: diego-armando-maradona.jpg
+image: diego-armando-maradona.webp
 title: Diego Armando Maradona
 job: calciatore
 nome: Diego Armando Maradona

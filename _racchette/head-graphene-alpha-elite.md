@@ -3,7 +3,7 @@ id: head-graphene-alpha-elite
 parent: /wiki/racchette/head/
 permalink: /wiki/racchette/head/graphene-alpha-elite/
 image_dir: /images/wiki/racchette/
-image: head-graphene-alpha-elite.jpg
+image: head-graphene-alpha-elite.webp
 title: Head Graphene Alpha Elite
 brand: head
 model: Graphene Alpha Elite

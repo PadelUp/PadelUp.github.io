@@ -3,7 +3,7 @@ id: nox-ml10-pro-cup-silver
 parent: /wiki/racchette/nox/
 permalink: /wiki/racchette/nox/ml10-pro-cup-silver/
 image_dir: /images/wiki/racchette/
-image: nox-ml10-pro-cup-silver.jpg
+image: nox-ml10-pro-cup-silver.webp
 title: Nox Ml10 Pro Cup Silver
 brand: nox
 model: Ml10 Pro Cup Silver

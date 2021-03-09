@@ -3,7 +3,7 @@ id: wilson-bela-pro
 parent: /wiki/racchette/wilson/
 permalink: /wiki/racchette/wilson/bela-pro/
 image_dir: /images/wiki/racchette/
-image: wilson-bela-pro.jpg
+image: wilson-bela-pro.webp
 title: Wilson Bela Pro
 brand: wilson
 model: Bela Pro

@@ -3,7 +3,7 @@ id: dropshot-essence
 parent: /wiki/racchette/dropshot/
 permalink: /wiki/racchette/dropshot/essence/
 image_dir: /images/wiki/racchette/
-image: dropshot-essence.jpg
+image: dropshot-essence.webp
 title: Dropshot Essence
 brand: dropshot
 model: Essence

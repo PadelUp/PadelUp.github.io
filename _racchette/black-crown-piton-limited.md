@@ -3,7 +3,7 @@ id: black-crown-piton-limited
 parent: /wiki/racchette/black-crown/
 permalink: /wiki/racchette/black-crown/piton-limited/
 image_dir: /images/wiki/racchette/
-image: black-crown-piton-limited.jpg
+image: black-crown-piton-limited.webp
 title: Black Crown Piton Limited
 brand: black-crown
 model: Piton Limited

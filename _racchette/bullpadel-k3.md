@@ -3,7 +3,7 @@ id: bullpadel-k3
 parent: /wiki/racchette/bullpadel/
 permalink: /wiki/racchette/bullpadel/k3/
 image_dir: /images/wiki/racchette/
-image: bullpadel-k3.jpg
+image: bullpadel-k3.webp
 title: Bullpadel K3
 brand: bullpadel
 model: K3

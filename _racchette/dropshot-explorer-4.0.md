@@ -3,7 +3,7 @@ id: dropshot-explorer-4.0
 parent: /wiki/racchette/dropshot/
 permalink: /wiki/racchette/dropshot/explorer-4.0/
 image_dir: /images/wiki/racchette/
-image: dropshot-explorer-4.0.jpg
+image: dropshot-explorer-4.0.webp
 title: Dropshot Explorer 4.0
 brand: dropshot
 model: Explorer 4.0

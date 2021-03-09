@@ -3,7 +3,7 @@ id: starvie-dronos-galaxy
 parent: /wiki/racchette/starvie/
 permalink: /wiki/racchette/starvie/dronos-galaxy/
 image_dir: /images/wiki/racchette/
-image: starvie-dronos-galaxy.jpg
+image: starvie-dronos-galaxy.webp
 title: Starvie Dronos Galaxy
 brand: starvie
 model: Dronos Galaxy

@@ -3,7 +3,7 @@ id: vibor-a-lethal-attack
 parent: /wiki/racchette/vibor-a/
 permalink: /wiki/racchette/vibor-a/lethal-attack/
 image_dir: /images/wiki/racchette/
-image: vibor-a-lethal-attack.jpg
+image: vibor-a-lethal-attack.webp
 title: Vibor-A Lethal Attack
 brand: vibor-a
 model: Lethal Attack

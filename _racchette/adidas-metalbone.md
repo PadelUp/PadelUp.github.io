@@ -3,7 +3,7 @@ id: adidas-metalbone
 parent: /wiki/racchette/adidas/
 permalink: /wiki/racchette/adidas/metalbone/
 image_dir: /images/wiki/racchette/
-image: adidas-metalbone.jpg
+image: adidas-metalbone.webp
 title: Adidas Metalbone
 brand: adidas
 model: Metalbone

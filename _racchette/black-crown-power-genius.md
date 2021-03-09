@@ -3,7 +3,7 @@ id: black-crown-power-genius
 parent: /wiki/racchette/black-crown/
 permalink: /wiki/racchette/black-crown/power-genius/
 image_dir: /images/wiki/racchette/
-image: black-crown-power-genius.jpg
+image: black-crown-power-genius.webp
 title: Black Crown Power Genius
 brand: black-crown
 model: Power Genius

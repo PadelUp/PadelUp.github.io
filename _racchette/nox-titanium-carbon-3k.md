@@ -3,7 +3,7 @@ id: nox-titanium-carbon-3k
 parent: /wiki/racchette/nox/
 permalink: /wiki/racchette/nox/titanium-carbon-3k/
 image_dir: /images/wiki/racchette/
-image: nox-titanium-carbon-3k.jpg
+image: nox-titanium-carbon-3k.webp
 title: Nox Titanium Carbon 3K
 brand: nox
 model: Titanium Carbon 3K

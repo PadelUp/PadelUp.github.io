@@ -3,7 +3,7 @@ id: daniele-de-rossi
 parent: /wiki/vip/calciatore/
 permalink: /wiki/vip/calciatore/daniele-de-rossi/
 image_dir: /images/wiki/vip/
-image: daniele-de-rossi.jpg
+image: daniele-de-rossi.webp
 title: Daniele De Rossi
 job: calciatore
 nome: Daniele de Rossi

@@ -3,7 +3,7 @@ id: bullpadel-hack-02-21
 parent: /wiki/racchette/bullpadel/
 permalink: /wiki/racchette/bullpadel/hack-02-21/
 image_dir: /images/wiki/racchette/
-image: bullpadel-hack-02-21.jpg
+image: bullpadel-hack-02-21.webp
 title: Bullpadel Hack 02 21
 brand: bullpadel
 model: Hack 02 21

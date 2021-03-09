@@ -3,7 +3,7 @@ id: head-graphene-alpha-motion
 parent: /wiki/racchette/head/
 permalink: /wiki/racchette/head/graphene-alpha-motion/
 image_dir: /images/wiki/racchette/
-image: head-graphene-alpha-motion.jpg
+image: head-graphene-alpha-motion.webp
 title: Head Graphene Alpha Motion
 brand: head
 model: Graphene Alpha Motion

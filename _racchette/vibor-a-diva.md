@@ -3,7 +3,7 @@ id: vibor-a-diva
 parent: /wiki/racchette/vibor-a/
 permalink: /wiki/racchette/vibor-a/diva/
 image_dir: /images/wiki/racchette/
-image: vibor-a-diva.jpg
+image: vibor-a-diva.webp
 title: Vibor-A Diva
 brand: vibor-a
 model: Diva

@@ -3,7 +3,7 @@ id: cristian-brocchi
 parent: /wiki/vip/calciatore/
 permalink: /wiki/vip/calciatore/cristian-brocchi/
 image_dir: /images/wiki/vip/
-image: cristian-brocchi.jpg
+image: cristian-brocchi.webp
 title: Cristian Brocchi
 job: calciatore
 nome: Cristian Brocchi

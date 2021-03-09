@@ -3,7 +3,7 @@ id: prince-raptor
 parent: /wiki/racchette/prince/
 permalink: /wiki/racchette/prince/raptor/
 image_dir: /images/wiki/racchette/
-image: prince-raptor.jpg
+image: prince-raptor.webp
 title: Prince Raptor
 brand: prince
 model: Raptor

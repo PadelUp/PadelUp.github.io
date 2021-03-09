@@ -3,7 +3,7 @@ id: wilson-bela-team
 parent: /wiki/racchette/wilson/
 permalink: /wiki/racchette/wilson/bela-team/
 image_dir: /images/wiki/racchette/
-image: wilson-bela-team.jpg
+image: wilson-bela-team.webp
 title: Wilson Bela Team
 brand: wilson
 model: Bela Team

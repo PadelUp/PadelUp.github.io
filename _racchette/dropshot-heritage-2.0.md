@@ -3,7 +3,7 @@ id: dropshot-heritage-2.0
 parent: /wiki/racchette/dropshot/
 permalink: /wiki/racchette/dropshot/heritage-2.0/
 image_dir: /images/wiki/racchette/
-image: dropshot-heritage-2.0.jpg
+image: dropshot-heritage-2.0.webp
 title: Dropshot Heritage 2.0
 brand: dropshot
 model: Heritage 2.0

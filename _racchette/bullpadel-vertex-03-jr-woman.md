@@ -3,7 +3,7 @@ id: bullpadel-vertex-03-jr-woman
 parent: /wiki/racchette/bullpadel/
 permalink: /wiki/racchette/bullpadel/vertex-03-jr-woman/
 image_dir: /images/wiki/racchette/
-image: bullpadel-vertex-03-jr-woman.jpg
+image: bullpadel-vertex-03-jr-woman.webp
 title: Bullpadel Vertex 03 Jr Woman
 brand: bullpadel
 model: Vertex 03 Jr Woman

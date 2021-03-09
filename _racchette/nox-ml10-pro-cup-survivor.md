@@ -3,7 +3,7 @@ id: nox-ml10-pro-cup-survivor
 parent: /wiki/racchette/nox/
 permalink: /wiki/racchette/nox/ml10-pro-cup-survivor/
 image_dir: /images/wiki/racchette/
-image: nox-ml10-pro-cup-survivor.jpg
+image: nox-ml10-pro-cup-survivor.webp
 title: Nox Ml10 Pro Cup Survivor
 brand: nox
 model: Ml10 Pro Cup Survivor

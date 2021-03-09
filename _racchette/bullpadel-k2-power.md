@@ -3,7 +3,7 @@ id: bullpadel-k2-power
 parent: /wiki/racchette/bullpadel/
 permalink: /wiki/racchette/bullpadel/k2-power/
 image_dir: /images/wiki/racchette/
-image: bullpadel-k2-power.jpg
+image: bullpadel-k2-power.webp
 title: Bullpadel K2 Power
 brand: bullpadel
 model: K2 Power

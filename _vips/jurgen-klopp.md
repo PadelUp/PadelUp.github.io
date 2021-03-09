@@ -3,7 +3,7 @@ id: jurgen-klopp
 parent: /wiki/vip/allenatore/
 permalink: /wiki/vip/allenatore/jurgen-klopp/
 image_dir: /images/wiki/vip/
-image: jurgen-klopp.jpg
+image: jurgen-klopp.webp
 title: Jurgen Klopp
 job: allenatore
 nome: Jurgen Klopp

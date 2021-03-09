@@ -3,7 +3,7 @@ id: vibor-a-copper
 parent: /wiki/racchette/vibor-a/
 permalink: /wiki/racchette/vibor-a/copper/
 image_dir: /images/wiki/racchette/
-image: vibor-a-copper.jpg
+image: vibor-a-copper.webp
 title: Vibor-A Copper
 brand: vibor-a
 model: Copper

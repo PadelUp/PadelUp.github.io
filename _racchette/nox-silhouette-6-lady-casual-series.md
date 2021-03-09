@@ -3,7 +3,7 @@ id: nox-silhouette-6-lady-casual-series
 parent: /wiki/racchette/nox/
 permalink: /wiki/racchette/nox/silhouette-6-lady-casual-series/
 image_dir: /images/wiki/racchette/
-image: nox-silhouette-6-lady-casual-series.jpg
+image: nox-silhouette-6-lady-casual-series.webp
 title: Nox Silhouette 6 Lady Casual Series
 brand: nox
 model: Silhouette 6 Lady Casual Series

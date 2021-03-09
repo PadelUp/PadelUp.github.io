@@ -3,7 +3,7 @@ id: babolat-air-veron-2021
 parent: /wiki/racchette/babolat/
 permalink: /wiki/racchette/babolat/air-veron-2021/
 image_dir: /images/wiki/racchette/
-image: babolat-air-veron-2021.jpg
+image: babolat-air-veron-2021.webp
 title: Babolat Air Veron 2021
 brand: babolat
 model: Air Veron 2021

@@ -3,7 +3,7 @@ id: head-flash
 parent: /wiki/racchette/head/
 permalink: /wiki/racchette/head/flash/
 image_dir: /images/wiki/racchette/
-image: head-flash.jpg
+image: head-flash.webp
 title: Head Flash
 brand: head
 model: Flash

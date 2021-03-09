@@ -3,7 +3,7 @@ id: francesco-totti
 parent: /wiki/vip/calciatore/
 permalink: /wiki/vip/calciatore/francesco-totti/
 image_dir: /images/wiki/vip/
-image: francesco-totti.jpg
+image: francesco-totti.webp
 title: Francesco Totti
 job: calciatore
 nome: Francesco Totti

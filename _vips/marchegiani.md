@@ -3,7 +3,7 @@ id: marchegiani
 parent: /wiki/vip/giornalista/
 permalink: /wiki/vip/giornalista/marchegiani/
 image_dir: /images/wiki/vip/
-image: marchegiani.jpg
+image: marchegiani.webp
 title: Marchegiani
 job: giornalista
 nome: Marchegiani

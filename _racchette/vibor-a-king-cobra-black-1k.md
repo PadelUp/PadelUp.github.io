@@ -3,7 +3,7 @@ id: vibor-a-king-cobra-black-1k
 parent: /wiki/racchette/vibor-a/
 permalink: /wiki/racchette/vibor-a/king-cobra-black-1k/
 image_dir: /images/wiki/racchette/
-image: vibor-a-king-cobra-black-1k.jpg
+image: vibor-a-king-cobra-black-1k.webp
 title: Vibor-A King Cobra Black 1K
 brand: vibor-a
 model: King Cobra Black 1K

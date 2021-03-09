@@ -3,7 +3,7 @@ id: dropshot-yukon-pro
 parent: /wiki/racchette/dropshot/
 permalink: /wiki/racchette/dropshot/yukon-pro/
 image_dir: /images/wiki/racchette/
-image: dropshot-yukon-pro.jpg
+image: dropshot-yukon-pro.webp
 title: Dropshot Yukon Pro
 brand: dropshot
 model: Yukon Pro

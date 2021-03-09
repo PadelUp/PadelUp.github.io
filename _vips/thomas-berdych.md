@@ -3,7 +3,7 @@ id: thomas-berdych
 parent: /wiki/vip/tennista/
 permalink: /wiki/vip/tennista/thomas-berdych/
 image_dir: /images/wiki/vip/
-image: thomas-berdych.jpg
+image: thomas-berdych.webp
 title: Thomas Berdych
 job: tennista
 nome: Thomas Berdych

@@ -3,7 +3,7 @@ id: bullpadel-k3-woman
 parent: /wiki/racchette/bullpadel/
 permalink: /wiki/racchette/bullpadel/k3-woman/
 image_dir: /images/wiki/racchette/
-image: bullpadel-k3-woman.jpg
+image: bullpadel-k3-woman.webp
 title: Bullpadel K3 Woman
 brand: bullpadel
 model: K3 Woman

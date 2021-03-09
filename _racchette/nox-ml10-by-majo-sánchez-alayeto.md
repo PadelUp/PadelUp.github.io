@@ -3,7 +3,7 @@ id: nox-ml10-by-majo-sánchez-alayeto
 parent: /wiki/racchette/nox/
 permalink: /wiki/racchette/nox/ml10-by-majo-sánchez-alayeto/
 image_dir: /images/wiki/racchette/
-image: nox-ml10-by-majo-sánchez-alayeto.jpg
+image: nox-ml10-by-majo-sánchez-alayeto.webp
 title: Nox Ml10 By Majo Sánchez Alayeto
 brand: nox
 model: Ml10 By Majo Sánchez Alayeto

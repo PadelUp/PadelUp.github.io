@@ -3,7 +3,7 @@ id: nox-x-one-c.6-casual-series
 parent: /wiki/racchette/nox/
 permalink: /wiki/racchette/nox/x-one-c.6-casual-series/
 image_dir: /images/wiki/racchette/
-image: nox-x-one-c.6-casual-series.jpg
+image: nox-x-one-c.6-casual-series.webp
 title: Nox X-One C.6 Casual Series
 brand: nox
 model: X-One C.6 Casual Series

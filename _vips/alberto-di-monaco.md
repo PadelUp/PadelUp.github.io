@@ -3,7 +3,7 @@ id: alberto-di-monaco
 parent: /wiki/vip/principe/
 permalink: /wiki/vip/principe/alberto-di-monaco/
 image_dir: /images/wiki/vip/
-image: alberto-di-monaco.jpg
+image: alberto-di-monaco.webp
 title: Alberto Di Monaco
 job: principe
 nome: Alberto di Monaco

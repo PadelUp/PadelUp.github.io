@@ -3,7 +3,7 @@ id: nox-at10-genius-arena-luxury-series
 parent: /wiki/racchette/nox/
 permalink: /wiki/racchette/nox/at10-genius-arena-luxury-series/
 image_dir: /images/wiki/racchette/
-image: nox-at10-genius-arena-luxury-series.jpg
+image: nox-at10-genius-arena-luxury-series.webp
 title: Nox At10 Genius Arena Luxury Series
 brand: nox
 model: At10 Genius Arena Luxury Series

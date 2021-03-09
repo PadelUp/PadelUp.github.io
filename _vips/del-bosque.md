@@ -3,7 +3,7 @@ id: del-bosque
 parent: /wiki/vip/allenatore/
 permalink: /wiki/vip/allenatore/del-bosque/
 image_dir: /images/wiki/vip/
-image: del-bosque.jpg
+image: del-bosque.webp
 title: Del Bosque
 job: allenatore
 nome: Del Bosque

@@ -3,7 +3,7 @@ id: nox-emotion-wpt-2020
 parent: /wiki/racchette/nox/
 permalink: /wiki/racchette/nox/emotion-wpt-2020/
 image_dir: /images/wiki/racchette/
-image: nox-emotion-wpt-2020.jpg
+image: nox-emotion-wpt-2020.webp
 title: Nox Emotion Wpt 2020
 brand: nox
 model: Emotion Wpt 2020

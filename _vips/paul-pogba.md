@@ -3,7 +3,7 @@ id: paul-pogba
 parent: /wiki/vip/calciatore/
 permalink: /wiki/vip/calciatore/paul-pogba/
 image_dir: /images/wiki/vip/
-image: paul-pogba.jpg
+image: paul-pogba.webp
 title: Paul Pogba
 job: calciatore
 nome: Paul Pogba

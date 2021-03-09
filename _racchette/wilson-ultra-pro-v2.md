@@ -3,7 +3,7 @@ id: wilson-ultra-pro-v2
 parent: /wiki/racchette/wilson/
 permalink: /wiki/racchette/wilson/ultra-pro-v2/
 image_dir: /images/wiki/racchette/
-image: wilson-ultra-pro-v2.jpg
+image: wilson-ultra-pro-v2.webp
 title: Wilson Ultra Pro V2
 brand: wilson
 model: Ultra Pro V2

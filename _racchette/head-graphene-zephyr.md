@@ -3,7 +3,7 @@ id: head-graphene-zephyr
 parent: /wiki/racchette/head/
 permalink: /wiki/racchette/head/graphene-zephyr/
 image_dir: /images/wiki/racchette/
-image: head-graphene-zephyr.jpg
+image: head-graphene-zephyr.webp
 title: Head Graphene Zephyr
 brand: head
 model: Graphene Zephyr

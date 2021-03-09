@@ -3,7 +3,7 @@ id: prince-premier-v2
 parent: /wiki/racchette/prince/
 permalink: /wiki/racchette/prince/premier-v2/
 image_dir: /images/wiki/racchette/
-image: prince-premier-v2.jpg
+image: prince-premier-v2.webp
 title: Prince Premier V2
 brand: prince
 model: Premier V2

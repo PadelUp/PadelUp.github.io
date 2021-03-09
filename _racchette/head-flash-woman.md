@@ -3,7 +3,7 @@ id: head-flash-woman
 parent: /wiki/racchette/head/
 permalink: /wiki/racchette/head/flash-woman/
 image_dir: /images/wiki/racchette/
-image: head-flash-woman.jpg
+image: head-flash-woman.webp
 title: Head Flash Woman
 brand: head
 model: Flash Woman

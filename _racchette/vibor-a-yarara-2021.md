@@ -3,7 +3,7 @@ id: vibor-a-yarara-2021
 parent: /wiki/racchette/vibor-a/
 permalink: /wiki/racchette/vibor-a/yarara-2021/
 image_dir: /images/wiki/racchette/
-image: vibor-a-yarara-2021.jpg
+image: vibor-a-yarara-2021.webp
 title: Vibor-A Yarara 2021
 brand: vibor-a
 model: Yarara 2021

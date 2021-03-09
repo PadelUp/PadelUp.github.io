@@ -3,7 +3,7 @@ id: gerald-piqué
 parent: /wiki/vip/calciatore/
 permalink: /wiki/vip/calciatore/gerald-piqué/
 image_dir: /images/wiki/vip/
-image: gerald-piqué.jpg
+image: gerald-piqué.webp
 title: Gerald Piqué
 job: calciatore
 nome: Gerald Piqué

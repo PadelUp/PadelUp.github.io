@@ -3,7 +3,7 @@ id: sergi-brugera
 parent: /wiki/vip/tennista/
 permalink: /wiki/vip/tennista/sergi-brugera/
 image_dir: /images/wiki/vip/
-image: sergi-brugera.jpg
+image: sergi-brugera.webp
 title: Sergi Brugera
 job: tennista
 nome: Sergi Brugera

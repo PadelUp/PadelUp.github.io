@@ -3,7 +3,7 @@ id: adidas-greenpadel
 parent: /wiki/racchette/adidas/
 permalink: /wiki/racchette/adidas/greenpadel/
 image_dir: /images/wiki/racchette/
-image: adidas-greenpadel.jpg
+image: adidas-greenpadel.webp
 title: Adidas Greenpadel
 brand: adidas
 model: Greenpadel

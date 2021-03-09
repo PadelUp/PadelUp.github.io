@@ -3,7 +3,7 @@ id: head-evo-sanyo
 parent: /wiki/racchette/head/
 permalink: /wiki/racchette/head/evo-sanyo/
 image_dir: /images/wiki/racchette/
-image: head-evo-sanyo.jpg
+image: head-evo-sanyo.webp
 title: Head Evo Sanyo
 brand: head
 model: Evo Sanyo

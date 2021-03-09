@@ -3,7 +3,7 @@ id: fausto-brizzi
 parent: /wiki/vip/showman/
 permalink: /wiki/vip/showman/fausto-brizzi/
 image_dir: /images/wiki/vip/
-image: fausto-brizzi.jpg
+image: fausto-brizzi.webp
 title: Fausto Brizzi
 job: showman
 nome: Fausto Brizzi

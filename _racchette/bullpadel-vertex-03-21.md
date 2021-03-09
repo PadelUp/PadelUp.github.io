@@ -3,7 +3,7 @@ id: bullpadel-vertex-03-21
 parent: /wiki/racchette/bullpadel/
 permalink: /wiki/racchette/bullpadel/vertex-03-21/
 image_dir: /images/wiki/racchette/
-image: bullpadel-vertex-03-21.jpg
+image: bullpadel-vertex-03-21.webp
 title: Bullpadel Vertex 03 21
 brand: bullpadel
 model: Vertex 03 21

@@ -3,7 +3,7 @@ id: starvie-triton
 parent: /wiki/racchette/starvie/
 permalink: /wiki/racchette/starvie/triton/
 image_dir: /images/wiki/racchette/
-image: starvie-triton.jpg
+image: starvie-triton.webp
 title: Starvie Triton
 brand: starvie
 model: Triton

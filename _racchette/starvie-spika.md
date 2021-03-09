@@ -3,7 +3,7 @@ id: starvie-spika
 parent: /wiki/racchette/starvie/
 permalink: /wiki/racchette/starvie/spika/
 image_dir: /images/wiki/racchette/
-image: starvie-spika.jpg
+image: starvie-spika.webp
 title: Starvie Spika
 brand: starvie
 model: Spika

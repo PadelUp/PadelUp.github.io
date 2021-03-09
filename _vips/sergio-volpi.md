@@ -3,7 +3,7 @@ id: sergio-volpi
 parent: /wiki/vip/calciatore/
 permalink: /wiki/vip/calciatore/sergio-volpi/
 image_dir: /images/wiki/vip/
-image: sergio-volpi.jpg
+image: sergio-volpi.webp
 title: Sergio Volpi
 job: calciatore
 nome: Sergio Volpi

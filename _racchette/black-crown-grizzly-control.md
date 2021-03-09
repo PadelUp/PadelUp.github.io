@@ -3,7 +3,7 @@ id: black-crown-grizzly-control
 parent: /wiki/racchette/black-crown/
 permalink: /wiki/racchette/black-crown/grizzly-control/
 image_dir: /images/wiki/racchette/
-image: black-crown-grizzly-control.jpg
+image: black-crown-grizzly-control.webp
 title: Black Crown Grizzly Control
 brand: black-crown
 model: Grizzly Control

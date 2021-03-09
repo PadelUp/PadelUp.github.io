@@ -3,7 +3,7 @@ id: starvie-metheora-junior
 parent: /wiki/racchette/starvie/
 permalink: /wiki/racchette/starvie/metheora-junior/
 image_dir: /images/wiki/racchette/
-image: starvie-metheora-junior.jpg
+image: starvie-metheora-junior.webp
 title: Starvie Metheora Junior
 brand: starvie
 model: Metheora Junior

@@ -3,7 +3,7 @@ id: andres-iniesta
 parent: /wiki/vip/calciatore/
 permalink: /wiki/vip/calciatore/andres-iniesta/
 image_dir: /images/wiki/vip/
-image: andres-iniesta.jpg
+image: andres-iniesta.webp
 title: Andres Iniesta
 job: calciatore
 nome: Andres Iniesta

@@ -3,7 +3,7 @@ id: vibor-a-black-mamba-2021
 parent: /wiki/racchette/vibor-a/
 permalink: /wiki/racchette/vibor-a/black-mamba-2021/
 image_dir: /images/wiki/racchette/
-image: vibor-a-black-mamba-2021.jpg
+image: vibor-a-black-mamba-2021.webp
 title: Vibor-A Black Mamba 2021
 brand: vibor-a
 model: Black Mamba 2021

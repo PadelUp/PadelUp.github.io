@@ -3,7 +3,7 @@ id: bullpadel-hack-ctr-21
 parent: /wiki/racchette/bullpadel/
 permalink: /wiki/racchette/bullpadel/hack-ctr-21/
 image_dir: /images/wiki/racchette/
-image: bullpadel-hack-ctr-21.jpg
+image: bullpadel-hack-ctr-21.webp
 title: Bullpadel Hack Ctr 21
 brand: bullpadel
 model: Hack Ctr 21

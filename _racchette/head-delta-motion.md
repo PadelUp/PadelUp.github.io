@@ -3,7 +3,7 @@ id: head-delta-motion
 parent: /wiki/racchette/head/
 permalink: /wiki/racchette/head/delta-motion/
 image_dir: /images/wiki/racchette/
-image: head-delta-motion.jpg
+image: head-delta-motion.webp
 title: Head Delta Motion
 brand: head
 model: Delta Motion

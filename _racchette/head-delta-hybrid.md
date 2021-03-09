@@ -3,7 +3,7 @@ id: head-delta-hybrid
 parent: /wiki/racchette/head/
 permalink: /wiki/racchette/head/delta-hybrid/
 image_dir: /images/wiki/racchette/
-image: head-delta-hybrid.jpg
+image: head-delta-hybrid.webp
 title: Head Delta Hybrid
 brand: head
 model: Delta Hybrid

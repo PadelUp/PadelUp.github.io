@@ -3,7 +3,7 @@ id: starvie-icarus
 parent: /wiki/racchette/starvie/
 permalink: /wiki/racchette/starvie/icarus/
 image_dir: /images/wiki/racchette/
-image: starvie-icarus.jpg
+image: starvie-icarus.webp
 title: Starvie Icarus
 brand: starvie
 model: Icarus

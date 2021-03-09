@@ -3,7 +3,7 @@ id: adidas-adipower-lite
 parent: /wiki/racchette/adidas/
 permalink: /wiki/racchette/adidas/adipower-lite/
 image_dir: /images/wiki/racchette/
-image: adidas-adipower-lite.jpg
+image: adidas-adipower-lite.webp
 title: Adidas Adipower Lite
 brand: adidas
 model: Adipower Lite

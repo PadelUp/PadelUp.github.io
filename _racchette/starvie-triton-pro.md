@@ -3,7 +3,7 @@ id: starvie-triton-pro
 parent: /wiki/racchette/starvie/
 permalink: /wiki/racchette/starvie/triton-pro/
 image_dir: /images/wiki/racchette/
-image: starvie-triton-pro.jpg
+image: starvie-triton-pro.webp
 title: Starvie Triton Pro
 brand: starvie
 model: Triton Pro

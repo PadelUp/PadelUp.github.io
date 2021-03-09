@@ -3,7 +3,7 @@ id: adidas-adipower-junior
 parent: /wiki/racchette/adidas/
 permalink: /wiki/racchette/adidas/adipower-junior/
 image_dir: /images/wiki/racchette/
-image: adidas-adipower-junior.jpg
+image: adidas-adipower-junior.webp
 title: Adidas Adipower Junior
 brand: adidas
 model: Adipower Junior

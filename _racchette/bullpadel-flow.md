@@ -3,7 +3,7 @@ id: bullpadel-flow
 parent: /wiki/racchette/bullpadel/
 permalink: /wiki/racchette/bullpadel/flow/
 image_dir: /images/wiki/racchette/
-image: bullpadel-flow.jpg
+image: bullpadel-flow.webp
 title: Bullpadel Flow
 brand: bullpadel
 model: Flow

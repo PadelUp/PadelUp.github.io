@@ -3,7 +3,7 @@ id: dropshot-osaka-1.0
 parent: /wiki/racchette/dropshot/
 permalink: /wiki/racchette/dropshot/osaka-1.0/
 image_dir: /images/wiki/racchette/
-image: dropshot-osaka-1.0.jpg
+image: dropshot-osaka-1.0.webp
 title: Dropshot Osaka 1.0
 brand: dropshot
 model: Osaka 1.0

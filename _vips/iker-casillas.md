@@ -3,7 +3,7 @@ id: iker-casillas
 parent: /wiki/vip/calciatore/
 permalink: /wiki/vip/calciatore/iker-casillas/
 image_dir: /images/wiki/vip/
-image: iker-casillas.jpg
+image: iker-casillas.webp
 title: Iker Casillas
 job: calciatore
 nome: Iker Casillas

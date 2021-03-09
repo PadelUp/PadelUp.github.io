@@ -3,7 +3,7 @@ id: prince-rocket
 parent: /wiki/racchette/prince/
 permalink: /wiki/racchette/prince/rocket/
 image_dir: /images/wiki/racchette/
-image: prince-rocket.jpg
+image: prince-rocket.webp
 title: Prince Rocket
 brand: prince
 model: Rocket

@@ -3,7 +3,7 @@ id: prince-princess-ultralight
 parent: /wiki/racchette/prince/
 permalink: /wiki/racchette/prince/princess-ultralight/
 image_dir: /images/wiki/racchette/
-image: prince-princess-ultralight.jpg
+image: prince-princess-ultralight.webp
 title: Prince Princess Ultralight
 brand: prince
 model: Princess Ultralight

@@ -3,7 +3,7 @@ id: nox-tempo-2021-wpt
 parent: /wiki/racchette/nox/
 permalink: /wiki/racchette/nox/tempo-2021-wpt/
 image_dir: /images/wiki/racchette/
-image: nox-tempo-2021-wpt.jpg
+image: nox-tempo-2021-wpt.webp
 title: Nox Tempo 2021 Wpt
 brand: nox
 model: Tempo 2021 Wpt

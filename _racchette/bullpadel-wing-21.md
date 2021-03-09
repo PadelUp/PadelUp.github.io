@@ -3,7 +3,7 @@ id: bullpadel-wing-21
 parent: /wiki/racchette/bullpadel/
 permalink: /wiki/racchette/bullpadel/wing-21/
 image_dir: /images/wiki/racchette/
-image: bullpadel-wing-21.jpg
+image: bullpadel-wing-21.webp
 title: Bullpadel Wing 21
 brand: bullpadel
 model: Wing 21

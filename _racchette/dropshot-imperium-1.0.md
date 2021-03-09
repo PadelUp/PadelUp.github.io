@@ -3,7 +3,7 @@ id: dropshot-imperium-1.0
 parent: /wiki/racchette/dropshot/
 permalink: /wiki/racchette/dropshot/imperium-1.0/
 image_dir: /images/wiki/racchette/
-image: dropshot-imperium-1.0.jpg
+image: dropshot-imperium-1.0.webp
 title: Dropshot Imperium 1.0
 brand: dropshot
 model: Imperium 1.0
