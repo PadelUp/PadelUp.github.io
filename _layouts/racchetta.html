@@ -6,18 +6,18 @@ layout: default
 {% assign  racchette_brand = site.racchette | sort: "index" | reverse | where:"brand", page.brand %}
   
 {% for racchetta in racchette_brand %}
-{% if racchetta.title == page.title %}
+{% if racchetta.model == page.model %}
 
     {% unless forloop.first %}
         {% assign prevurl = prev.url %}
 
-        {% assign prevtitle = prev.title %}
+        {% assign prevmodel = prev.model %}
     {% endunless %}
 
     {% unless forloop.last %}
         {% assign next = racchette_brand[forloop.index] %}
         {% assign nexturl = next.url %}
-        {% assign nexttitle = next.title %}
+        {% assign nextmodel = next.model %}
     {% endunless %}
 
 {% endif %}
@@ -32,7 +32,7 @@ layout: default
     <div class="col col-12 col-d-10 push-d-1 col-m-12 push-m-0">
       {% if page.parent %}
       <div class="article__btn">
-        <a href="{{ page.parent | prepend: site.baseurl }}" class="read-more"><ion-icon name="chevron-back-outline"></ion-icon> Indietro</a>
+        <a href="{{ page.parent | prepend: site.baseurl }}" class="read-more"><ion-icon name="chevron-back-outline"></ion-icon> Tutte le {{page.marca | capitalize}}</a>
       </div>  
       {% endif %}
       <div class="post-head">
@@ -61,66 +61,75 @@ layout: default
           {{ content }}
 
           <h2>Caratteristiche</h2>
-          
-          {% if page.year %}
-          <li>
-            Anno: {{ page.year | capitalize }}
-          </li>
-          {% endif %}
 
-          {% if page.prezzo %}
-          <li>
-            Prezzo: {{ page.prezzo }}€
-          </li>
-          {% endif %}
+          <!-- Specs Table -->
 
-          {% if page.forma %}
-          <li>
-            Forma: {{ page.forma | capitalize }}
-          </li>
-          {% endif %}
+          <table class="table-specs">
+            <tbody>
+              {% if page.anno %}
+              <tr>
+                <td>Anno:</th>
+                <td>{{ page.anno }}</th>
+              </tr>
+              {% endif %}
+              {% if page.prezzo %}
+              <tr>
+                <td>Prezzo:</td>
+                <td>{{ page.prezzo }}€</td>
+              </tr>
+              {% endif %}
+              {% if page.forma %}
+              <tr>
+                <td>Forma:</td>
+                <td>{{ page.forma | capitalize }}</td>
+              </tr>        
+              {% endif %}
+              {% if page.bilanciamento %}
+              <tr>
+                <td>Bilanciamento:</td>
+                <td>{{ page.bilanciamento | capitalize }}</td>
+              </tr>             
+              {% endif %}
+              {% if page.peso %}
+              <tr>
+                <td>Peso:</td>
+                <td>{{ page.peso | capitalize }}gr</td>
+              </tr>
+              {% endif %}
+              {% if page.livello %}
+              <tr>
+                <td>Livello di gioco consigliato:</td>
+                <td>{{ page.livello | capitalize }}</td>
+              </tr>  
+              {% endif %}
+              {% if page.materiale %}
+              <tr>
+                <td>Materiale:</td>
+                <td>{{ page.materiale | capitalize }}</td>
+              </tr>       
+              {% endif %}
+              {% if page.gomma %}
+              <tr>
+                <td>Gomma:</td>
+                <td>{{ page.gomma | capitalize }}</td>
+              </tr>
+              {% endif %}
+              {% if page.piatto %}
+              <tr>
+                <td>Superficie del piatto:</td>
+                <td>{{ page.superficie | capitalize }}</td>
+              </tr>                
+              {% endif %}
 
-          {% if page.bilanciamento %}
-          <li>
-            Bilanciamento: {{ page.bilanciamento | capitalize }}
-          </li>
-          {% endif %}
+            </tbody>
+            </table>
 
-          {% if page.peso %}
-          <li>
-            Peso: {{ page.peso | capitalize }}gr
-          </li>
-          {% endif %}
-
-          {% if page.livello %}
-          <li>
-            Livello di gioco consigliato: {{ page.livello | capitalize }}
-          </li>
-          {% endif %}
-
-          {% if page.materiale %}
-          <li>
-            Materiale: {{ page.materiale | capitalize }}
-          </li>
-          {% endif %}
-
-          {% if page.gomma %}
-          <li>
-            Gomma: {{ page.gomma | capitalize }}
-          </li>
-          {% endif %}
-
-          {% if page.superficie %}
-          <li>
-            Superficie del piatto: {{ page.superficie | capitalize }}
-          </li>
-          {% endif %}
 
           <br>
           {% if prevurl or nexturl %}
           <div class="article__btn">
-            {% if nexturl %}<a href="{{nexturl}}" class="read-more" style="float: left;"><ion-icon name="chevron-back-outline"></ion-icon> successiva</a>{% endif %}
-            {% if prevurl %}<a href="{{prevurl}}" class="read-more" style="float: right;">precedente <ion-icon name="chevron-forward-outline"></ion-icon></a>{% endif %}                    
+            {% if nexturl %}<a href="{{nexturl}}" class="read-more" style="float: left;"><ion-icon name="chevron-back-outline"></ion-icon> {{nextmodel}}</a>{% endif %}
+            {% if prevurl %}<a href="{{prevurl}}" class="read-more" style="float: right;">{{prevmodel}} <ion-icon name="chevron-forward-outline"></ion-icon></a>{% endif %}                    
           </div>
           {% endif %}
           <br>

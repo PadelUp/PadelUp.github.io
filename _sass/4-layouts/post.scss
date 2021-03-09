@@ -292,3 +292,18 @@
     background-color: darken($brand-color, 3%);
   }
 }
+
+.table-specs{
+  width: 100%;
+  text-align: left;
+  table-layout: fixed;
+  tr{
+    border: 0;
+  }
+  td{
+    border: 0;
+    &:first-child{
+      font-weight: $heading-font-weight;
+    }
+  }
+}
