@@ -3,7 +3,7 @@ id: bobo-vieri
 parent: /wiki/vip/calciatore/
 permalink: /wiki/vip/calciatore/bobo-vieri/
 image_dir: /images/wiki/vip/
-image: bobo-vieri.jpg
+image: bobo-vieri.webp
 title: Bobo Vieri
 job: calciatore
 nome: Bobo Vieri

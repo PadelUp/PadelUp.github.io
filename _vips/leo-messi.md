@@ -3,7 +3,7 @@ id: leo-messi
 parent: /wiki/vip/calciatore/
 permalink: /wiki/vip/calciatore/leo-messi/
 image_dir: /images/wiki/vip/
-image: leo-messi.jpg
+image: leo-messi.webp
 title: Leo Messi
 job: calciatore
 nome: Leo Messi

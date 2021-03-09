@@ -3,7 +3,7 @@ id: wilson-bela-elite
 parent: /wiki/racchette/wilson/
 permalink: /wiki/racchette/wilson/bela-elite/
 image_dir: /images/wiki/racchette/
-image: wilson-bela-elite.jpg
+image: wilson-bela-elite.webp
 title: Wilson Bela Elite
 brand: wilson
 model: Bela Elite

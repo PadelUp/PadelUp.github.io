@@ -3,7 +3,7 @@ id: rafael-nadal
 parent: /wiki/vip/tennista/
 permalink: /wiki/vip/tennista/rafael-nadal/
 image_dir: /images/wiki/vip/
-image: rafael-nadal.jpg
+image: rafael-nadal.webp
 title: Rafael Nadal
 job: tennista
 nome: Rafael Nadal

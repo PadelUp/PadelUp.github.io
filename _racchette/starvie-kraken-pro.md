@@ -3,7 +3,7 @@ id: starvie-kraken-pro
 parent: /wiki/racchette/starvie/
 permalink: /wiki/racchette/starvie/kraken-pro/
 image_dir: /images/wiki/racchette/
-image: starvie-kraken-pro.jpg
+image: starvie-kraken-pro.webp
 title: Starvie Kraken Pro
 brand: starvie
 model: Kraken Pro

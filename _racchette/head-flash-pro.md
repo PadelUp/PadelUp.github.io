@@ -3,7 +3,7 @@ id: head-flash-pro
 parent: /wiki/racchette/head/
 permalink: /wiki/racchette/head/flash-pro/
 image_dir: /images/wiki/racchette/
-image: head-flash-pro.jpg
+image: head-flash-pro.webp
 title: Head Flash Pro
 brand: head
 model: Flash Pro

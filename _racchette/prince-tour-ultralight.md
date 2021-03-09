@@ -3,7 +3,7 @@ id: prince-tour-ultralight
 parent: /wiki/racchette/prince/
 permalink: /wiki/racchette/prince/tour-ultralight/
 image_dir: /images/wiki/racchette/
-image: prince-tour-ultralight.jpg
+image: prince-tour-ultralight.webp
 title: Prince Tour Ultralight
 brand: prince
 model: Tour Ultralight

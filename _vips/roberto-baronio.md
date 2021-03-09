@@ -3,7 +3,7 @@ id: roberto-baronio
 parent: /wiki/vip/calciatore/
 permalink: /wiki/vip/calciatore/roberto-baronio/
 image_dir: /images/wiki/vip/
-image: roberto-baronio.jpg
+image: roberto-baronio.webp
 title: Roberto Baronio
 job: calciatore
 nome: Roberto Baronio

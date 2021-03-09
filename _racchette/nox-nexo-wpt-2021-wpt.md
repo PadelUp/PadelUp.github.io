@@ -3,7 +3,7 @@ id: nox-nexo-wpt-2021-wpt
 parent: /wiki/racchette/nox/
 permalink: /wiki/racchette/nox/nexo-wpt-2021-wpt/
 image_dir: /images/wiki/racchette/
-image: nox-nexo-wpt-2021-wpt.jpg
+image: nox-nexo-wpt-2021-wpt.webp
 title: Nox Nexo Wpt 2021 Wpt
 brand: nox
 model: Nexo Wpt 2021 Wpt

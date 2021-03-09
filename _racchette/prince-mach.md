@@ -3,7 +3,7 @@ id: prince-mach
 parent: /wiki/racchette/prince/
 permalink: /wiki/racchette/prince/mach/
 image_dir: /images/wiki/racchette/
-image: prince-mach.jpg
+image: prince-mach.webp
 title: Prince Mach
 brand: prince
 model: Mach

@@ -3,7 +3,7 @@ id: calciatore
 parent: /wiki/vip/
 permalink: /wiki/vip/calciatore/
 image_dir: /images/wiki/jobs/
-image: calciatore.jpg
+image: calciatore.webp
 title: Calciatori
 job: calciatore
 professione: calciatore

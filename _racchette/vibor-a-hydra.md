@@ -3,7 +3,7 @@ id: vibor-a-hydra
 parent: /wiki/racchette/vibor-a/
 permalink: /wiki/racchette/vibor-a/hydra/
 image_dir: /images/wiki/racchette/
-image: vibor-a-hydra.jpg
+image: vibor-a-hydra.webp
 title: Vibor-A Hydra
 brand: vibor-a
 model: Hydra

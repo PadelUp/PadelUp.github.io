@@ -3,7 +3,7 @@ id: dropshot-tiger-1.0
 parent: /wiki/racchette/dropshot/
 permalink: /wiki/racchette/dropshot/tiger-1.0/
 image_dir: /images/wiki/racchette/
-image: dropshot-tiger-1.0.jpg
+image: dropshot-tiger-1.0.webp
 title: Dropshot Tiger 1.0
 brand: dropshot
 model: Tiger 1.0

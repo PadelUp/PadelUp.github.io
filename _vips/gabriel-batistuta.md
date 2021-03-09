@@ -3,7 +3,7 @@ id: gabriel-batistuta
 parent: /wiki/vip/calciatore/
 permalink: /wiki/vip/calciatore/gabriel-batistuta/
 image_dir: /images/wiki/vip/
-image: gabriel-batistuta.jpg
+image: gabriel-batistuta.webp
 title: Gabriel Batistuta
 job: calciatore
 nome: Gabriel Batistuta

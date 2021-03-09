@@ -3,7 +3,7 @@ id: dropshot-explorer-pro-soft
 parent: /wiki/racchette/dropshot/
 permalink: /wiki/racchette/dropshot/explorer-pro-soft/
 image_dir: /images/wiki/racchette/
-image: dropshot-explorer-pro-soft.jpg
+image: dropshot-explorer-pro-soft.webp
 title: Dropshot Explorer Pro Soft
 brand: dropshot
 model: Explorer Pro Soft

@@ -3,7 +3,7 @@ id: nox-ml10-shotgun-luxury-series
 parent: /wiki/racchette/nox/
 permalink: /wiki/racchette/nox/ml10-shotgun-luxury-series/
 image_dir: /images/wiki/racchette/
-image: nox-ml10-shotgun-luxury-series.jpg
+image: nox-ml10-shotgun-luxury-series.webp
 title: Nox Ml10 Shotgun Luxury Series
 brand: nox
 model: Ml10 Shotgun Luxury Series

@@ -3,7 +3,7 @@ id: vibor-a-black-mamba-black-series-1k
 parent: /wiki/racchette/vibor-a/
 permalink: /wiki/racchette/vibor-a/black-mamba-black-series-1k/
 image_dir: /images/wiki/racchette/
-image: vibor-a-black-mamba-black-series-1k.jpg
+image: vibor-a-black-mamba-black-series-1k.webp
 title: Vibor-A Black Mamba Black Series 1K
 brand: vibor-a
 model: Black Mamba Black Series 1K

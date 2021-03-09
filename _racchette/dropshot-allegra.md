@@ -3,7 +3,7 @@ id: dropshot-allegra
 parent: /wiki/racchette/dropshot/
 permalink: /wiki/racchette/dropshot/allegra/
 image_dir: /images/wiki/racchette/
-image: dropshot-allegra.jpg
+image: dropshot-allegra.webp
 title: Dropshot Allegra
 brand: dropshot
 model: Allegra

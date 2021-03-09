@@ -3,7 +3,7 @@ id: babolat-technical-vertuo-2021
 parent: /wiki/racchette/babolat/
 permalink: /wiki/racchette/babolat/technical-vertuo-2021/
 image_dir: /images/wiki/racchette/
-image: babolat-technical-vertuo-2021.jpg
+image: babolat-technical-vertuo-2021.webp
 title: Babolat Technical Vertuo 2021
 brand: babolat
 model: Technical Vertuo 2021

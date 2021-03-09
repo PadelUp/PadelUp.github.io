@@ -3,7 +3,7 @@ id: raul
 parent: /wiki/vip/calciatore/
 permalink: /wiki/vip/calciatore/raul/
 image_dir: /images/wiki/vip/
-image: raul.jpg
+image: raul.webp
 title: Raul
 job: calciatore
 nome: Raul

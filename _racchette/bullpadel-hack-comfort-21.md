@@ -3,7 +3,7 @@ id: bullpadel-hack-comfort-21
 parent: /wiki/racchette/bullpadel/
 permalink: /wiki/racchette/bullpadel/hack-comfort-21/
 image_dir: /images/wiki/racchette/
-image: bullpadel-hack-comfort-21.jpg
+image: bullpadel-hack-comfort-21.webp
 title: Bullpadel Hack Comfort 21
 brand: bullpadel
 model: Hack Comfort 21

@@ -3,7 +3,7 @@ id: diletta-leotta
 parent: /wiki/vip/giornalista/
 permalink: /wiki/vip/giornalista/diletta-leotta/
 image_dir: /images/wiki/vip/
-image: diletta-leotta.jpg
+image: diletta-leotta.webp
 title: Diletta Leotta
 job: giornalista
 nome: Diletta Leotta

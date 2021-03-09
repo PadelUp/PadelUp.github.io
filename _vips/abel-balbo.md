@@ -3,7 +3,7 @@ id: abel-balbo
 parent: /wiki/vip/calciatore/
 permalink: /wiki/vip/calciatore/abel-balbo/
 image_dir: /images/wiki/vip/
-image: abel-balbo.jpg
+image: abel-balbo.webp
 title: Abel Balbo
 job: calciatore
 nome: Abel Balbo

@@ -3,7 +3,7 @@ id: bullpadel-shake
 parent: /wiki/racchette/bullpadel/
 permalink: /wiki/racchette/bullpadel/shake/
 image_dir: /images/wiki/racchette/
-image: bullpadel-shake.jpg
+image: bullpadel-shake.webp
 title: Bullpadel Shake
 brand: bullpadel
 model: Shake

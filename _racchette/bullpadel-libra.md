@@ -3,7 +3,7 @@ id: bullpadel-libra
 parent: /wiki/racchette/bullpadel/
 permalink: /wiki/racchette/bullpadel/libra/
 image_dir: /images/wiki/racchette/
-image: bullpadel-libra.jpg
+image: bullpadel-libra.webp
 title: Bullpadel Libra
 brand: bullpadel
 model: Libra

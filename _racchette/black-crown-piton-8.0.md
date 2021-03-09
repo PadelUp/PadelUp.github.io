@@ -3,7 +3,7 @@ id: black-crown-piton-8.0
 parent: /wiki/racchette/black-crown/
 permalink: /wiki/racchette/black-crown/piton-8.0/
 image_dir: /images/wiki/racchette/
-image: black-crown-piton-8.0.jpg
+image: black-crown-piton-8.0.webp
 title: Black Crown Piton 8.0
 brand: black-crown
 model: Piton 8.0

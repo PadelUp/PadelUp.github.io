@@ -3,7 +3,7 @@ id: didier-deschamp
 parent: /wiki/vip/allenatore/
 permalink: /wiki/vip/allenatore/didier-deschamp/
 image_dir: /images/wiki/vip/
-image: didier-deschamp.jpg
+image: didier-deschamp.webp
 title: Didier Deschamp
 job: allenatore
 nome: Didier Deschamp

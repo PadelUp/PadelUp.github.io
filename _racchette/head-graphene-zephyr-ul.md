@@ -3,7 +3,7 @@ id: head-graphene-zephyr-ul
 parent: /wiki/racchette/head/
 permalink: /wiki/racchette/head/graphene-zephyr-ul/
 image_dir: /images/wiki/racchette/
-image: head-graphene-zephyr-ul.jpg
+image: head-graphene-zephyr-ul.webp
 title: Head Graphene Zephyr Ul
 brand: head
 model: Graphene Zephyr Ul

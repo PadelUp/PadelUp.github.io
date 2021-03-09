@@ -3,7 +3,7 @@ id: starvie-kraken
 parent: /wiki/racchette/starvie/
 permalink: /wiki/racchette/starvie/kraken/
 image_dir: /images/wiki/racchette/
-image: starvie-kraken.jpg
+image: starvie-kraken.webp
 title: Starvie Kraken
 brand: starvie
 model: Kraken

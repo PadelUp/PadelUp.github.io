@@ -3,7 +3,7 @@ id: cristiano-ronaldo
 parent: /wiki/vip/calciatore/
 permalink: /wiki/vip/calciatore/cristiano-ronaldo/
 image_dir: /images/wiki/vip/
-image: cristiano-ronaldo.jpg
+image: cristiano-ronaldo.webp
 title: Cristiano Ronaldo
 job: calciatore
 nome: Cristiano Ronaldo

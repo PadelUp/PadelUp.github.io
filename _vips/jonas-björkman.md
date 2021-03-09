@@ -3,7 +3,7 @@ id: jonas-björkman
 parent: /wiki/vip/tennista/
 permalink: /wiki/vip/tennista/jonas-björkman/
 image_dir: /images/wiki/vip/
-image: jonas-björkman.jpg
+image: jonas-björkman.webp
 title: Jonas Björkman
 job: tennista
 nome: Jonas Björkman

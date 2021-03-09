@@ -3,7 +3,7 @@ id: nox-nerbo-2021-wpt
 parent: /wiki/racchette/nox/
 permalink: /wiki/racchette/nox/nerbo-2021-wpt/
 image_dir: /images/wiki/racchette/
-image: nox-nerbo-2021-wpt.jpg
+image: nox-nerbo-2021-wpt.webp
 title: Nox Nerbo 2021 Wpt
 brand: nox
 model: Nerbo 2021 Wpt

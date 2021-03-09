@@ -3,7 +3,7 @@ id: nox-ml10-pro-cup-balck-edition-arena
 parent: /wiki/racchette/nox/
 permalink: /wiki/racchette/nox/ml10-pro-cup-balck-edition-arena/
 image_dir: /images/wiki/racchette/
-image: nox-ml10-pro-cup-balck-edition-arena.jpg
+image: nox-ml10-pro-cup-balck-edition-arena.webp
 title: Nox Ml10 Pro Cup Balck Edition Arena
 brand: nox
 model: Ml10 Pro Cup Balck Edition Arena

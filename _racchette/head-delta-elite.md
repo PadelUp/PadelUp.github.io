@@ -3,7 +3,7 @@ id: head-delta-elite
 parent: /wiki/racchette/head/
 permalink: /wiki/racchette/head/delta-elite/
 image_dir: /images/wiki/racchette/
-image: head-delta-elite.jpg
+image: head-delta-elite.webp
 title: Head Delta Elite
 brand: head
 model: Delta Elite

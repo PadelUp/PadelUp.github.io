@@ -3,7 +3,7 @@ id: prince-armor
 parent: /wiki/racchette/prince/
 permalink: /wiki/racchette/prince/armor/
 image_dir: /images/wiki/racchette/
-image: prince-armor.jpg
+image: prince-armor.webp
 title: Prince Armor
 brand: prince
 model: Armor

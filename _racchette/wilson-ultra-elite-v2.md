@@ -3,7 +3,7 @@ id: wilson-ultra-elite-v2
 parent: /wiki/racchette/wilson/
 permalink: /wiki/racchette/wilson/ultra-elite-v2/
 image_dir: /images/wiki/racchette/
-image: wilson-ultra-elite-v2.jpg
+image: wilson-ultra-elite-v2.webp
 title: Wilson Ultra Elite V2
 brand: wilson
 model: Ultra Elite V2

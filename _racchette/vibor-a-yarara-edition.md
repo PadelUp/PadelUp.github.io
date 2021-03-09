@@ -3,7 +3,7 @@ id: vibor-a-yarara-edition
 parent: /wiki/racchette/vibor-a/
 permalink: /wiki/racchette/vibor-a/yarara-edition/
 image_dir: /images/wiki/racchette/
-image: vibor-a-yarara-edition.jpg
+image: vibor-a-yarara-edition.webp
 title: Vibor-A Yarara Edition
 brand: vibor-a
 model: Yarara Edition

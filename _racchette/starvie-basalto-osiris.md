@@ -3,7 +3,7 @@ id: starvie-basalto-osiris
 parent: /wiki/racchette/starvie/
 permalink: /wiki/racchette/starvie/basalto-osiris/
 image_dir: /images/wiki/racchette/
-image: starvie-basalto-osiris.jpg
+image: starvie-basalto-osiris.webp
 title: Starvie Basalto Osiris
 brand: starvie
 model: Basalto Osiris

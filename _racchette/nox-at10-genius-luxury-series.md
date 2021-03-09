@@ -3,7 +3,7 @@ id: nox-at10-genius-luxury-series
 parent: /wiki/racchette/nox/
 permalink: /wiki/racchette/nox/at10-genius-luxury-series/
 image_dir: /images/wiki/racchette/
-image: nox-at10-genius-luxury-series.jpg
+image: nox-at10-genius-luxury-series.webp
 title: Nox At10 Genius Luxury Series
 brand: nox
 model: At10 Genius Luxury Series

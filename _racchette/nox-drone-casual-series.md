@@ -3,7 +3,7 @@ id: nox-drone-casual-series
 parent: /wiki/racchette/nox/
 permalink: /wiki/racchette/nox/drone-casual-series/
 image_dir: /images/wiki/racchette/
-image: nox-drone-casual-series.jpg
+image: nox-drone-casual-series.webp
 title: Nox Drone Casual Series
 brand: nox
 model: Drone Casual Series

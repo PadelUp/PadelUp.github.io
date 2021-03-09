@@ -3,7 +3,7 @@ id: starvie-titania-kepler
 parent: /wiki/racchette/starvie/
 permalink: /wiki/racchette/starvie/titania-kepler/
 image_dir: /images/wiki/racchette/
-image: starvie-titania-kepler.jpg
+image: starvie-titania-kepler.webp
 title: Starvie Titania Kepler
 brand: starvie
 model: Titania Kepler

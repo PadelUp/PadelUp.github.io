@@ -3,7 +3,7 @@ id: johan-cruijff
 parent: /wiki/vip/calciatore/
 permalink: /wiki/vip/calciatore/johan-cruijff/
 image_dir: /images/wiki/vip/
-image: johan-cruijff.jpg
+image: johan-cruijff.webp
 title: Johan Cruijff
 job: calciatore
 nome: Johan Cruijff

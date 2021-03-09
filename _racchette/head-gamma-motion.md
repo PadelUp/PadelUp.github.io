@@ -3,7 +3,7 @@ id: head-gamma-motion
 parent: /wiki/racchette/head/
 permalink: /wiki/racchette/head/gamma-motion/
 image_dir: /images/wiki/racchette/
-image: head-gamma-motion.jpg
+image: head-gamma-motion.webp
 title: Head Gamma Motion
 brand: head
 model: Gamma Motion

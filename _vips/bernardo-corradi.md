@@ -3,7 +3,7 @@ id: bernardo-corradi
 parent: /wiki/vip/calciatore/
 permalink: /wiki/vip/calciatore/bernardo-corradi/
 image_dir: /images/wiki/vip/
-image: bernardo-corradi.jpg
+image: bernardo-corradi.webp
 title: Bernardo Corradi
 job: calciatore
 nome: Bernardo Corradi

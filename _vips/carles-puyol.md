@@ -3,7 +3,7 @@ id: carles-puyol
 parent: /wiki/vip/calciatore/
 permalink: /wiki/vip/calciatore/carles-puyol/
 image_dir: /images/wiki/vip/
-image: carles-puyol.jpg
+image: carles-puyol.webp
 title: Carles Puyol
 job: calciatore
 nome: Carles Puyol

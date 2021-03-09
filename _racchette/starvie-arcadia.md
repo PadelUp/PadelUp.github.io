@@ -3,7 +3,7 @@ id: starvie-arcadia
 parent: /wiki/racchette/starvie/
 permalink: /wiki/racchette/starvie/arcadia/
 image_dir: /images/wiki/racchette/
-image: starvie-arcadia.jpg
+image: starvie-arcadia.webp
 title: Starvie Arcadia
 brand: starvie
 model: Arcadia

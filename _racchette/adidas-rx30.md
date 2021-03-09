@@ -3,7 +3,7 @@ id: adidas-rx30
 parent: /wiki/racchette/adidas/
 permalink: /wiki/racchette/adidas/rx30/
 image_dir: /images/wiki/racchette/
-image: adidas-rx30.jpg
+image: adidas-rx30.webp
 title: Adidas Rx30
 brand: adidas
 model: Rx30

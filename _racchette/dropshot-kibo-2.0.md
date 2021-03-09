@@ -3,7 +3,7 @@ id: dropshot-kibo-2.0
 parent: /wiki/racchette/dropshot/
 permalink: /wiki/racchette/dropshot/kibo-2.0/
 image_dir: /images/wiki/racchette/
-image: dropshot-kibo-2.0.jpg
+image: dropshot-kibo-2.0.webp
 title: Dropshot Kibo 2.0
 brand: dropshot
 model: Kibo 2.0

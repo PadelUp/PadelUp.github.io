@@ -3,7 +3,7 @@ id: dropshot-x-celerator
 parent: /wiki/racchette/dropshot/
 permalink: /wiki/racchette/dropshot/x-celerator/
 image_dir: /images/wiki/racchette/
-image: dropshot-x-celerator.jpg
+image: dropshot-x-celerator.webp
 title: Dropshot X-Celerator
 brand: dropshot
 model: X-Celerator

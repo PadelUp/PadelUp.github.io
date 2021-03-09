@@ -3,7 +3,7 @@ id: starvie-vesta
 parent: /wiki/racchette/starvie/
 permalink: /wiki/racchette/starvie/vesta/
 image_dir: /images/wiki/racchette/
-image: starvie-vesta.jpg
+image: starvie-vesta.webp
 title: Starvie Vesta
 brand: starvie
 model: Vesta

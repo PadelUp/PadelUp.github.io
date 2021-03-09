@@ -3,7 +3,7 @@ id: zlatan-ibraimovic
 parent: /wiki/vip/calciatore/
 permalink: /wiki/vip/calciatore/zlatan-ibraimovic/
 image_dir: /images/wiki/vip/
-image: zlatan-ibraimovic.jpg
+image: zlatan-ibraimovic.webp
 title: Zlatan Ibraimovic
 job: calciatore
 nome: Zlatan Ibraimovic

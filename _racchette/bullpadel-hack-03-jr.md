@@ -3,7 +3,7 @@ id: bullpadel-hack-03-jr
 parent: /wiki/racchette/bullpadel/
 permalink: /wiki/racchette/bullpadel/hack-03-jr/
 image_dir: /images/wiki/racchette/
-image: bullpadel-hack-03-jr.jpg
+image: bullpadel-hack-03-jr.webp
 title: Bullpadel Hack 03 Jr
 brand: bullpadel
 model: Hack 03 Jr

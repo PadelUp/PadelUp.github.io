@@ -3,7 +3,7 @@ id: adidas-essnova-carbon-3.0
 parent: /wiki/racchette/adidas/
 permalink: /wiki/racchette/adidas/essnova-carbon-3.0/
 image_dir: /images/wiki/racchette/
-image: adidas-essnova-carbon-3.0.jpg
+image: adidas-essnova-carbon-3.0.webp
 title: Adidas Essnova Carbon 3.0
 brand: adidas
 model: Essnova Carbon 3.0

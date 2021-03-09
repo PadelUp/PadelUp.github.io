@@ -3,7 +3,7 @@ id: prince-harrier
 parent: /wiki/racchette/prince/
 permalink: /wiki/racchette/prince/harrier/
 image_dir: /images/wiki/racchette/
-image: prince-harrier.jpg
+image: prince-harrier.webp
 title: Prince Harrier
 brand: prince
 model: Harrier

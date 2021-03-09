@@ -3,7 +3,7 @@ id: adidas-adipower-light-3.0
 parent: /wiki/racchette/adidas/
 permalink: /wiki/racchette/adidas/adipower-light-3.0/
 image_dir: /images/wiki/racchette/
-image: adidas-adipower-light-3.0.jpg
+image: adidas-adipower-light-3.0.webp
 title: Adidas Adipower Light 3.0
 brand: adidas
 model: Adipower Light 3.0

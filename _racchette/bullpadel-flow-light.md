@@ -3,7 +3,7 @@ id: bullpadel-flow-light
 parent: /wiki/racchette/bullpadel/
 permalink: /wiki/racchette/bullpadel/flow-light/
 image_dir: /images/wiki/racchette/
-image: bullpadel-flow-light.jpg
+image: bullpadel-flow-light.webp
 title: Bullpadel Flow Light
 brand: bullpadel
 model: Flow Light

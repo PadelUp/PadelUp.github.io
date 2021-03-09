@@ -3,7 +3,7 @@ id: roberto-mancini
 parent: /wiki/vip/allenatore/
 permalink: /wiki/vip/allenatore/roberto-mancini/
 image_dir: /images/wiki/vip/
-image: roberto-mancini.jpg
+image: roberto-mancini.webp
 title: Roberto Mancini
 job: allenatore
 nome: Roberto Mancini

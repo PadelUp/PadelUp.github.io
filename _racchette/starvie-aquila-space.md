@@ -3,7 +3,7 @@ id: starvie-aquila-space
 parent: /wiki/racchette/starvie/
 permalink: /wiki/racchette/starvie/aquila-space/
 image_dir: /images/wiki/racchette/
-image: starvie-aquila-space.jpg
+image: starvie-aquila-space.webp
 title: Starvie Aquila Space
 brand: starvie
 model: Aquila Space

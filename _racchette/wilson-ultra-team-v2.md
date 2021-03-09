@@ -3,7 +3,7 @@ id: wilson-ultra-team-v2
 parent: /wiki/racchette/wilson/
 permalink: /wiki/racchette/wilson/ultra-team-v2/
 image_dir: /images/wiki/racchette/
-image: wilson-ultra-team-v2.jpg
+image: wilson-ultra-team-v2.webp
 title: Wilson Ultra Team V2
 brand: wilson
 model: Ultra Team V2

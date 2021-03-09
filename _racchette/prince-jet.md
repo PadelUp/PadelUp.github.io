@@ -3,7 +3,7 @@ id: prince-jet
 parent: /wiki/racchette/prince/
 permalink: /wiki/racchette/prince/jet/
 image_dir: /images/wiki/racchette/
-image: prince-jet.jpg
+image: prince-jet.webp
 title: Prince Jet
 brand: prince
 model: Jet

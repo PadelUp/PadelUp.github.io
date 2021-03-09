@@ -3,7 +3,7 @@ id: dropshot-premium-1.0
 parent: /wiki/racchette/dropshot/
 permalink: /wiki/racchette/dropshot/premium-1.0/
 image_dir: /images/wiki/racchette/
-image: dropshot-premium-1.0.jpg
+image: dropshot-premium-1.0.webp
 title: Dropshot Premium 1.0
 brand: dropshot
 model: Premium 1.0

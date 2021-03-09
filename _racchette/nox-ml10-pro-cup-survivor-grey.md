@@ -3,7 +3,7 @@ id: nox-ml10-pro-cup-survivor-grey
 parent: /wiki/racchette/nox/
 permalink: /wiki/racchette/nox/ml10-pro-cup-survivor-grey/
 image_dir: /images/wiki/racchette/
-image: nox-ml10-pro-cup-survivor-grey.jpg
+image: nox-ml10-pro-cup-survivor-grey.webp
 title: Nox Ml10 Pro Cup Survivor Grey
 brand: nox
 model: Ml10 Pro Cup Survivor Grey

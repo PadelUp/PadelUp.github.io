@@ -3,7 +3,7 @@ id: vibor-a-lethal-hybrid
 parent: /wiki/racchette/vibor-a/
 permalink: /wiki/racchette/vibor-a/lethal-hybrid/
 image_dir: /images/wiki/racchette/
-image: vibor-a-lethal-hybrid.jpg
+image: vibor-a-lethal-hybrid.webp
 title: Vibor-A Lethal Hybrid
 brand: vibor-a
 model: Lethal Hybrid

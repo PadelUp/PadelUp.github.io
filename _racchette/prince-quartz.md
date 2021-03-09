@@ -3,7 +3,7 @@ id: prince-quartz
 parent: /wiki/racchette/prince/
 permalink: /wiki/racchette/prince/quartz/
 image_dir: /images/wiki/racchette/
-image: prince-quartz.jpg
+image: prince-quartz.webp
 title: Prince Quartz
 brand: prince
 model: Quartz

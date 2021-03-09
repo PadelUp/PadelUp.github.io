@@ -3,7 +3,7 @@ id: black-crown-piton-9.0-soft
 parent: /wiki/racchette/black-crown/
 permalink: /wiki/racchette/black-crown/piton-9.0-soft/
 image_dir: /images/wiki/racchette/
-image: black-crown-piton-9.0-soft.jpg
+image: black-crown-piton-9.0-soft.webp
 title: Black Crown Piton 9.0 Soft
 brand: black-crown
 model: Piton 9.0 Soft

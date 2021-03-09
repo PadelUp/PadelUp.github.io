@@ -3,7 +3,7 @@ id: bullpadel-bp10-evo
 parent: /wiki/racchette/bullpadel/
 permalink: /wiki/racchette/bullpadel/bp10-evo/
 image_dir: /images/wiki/racchette/
-image: bullpadel-bp10-evo.jpg
+image: bullpadel-bp10-evo.webp
 title: Bullpadel Bp10 Evo
 brand: bullpadel
 model: Bp10 Evo

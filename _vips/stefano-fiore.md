@@ -3,7 +3,7 @@ id: stefano-fiore
 parent: /wiki/vip/calciatore/
 permalink: /wiki/vip/calciatore/stefano-fiore/
 image_dir: /images/wiki/vip/
-image: stefano-fiore.jpg
+image: stefano-fiore.webp
 title: Stefano Fiore
 job: calciatore
 nome: Stefano Fiore

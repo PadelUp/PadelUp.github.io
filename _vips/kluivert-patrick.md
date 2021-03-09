@@ -3,7 +3,7 @@ id: kluivert-patrick
 parent: /wiki/vip/calciatore/
 permalink: /wiki/vip/calciatore/kluivert-patrick/
 image_dir: /images/wiki/vip/
-image: kluivert-patrick.jpg
+image: kluivert-patrick.webp
 title: Kluivert Patrick
 job: calciatore
 nome: Kluivert Patrick

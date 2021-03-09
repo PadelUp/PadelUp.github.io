@@ -3,7 +3,7 @@ id: nox-equation-lady-wpt-2020
 parent: /wiki/racchette/nox/
 permalink: /wiki/racchette/nox/equation-lady-wpt-2020/
 image_dir: /images/wiki/racchette/
-image: nox-equation-lady-wpt-2020.jpg
+image: nox-equation-lady-wpt-2020.webp
 title: Nox Equation Lady Wpt 2020
 brand: nox
 model: Equation Lady Wpt 2020

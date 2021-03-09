@@ -3,7 +3,7 @@ id: adidas-rx10
 parent: /wiki/racchette/adidas/
 permalink: /wiki/racchette/adidas/rx10/
 image_dir: /images/wiki/racchette/
-image: adidas-rx10.jpg
+image: adidas-rx10.webp
 title: Adidas Rx10
 brand: adidas
 model: Rx10

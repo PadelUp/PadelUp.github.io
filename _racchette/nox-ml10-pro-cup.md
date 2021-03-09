@@ -3,7 +3,7 @@ id: nox-ml10-pro-cup
 parent: /wiki/racchette/nox/
 permalink: /wiki/racchette/nox/ml10-pro-cup/
 image_dir: /images/wiki/racchette/
-image: nox-ml10-pro-cup.jpg
+image: nox-ml10-pro-cup.webp
 title: Nox Ml10 Pro Cup
 brand: nox
 model: Ml10 Pro Cup

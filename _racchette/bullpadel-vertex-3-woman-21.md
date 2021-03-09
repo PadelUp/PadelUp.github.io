@@ -3,7 +3,7 @@ id: bullpadel-vertex-3-woman-21
 parent: /wiki/racchette/bullpadel/
 permalink: /wiki/racchette/bullpadel/vertex-3-woman-21/
 image_dir: /images/wiki/racchette/
-image: bullpadel-vertex-3-woman-21.jpg
+image: bullpadel-vertex-3-woman-21.webp
 title: Bullpadel Vertex 3 Woman 21
 brand: bullpadel
 model: Vertex 3 Woman 21

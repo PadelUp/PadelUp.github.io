@@ -3,7 +3,7 @@ id: prince-falcon
 parent: /wiki/racchette/prince/
 permalink: /wiki/racchette/prince/falcon/
 image_dir: /images/wiki/racchette/
-image: prince-falcon.jpg
+image: prince-falcon.webp
 title: Prince Falcon
 brand: prince
 model: Falcon

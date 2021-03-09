@@ -3,7 +3,7 @@ id: nox-ml10-bahia-luxury-series
 parent: /wiki/racchette/nox/
 permalink: /wiki/racchette/nox/ml10-bahia-luxury-series/
 image_dir: /images/wiki/racchette/
-image: nox-ml10-bahia-luxury-series.jpg
+image: nox-ml10-bahia-luxury-series.webp
 title: Nox Ml10 Bahia Luxury Series
 brand: nox
 model: Ml10 Bahia Luxury Series

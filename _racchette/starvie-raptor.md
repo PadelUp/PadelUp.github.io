@@ -3,7 +3,7 @@ id: starvie-raptor
 parent: /wiki/racchette/starvie/
 permalink: /wiki/racchette/starvie/raptor/
 image_dir: /images/wiki/racchette/
-image: starvie-raptor.jpg
+image: starvie-raptor.webp
 title: Starvie Raptor
 brand: starvie
 model: Raptor

@@ -3,7 +3,7 @@ id: prince-phantom-v2
 parent: /wiki/racchette/prince/
 permalink: /wiki/racchette/prince/phantom-v2/
 image_dir: /images/wiki/racchette/
-image: prince-phantom-v2.jpg
+image: prince-phantom-v2.webp
 title: Prince Phantom V2
 brand: prince
 model: Phantom V2

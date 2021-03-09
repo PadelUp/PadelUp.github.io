@@ -3,7 +3,7 @@ id: prince-tour-di-legend
 parent: /wiki/racchette/prince/
 permalink: /wiki/racchette/prince/tour-di-legend/
 image_dir: /images/wiki/racchette/
-image: prince-tour-di-legend.jpg
+image: prince-tour-di-legend.webp
 title: Prince Tour Di Legend
 brand: prince
 model: Tour Di Legend

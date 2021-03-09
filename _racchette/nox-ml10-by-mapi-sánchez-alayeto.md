@@ -3,7 +3,7 @@ id: nox-ml10-by-mapi-sánchez-alayeto
 parent: /wiki/racchette/nox/
 permalink: /wiki/racchette/nox/ml10-by-mapi-sánchez-alayeto/
 image_dir: /images/wiki/racchette/
-image: nox-ml10-by-mapi-sánchez-alayeto.jpg
+image: nox-ml10-by-mapi-sánchez-alayeto.webp
 title: Nox Ml10 By Mapi Sánchez Alayeto
 brand: nox
 model: Ml10 By Mapi Sánchez Alayeto

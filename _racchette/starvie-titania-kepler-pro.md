@@ -3,7 +3,7 @@ id: starvie-titania-kepler-pro
 parent: /wiki/racchette/starvie/
 permalink: /wiki/racchette/starvie/titania-kepler-pro/
 image_dir: /images/wiki/racchette/
-image: starvie-titania-kepler-pro.jpg
+image: starvie-titania-kepler-pro.webp
 title: Starvie Titania Kepler Pro
 brand: starvie
 model: Titania Kepler Pro

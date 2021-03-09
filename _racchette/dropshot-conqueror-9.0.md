@@ -3,7 +3,7 @@ id: dropshot-conqueror-9.0
 parent: /wiki/racchette/dropshot/
 permalink: /wiki/racchette/dropshot/conqueror-9.0/
 image_dir: /images/wiki/racchette/
-image: dropshot-conqueror-9.0.jpg
+image: dropshot-conqueror-9.0.webp
 title: Dropshot Conqueror 9.0
 brand: dropshot
 model: Conqueror 9.0

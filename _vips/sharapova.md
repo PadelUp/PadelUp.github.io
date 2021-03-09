@@ -3,7 +3,7 @@ id: sharapova
 parent: /wiki/vip/tennista/
 permalink: /wiki/vip/tennista/sharapova/
 image_dir: /images/wiki/vip/
-image: sharapova.jpg
+image: sharapova.webp
 title: Sharapova
 job: tennista
 nome: Sharapova

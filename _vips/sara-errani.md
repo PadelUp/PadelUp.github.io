@@ -3,7 +3,7 @@ id: sara-errani
 parent: /wiki/vip/tennista/
 permalink: /wiki/vip/tennista/sara-errani/
 image_dir: /images/wiki/vip/
-image: sara-errani.jpg
+image: sara-errani.webp
 title: Sara Errani
 job: tennista
 nome: Sara Errani
