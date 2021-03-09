@@ -7,4 +7,5 @@ image: showman.webp
 title: Showmans
 job: showman
 professione: showman
+description: Showman che giocano a Padel
 ---

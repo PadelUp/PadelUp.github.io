@@ -7,4 +7,5 @@ image: principe.webp
 title: Principi
 job: principe
 professione: principe
+description: Principi che giocano a Padel
 ---

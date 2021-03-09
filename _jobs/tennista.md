@@ -7,4 +7,5 @@ image: tennista.webp
 title: Tennisti
 job: tennista
 professione: tennista
+description: Tennisti che giocano a Padel
 ---

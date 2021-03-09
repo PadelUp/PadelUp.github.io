@@ -7,4 +7,5 @@ image: pilota.webp
 title: Piloti
 job: pilota
 professione: pilota
+description: Piloti che giocano a Padel
 ---

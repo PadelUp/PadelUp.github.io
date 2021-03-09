@@ -7,4 +7,5 @@ image: giornalista.webp
 title: Giornalisti
 job: giornalista
 professione: giornalista
+description: Giornalisti che giocano a Padel
 ---

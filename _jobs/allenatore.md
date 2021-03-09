@@ -7,4 +7,5 @@ image: allenatore.webp
 title: Allenatori
 job: allenatore
 professione: allenatore
+description: Allenatori che giocano a Padel
 ---
